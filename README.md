@@ -18,24 +18,11 @@ Machine Learning Models: scikit-learn <br>
 Gradio for interface <br>
 Pandas for data analys
 
+For more details about this project infrastructure please read [Desgin Manual](Design.md).
+
 ## Setup :gear:
 
-- Clone repository
-- Install python3.12 (App is not compatible with python3.14)
-- Create an virtual envinroment
-- Activate envinroment
-
-```bash
-git clone https://github.com/PredescuSebastianIon/WorldCup-Predictor-2026.git
-# Install python3.12
-cd WorldCup-Predictor-2026
-python -m venv .worldcup
-source .worldcup/bin/activate
-```
-
-## Build and Run
-
-Go in `src` folder and run `python main.py`.
+Please read [Dev Manual](DeveloperSetup.md) for detailed intructions.
 
 ## License
 

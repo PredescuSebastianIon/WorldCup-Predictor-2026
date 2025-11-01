@@ -1,0 +1,4 @@
+# keep project structure
+data/
+src/
+tests/

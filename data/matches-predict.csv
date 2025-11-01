@@ -1,0 +1,105 @@
+,home,score,away,year
+0,Mexico,Match 1,A2,2026
+1,A3,Match 2,A4,2026
+2,A4,Match 25,A2,2026
+3,Mexico,Match 28,A3,2026
+4,A4,Match 53,Mexico,2026
+5,A2,Match 54,A3,2026
+6,Canada,Match 3,B2,2026
+7,B3,Match 8,B4,2026
+8,B4,Match 26,B2,2026
+9,Canada,Match 27,B3,2026
+10,B4,Match 51,Canada,2026
+11,B2,Match 52,B3,2026
+12,,Match 5,,2026
+13,,Match 7,,2026
+14,,Match 29,,2026
+15,,Match 30,,2026
+16,,Match 49,,2026
+17,,Match 50,,2026
+18,United States,Match 4,D2,2026
+19,D3,Match 6,D4,2026
+20,D4,Match 31,D2,2026
+21,United States,Match 32,D3,2026
+22,D4,Match 59,United States,2026
+23,D2,Match 60,D3,2026
+24,,Match 9,,2026
+25,,Match 10,,2026
+26,,Match 33,,2026
+27,,Match 34,,2026
+28,,Match 55,,2026
+29,,Match 56,,2026
+30,,Match 11,,2026
+31,,Match 12,,2026
+32,,Match 35,,2026
+33,,Match 36,,2026
+34,,Match 57,,2026
+35,,Match 58,,2026
+36,,Match 15,,2026
+37,,Match 16,,2026
+38,,Match 39,,2026
+39,,Match 40,,2026
+40,,Match 63,,2026
+41,,Match 64,,2026
+42,,Match 13,,2026
+43,,Match 14,,2026
+44,,Match 37,,2026
+45,,Match 38,,2026
+46,,Match 65,,2026
+47,,Match 66,,2026
+48,,Match 17,,2026
+49,,Match 18,,2026
+50,,Match 41,,2026
+51,,Match 42,,2026
+52,,Match 61,,2026
+53,,Match 62,,2026
+54,,Match 19,,2026
+55,,Match 20,,2026
+56,,Match 43,,2026
+57,,Match 44,,2026
+58,,Match 69,,2026
+59,,Match 70,,2026
+60,,Match 23,,2026
+61,,Match 24,,2026
+62,,Match 47,,2026
+63,,Match 48,,2026
+64,,Match 71,,2026
+65,,Match 72,,2026
+66,,Match 21,,2026
+67,,Match 22,,2026
+68,,Match 45,,2026
+69,,Match 46,,2026
+70,,Match 67,,2026
+71,,Match 68,,2026
+72,Runner-up Group A,Match 73,Runner-up Group B,2026
+73,Winner Group E,Match 74,3rd Group A/B/C/D/F,2026
+74,Winner Group F,Match 75,Runner-up Group C,2026
+75,Winner Group C,Match 76,Runner-up Group F,2026
+76,Winner Group I,Match 77,3rd Group C/D/F/G/H,2026
+77,Runner-up Group E,Match 78,Runner-up Group I,2026
+78,Winner Group A,Match 79,3rd Group C/E/F/H/I,2026
+79,Winner Group L,Match 80,3rd Group E/H/I/J/K,2026
+80,Winner Group D,Match 81,3rd Group B/E/F/I/J,2026
+81,Winner Group G,Match 82,3rd Group A/E/H/I/J,2026
+82,Runner-up Group K,Match 83,Runner-up Group L,2026
+83,Winner Group H,Match 84,Runner-up Group J,2026
+84,Winner Group B,Match 85,3rd Group E/F/G/I/J,2026
+85,Winner Group J,Match 86,Runner-up Group H,2026
+86,Winner Group K,Match 87,3rd Group D/E/I/J/L,2026
+87,Runner-up Group D,Match 88,Runner-up Group G,2026
+88,Winner Match 74,Match 89,Winner Match 77,2026
+89,Winner Match 73,Match 90,Winner Match 75,2026
+90,Winner Match 76,Match 91,Winner Match 78,2026
+91,Winner Match 79,Match 92,Winner Match 80,2026
+92,Winner Match 83,Match 93,Winner Match 84,2026
+93,Winner Match 81,Match 94,Winner Match 82,2026
+94,Winner Match 86,Match 95,Winner Match 88,2026
+95,Winner Match 85,Match 96,Winner Match 87,2026
+96,Winner Match 89,Match 97,Winner Match 90,2026
+97,Winner Match 93,Match 98,Winner Match 94,2026
+98,Winner Match 91,Match 99,Winner Match 92,2026
+99,Winner Match 95,Match 100,Winner Match 96,2026
+100,Winner Match 97,Match 101,Winner Match 98,2026
+101,Winner Match 99,Match 102,Winner Match 100,2026
+102,Loser Match 101,Match 103,Loser Match 102,2026
+103,Winner Match 101,Match 104,Winner Match 102,2026

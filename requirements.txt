@@ -3,3 +3,6 @@ numpy
 scikit-learn
 gradio
 plotly
+bs4
+lxml
+invoke

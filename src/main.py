@@ -2,7 +2,8 @@ import pandas as pd
 import os
 import gradio as gr
 from countries import countries
-from database import select_winner, update_procentage 
+from database import select_winner, update_procentage, setup_db
+from database import winner_predictions_db, winner_predictions_cursor
 import plotly.express as px
 
 def create_pie_chart(panda_data):
@@ -16,16 +17,17 @@ def create_pie_chart(panda_data):
     )
 
 def get_and_create_pie():
-    panda_data = update_procentage()
+    panda_data = update_procentage(winner_predictions_cursor)
     return create_pie_chart(panda_data)
 
 def select_and_update(user, team):
     if user and team:
-        select_winner(user, team)
+        select_winner(user, team, winner_predictions_cursor, winner_predictions_db)
     return get_and_create_pie()
 
 # Gradio App
 with gr.Blocks() as page:
+
     gr.Markdown("Welcome to WorldCup 2026 prediction")
     winner_dropdown = gr.Dropdown(
         countries, 
