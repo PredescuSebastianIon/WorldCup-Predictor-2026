@@ -1,5 +1,6 @@
 from invoke import task
 import time
+from scrape.fifa_rankings import fetch_latest
 
 DATA_DIR = "../data"
 SCRAPE_DIR = "./scrape"
@@ -49,15 +50,21 @@ def scrape(c):
     """
     c.run(f"python {SCRAPE_DIR}/scraper.py")
 
+@task(name = "fifa-latest")
+def fifa_latest(c):
+    fetch_latest()
+
 @task(name = "all", pre = [clean])
 def all(c):
     """
     Run stop, clean, scrape, see and build in this order
     """
     print("Getting data for all matches")
+    fetch_latest()
     scrape(c)
     print("Please return to terminal to see when app is ready")
     print("When app is ready, refresh")
     time.sleep(2)
     see_app(c)
     build(c)
+    
