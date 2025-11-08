@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import gradio as gr
 from countries import countries
-from database import select_winner, update_procentage, setup_db
+from database import select_winner, update_procentage
 from database import winner_predictions_db, winner_predictions_cursor
 import plotly.express as px
 
@@ -23,7 +23,7 @@ def get_and_create_pie():
 def select_and_update(user, team):
     if user and team:
         select_winner(user, team, winner_predictions_cursor, winner_predictions_db)
-    return get_and_create_pie()
+    return get_and_create_pie(), gr.update(value=""), gr.update(value=None)
 
 # Gradio App
 with gr.Blocks() as page:
@@ -43,7 +43,7 @@ with gr.Blocks() as page:
     submit.click(
         fn=select_and_update, 
         inputs=[user, winner_dropdown], 
-        outputs=plot
+        outputs=[plot, user, winner_dropdown]
     )
 
     page.load(
