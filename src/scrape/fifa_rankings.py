@@ -36,6 +36,9 @@ def fetch_ranking_for(date_id: str) -> pd.DataFrame:
             "confed": tag.get("text") or tag.get("code"),
         })
     df = pd.DataFrame(rows)
+    for col in ("rank", "prev_rank"):
+        df[col] = pd.to_numeric(df[col], errors="coerce").astype("Int64")
+    df = df[df["rank"].notna() & (df["rank"] > 0)].reset_index(drop=True) 
     return df
 
 def fetch_latest():

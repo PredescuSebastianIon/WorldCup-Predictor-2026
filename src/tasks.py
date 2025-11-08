@@ -1,7 +1,7 @@
 from invoke import task
 import time
 from scrape.fifa_rankings import fetch_latest
-
+from data_process import merge as merge_data
 DATA_DIR = "../data"
 SCRAPE_DIR = "./scrape"
 
@@ -55,6 +55,10 @@ def scrape(c):
 def fifa_latest(c):
     fetch_latest()
 
+@task(name = "merge")
+def merge_task(c):
+    merge_data()
+
 @task(name = "all", pre = [clean])
 def all(c):
     """
@@ -63,6 +67,7 @@ def all(c):
     print("Getting data for all matches")
     fetch_latest()
     scrape(c)
+    merge_data()
     print("Please return to terminal to see when app is ready")
     print("When app is ready, refresh")
     time.sleep(2)
