@@ -69,12 +69,11 @@ matches_list = [get_matches(year) for year in years]
 for i in range(0, len(years)):
     print(years[i], int(matches_list[i].size / 4))
 df_matches = pd.concat(matches_list, ignore_index=True)
-print(df_matches)
-df_matches.to_csv(f'{DATA_DIR}/matches-v1.0.csv')
-
-print(get_matches(1990))
 
 # PREDICT FOR 2026
 df_predict = get_matches(2026)
-print(df_predict)
-df_predict.to_csv(f'{DATA_DIR}/matches-predict.csv')
+# print(df_predict)
+
+# Save dataframes
+df_matches.to_csv(f'{DATA_DIR}/matches-v1.1.csv', index=False)
+df_predict.to_csv(f'{DATA_DIR}/matches-predict.csv', index=False)

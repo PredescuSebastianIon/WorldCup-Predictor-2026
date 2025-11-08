@@ -49,6 +49,7 @@ def scrape(c):
     Get data matches
     """
     c.run(f"python {SCRAPE_DIR}/scraper.py")
+    c.run(f"python {SCRAPE_DIR}/cleaning.py")
 
 @task(name = "fifa-latest")
 def fifa_latest(c):

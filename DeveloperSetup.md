@@ -27,8 +27,10 @@ This project is automated with `PyInvoke`. You can see all commands with:
 * inv --help [task] - manual for each task
 
 Supported commands:
-* inv build -- start the server (default is in foreground)
-* inv see -- open the server in your default browser
-* inv stop -- stop the server (if running in background)
-* inv clean -- clean all cache data
-* inv all -- stop server, clean, scrape, see, build
+* inv build $-$ start the server (default is in foreground)
+* inv see $-$ open the server in your default browser
+* inv stop $-$ stop the server (if running in background)
+* inv clean $-$ clean all cache data
+* inv all $-$ stop server, clean, scrape, see, build
+
+**Also, you can check [PyInvoke documentation](https://docs.pyinvoke.org/en/stable/index.html)**.
