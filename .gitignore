@@ -207,3 +207,7 @@ __marimo__/
 
 # For gradio library
 .gradio/
+
+
+# DB
+winner_predictions.db
