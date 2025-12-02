@@ -16,6 +16,9 @@ enriched_matches = Path("../data/processed/all_matches_enriched.csv")
 teams_master = Path("../data/teams_master.csv")
 relevant_matches = Path("../data/processed/all_matches_relevant_teams.csv")
 
+train_matches = Path("../data/processed/matches_train.csv")
+val_matches   = Path("../data/processed/matches_val.csv")
+test_matches  = Path("../data/processed/matches_test.csv")
 
 def merge():
     # make sure ../data/processed exists
@@ -79,7 +82,12 @@ def merge():
     merged["country"] = merged["country"].replace({
         "USA": "United States",
         "Côte d'Ivoire": "Ivory Coast",
-        "Cabo Verde": "Cape Verde"
+        "Cabo Verde": "Cape Verde",
+        "Korea Republic": "South Korea",
+        "IR Iran": "Iran",
+        "Curaçao": "Curacao",
+        "Congo DR": "DR Congo",
+        "Czech Republic": "Czechia",
     })
 
     # Enforce integer types for rank
@@ -236,27 +244,6 @@ def enrich_dataset(matches_path: Path = filtered_matches,
     print(f"Shape: {matches_full.shape}")
     return matches_full
 
-
-def main():
-    """
-    Run the complete data processing pipeline.
-    """
-    print("Starting data processing pipeline...")
-    
-    print("\nStep 1: Merging FIFA rankings...")
-    merged_rankings = merge()
-    
-    print("\nStep 2: Filtering matches (1993 onwards)...")
-    filtered_df = filter_all_matches(min_year=1993)
-    
-    print("\nStep 3: Enriching matches with FIFA rankings...")
-    enriched_df = enrich_dataset()
-    
-    print("\nPipeline complete!")
-    print(f"  - Merged rankings: {len(merged_rankings)} rows")
-    print(f"  - Filtered matches: {len(filtered_df)} rows")
-    print(f"  - Enriched matches: {len(enriched_df)} rows")
-
 def filter_relevant_teams(matches_path: Path = enriched_matches,
                           teams_path: Path = teams_master,
                           output_path: Path = relevant_matches,
@@ -296,7 +283,80 @@ def filter_relevant_teams(matches_path: Path = enriched_matches,
     print(f"Shape: {filtered.shape}")
     return filtered
 
+def split_dataset(input_path: Path = relevant_matches,
+                  train_path: Path = train_matches,
+                  val_path: Path = val_matches,
+                  test_path: Path = test_matches,
+                  val_start: str = "2018-01-01",
+                  test_start: str = "2022-01-01") -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+    """
+    Time-based split of the final dataset into train / val / test.
 
+    Default:
+        - train:     date < 2018-01-01
+        - val:   2018-01-01 <= date < 2022-01-01
+        - test:  2022-01-01 <= date
+
+    Parameters
+    ----------
+    input_path : Path
+        CSV with final matches (e.g. all_matches_relevant_teams.csv)
+    train_path, val_path, test_path : Path
+        Output CSV paths for each split
+    val_start : str
+        Date where validation period starts (inclusive)
+    test_start : str
+        Date where test period starts (inclusive)
+
+    Returns
+    -------
+    (train_df, val_df, test_df)
+    """
+    # make sure output directory exists
+    train_path.parent.mkdir(parents=True, exist_ok=True)
+
+    df = pd.read_csv(input_path)
+    df["date"] = pd.to_datetime(df["date"], errors="coerce")
+    df = df.sort_values("date").reset_index(drop=True)
+
+    val_start_ts = pd.Timestamp(val_start)
+    test_start_ts = pd.Timestamp(test_start)
+
+    train_df = df[df["date"] < val_start_ts].copy()
+    val_df   = df[(df["date"] >= val_start_ts) & (df["date"] < test_start_ts)].copy()
+    test_df  = df[df["date"] >= test_start_ts].copy()
+
+    train_df.to_csv(train_path, index=False)
+    val_df.to_csv(val_path, index=False)
+    test_df.to_csv(test_path, index=False)
+
+    print("Time split done:")
+    print(f"  train: {train_df.shape}, {train_df['date'].min().date()} -> {train_df['date'].max().date()}")
+    print(f"  val:   {val_df.shape}, {val_df['date'].min().date() if len(val_df) else 'NA'} -> {val_df['date'].max().date() if len(val_df) else 'NA'}")
+    print(f"  test:  {test_df.shape}, {test_df['date'].min().date() if len(test_df) else 'NA'} -> {test_df['date'].max().date() if len(test_df) else 'NA'}")
+
+    return train_df, val_df, test_df
+
+
+def main():
+    """
+    Run the complete data processing pipeline.
+    """
+    print("Starting data processing pipeline...")
+    
+    print("\nStep 1: Merging FIFA rankings...")
+    merged_rankings = merge()
+    
+    print("\nStep 2: Filtering matches (1993 onwards)...")
+    filtered_df = filter_all_matches(min_year=1993)
+    
+    print("\nStep 3: Enriching matches with FIFA rankings...")
+    enriched_df = enrich_dataset()
+    
+    print("\nPipeline complete!")
+    print(f"  - Merged rankings: {len(merged_rankings)} rows")
+    print(f"  - Filtered matches: {len(filtered_df)} rows")
+    print(f"  - Enriched matches: {len(enriched_df)} rows")
 
 if __name__ == "__main__":
     main()
