@@ -58,7 +58,7 @@ X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, random_state=42, stratify=y
 )
 
-model = RandomForestClassifier(
+forest_model = RandomForestClassifier(
     n_estimators=500,
     max_depth=None,
     min_samples_split=2,
@@ -66,12 +66,12 @@ model = RandomForestClassifier(
     n_jobs=-1
 )
 
-model.fit(X_train, y_train)
+forest_model.fit(X_train, y_train)
 
-y_pred = model.predict(X_test)
+y_pred = forest_model.predict(X_test)
 
 print("Accuracy:", accuracy_score(y_test, y_pred))
 print(classification_report(y_test, y_pred))
 
-importances = pd.Series(model.feature_importances_, index=feature_cols)
+importances = pd.Series(forest_model.feature_importances_, index=feature_cols)
 print(importances.sort_values(ascending=False))
