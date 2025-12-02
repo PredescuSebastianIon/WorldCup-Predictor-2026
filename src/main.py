@@ -7,6 +7,160 @@ from database import winner_predictions_db, winner_predictions_cursor
 import plotly.express as px
 from models import logistic_model, ridge_model
 from models import predict_match_with_logistic_regression, predict_match_with_ridge_classifier
+import random
+
+# --- TOURNAMENT SIMULATION CODE (New Addition) ---
+
+# Synthetic Group Definitions for 48 teams (12 Groups of 4)
+# NOTE: The actual draw will follow complex FIFA ranking and geographical rules.
+SYNTHETIC_GROUPS = {
+    'A': ['Canada', 'Argentina', 'Senegal', 'New Zealand'],
+    'B': ['Mexico', 'Netherlands', 'Morocco', 'Panama'],
+    'C': ['USA', 'Portugal', 'Poland', 'Ghana'],
+    'D': ['Brazil', 'Croatia', 'South Korea', 'Saudi Arabia'],
+    'E': ['England', 'Germany', 'Serbia', 'Peru'],
+    'F': ['France', 'Uruguay', 'Japan', 'Cameroon'],
+    'G': ['Spain', 'Colombia', 'Iran', 'Haiti'],
+    'H': ['Belgium', 'Switzerland', 'Australia', 'Costa Rica'],
+    'I': ['Italy', 'Denmark', 'Tunisia', 'Ecuador'],
+    'J': ['Chile', 'Sweden', 'Nigeria', 'Egypt'],
+    'K': ['Ukraine', 'Czech Republic', 'Qatar', 'Venezuela'],
+    'L': ['Turkey', 'Norway', 'Finland', 'Honduras'],
+}
+
+def predict_match(home_team, away_team, predict_func_state):
+    # Uses the actual prediction function passed from the Gradio state
+    if predict_func_state:
+        # Assuming predict_func_state returns 'Team A', 'Team B', or 'Draw'
+        state = predict_func_state(home_team, away_team, 2026)
+        if state == "WIN":
+            return home_team
+        elif state == "LOSE":
+            return away_team
+        elif state == "DRAW":
+            return state
+    # Fallback if no model is trained
+    return random.choice([home_team, away_team, 'Draw'])
+
+def run_knockout_match(team1, team2, predict_func_state):
+    # Knockout matches cannot end in a draw.
+    while True:
+        winner = predict_match(team1, team2, predict_func_state)
+        if winner != 'Draw':
+            return winner
+        # Simulate penalty shootout if a draw is predicted
+        return random.choice([team1, team2])
+
+def simulate_group_stage(groups, predict_func_state):
+    standings = {group: {team: {'P': 0, 'GD': 0, 'Pts': 0} for team in teams} for group, teams in groups.items()}
+    
+    for group, teams in groups.items():
+        for i in range(len(teams)):
+            for j in range(i + 1, len(teams)):
+                team_a, team_b = teams[i], teams[j]
+                result = predict_match(team_a, team_b, predict_func_state)
+                
+                if result == team_a:
+                    standings[group][team_a]['Pts'] += 3
+                elif result == team_b:
+                    standings[group][team_b]['Pts'] += 3
+                else: # Draw
+                    standings[group][team_a]['Pts'] += 1
+                    standings[group][team_b]['Pts'] += 1
+                    
+                standings[group][team_a]['P'] += 1
+                standings[group][team_b]['P'] += 1
+                    
+    qualified_teams = []
+    third_place_teams = []
+
+    # Get top two from each group (24 teams)
+    for group in groups:
+        group_standings_list = sorted(
+            standings[group].items(),
+            key=lambda x: (x[1]['Pts'], x[1]['GD'], random.random()), 
+            reverse=True
+        )
+        qualified_teams.append(group_standings_list[0][0]) 
+        qualified_teams.append(group_standings_list[1][0]) 
+        third_place_teams.append((group_standings_list[2][0], group_standings_list[2][1]['Pts'], group_standings_list[2][1]['GD'])) 
+        
+    # Get 8 best third-place teams (8 teams)
+    best_thirds = sorted(
+        third_place_teams,
+        key=lambda x: (x[1], x[2], random.random()), 
+        reverse=True
+    )[:8]
+    
+    qualified_teams.extend([team[0] for team in best_thirds])
+    random.shuffle(qualified_teams) 
+
+    return qualified_teams
+
+def simulate_knockout_stage(qualified_teams, predict_func_state, stage_name):
+    winners = []
+    stage_output = f"### ➡️ {stage_name} (Total Matches: {len(qualified_teams)//2})\n"
+    
+    for i in range(0, len(qualified_teams), 2):
+        team1 = qualified_teams[i]
+        team2 = qualified_teams[i+1]
+        
+        winner = run_knockout_match(team1, team2, predict_func_state)
+        winners.append(winner)
+        stage_output += f"* **{team1}** vs **{team2}** &rArr; Winner: **{winner}**\n"
+        
+    return winners, stage_output
+
+def run_full_tournament_simulation(predict_func_state):
+    if predict_func_state is None:
+        return "⚠️ Please train a model first using the 'Train your model' button!"
+
+    # 1. Group Stage
+    qualified_32 = simulate_group_stage(SYNTHETIC_GROUPS, predict_func_state)
+    
+    # 2. Knockout Stages (Simulated in a single pass)
+    # The results from simulate_knockout_stage are lists of winners and formatted output strings
+    round_of_16_teams, output_r32 = simulate_knockout_stage(qualified_32, predict_func_state, "Round of 32 (1/16 Finals)")
+    quarter_final_teams, output_r16 = simulate_knockout_stage(round_of_16_teams, predict_func_state, "Round of 16 (Octavos)")
+    semi_final_teams, output_qf = simulate_knockout_stage(quarter_final_teams, predict_func_state, "Quarter-Finals (Cuartos)")
+    finalists, output_sf = simulate_knockout_stage(semi_final_teams, predict_func_state, "Semi-Finals (Semifinales)")
+    champion, output_final = simulate_knockout_stage(finalists, predict_func_state, "The FINAL")
+    
+    # Get the final champion name
+    champion_name = champion[0]
+
+    # Use a single triple-quoted f-string for the entire output
+    full_output = f"""
+# 🗺️ World Cup 2026 Simulation Bracket
+
+---
+
+## ✅ Qualified for Round of 32:
+* {", ".join(qualified_32)}
+
+---
+
+## 🏟️ Knockout Stages
+{output_r32}
+---
+{output_r16}
+-----
+{output_qf}
+---
+{output_sf}
+---
+{output_final}
+
+---
+
+# 👑 WORLD CUP 2026 CHAMPION: **{champion_name}**
+"""
+    # Note: Using textwrap.dedent could clean up the leading whitespace if needed, 
+    # but for simple Gradio output, this is usually acceptable.
+    
+    return full_output
+
+# --- END NEW CODE ---
 
 # Data Visualization Functions
 def create_pie_chart(panda_data):
@@ -49,7 +203,6 @@ def select_and_update(user, team):
     if user and team:
         select_winner(user, team, winner_predictions_cursor, winner_predictions_db)
     
-    # Clear inputs and refresh chart
     return get_and_create_pie(), gr.update(value=""), gr.update(value=None)
 
 # Model Training Functions
@@ -74,7 +227,6 @@ def train_model(model_name, current_model, current_predict_function):
         predict_function = predict_match_with_ridge_classifier
         
     else:
-        # No valid model selected, keep current state
         return gr.update(value=model_name), current_model, current_predict_function
 
     return gr.update(value=model_name), model, predict_function
@@ -83,32 +235,12 @@ def train_model(model_name, current_model, current_predict_function):
 def run_prediction(home_team, away_team, predict_func_state):
     """
     Predicts the outcome of a match between two teams.
-    
-    Args:
-        home_team: Name of the home team
-        away_team: Name of the away team
-        predict_func_state: Trained prediction function from State
-        
-    Returns:
-        Tuple of (formatted prediction text, probability array)
     """
     if predict_func_state is None:
-        return "⚠️ Please train a model first!", None 
+        return "⚠️ Please train a model first!" 
     
-    # Run prediction for World Cup 2026
-    # predicted_winner, probabilities = predict_func_state(home_team, away_team, 2026) 
-    
-    # # Format output with markdown styling
-    # output_text = f"**{home_team}** vs **{away_team}**\n\n"
-    # output_text += f"🏆 Predicted Winner: **{predicted_winner}**\n"
-    # output_text += f"📊 Probabilities (Loss/Draw/Win): **{probabilities}**"
-
-    # return output_text, probabilities
-
-    # Run prediction for World Cup 2026
     predicted_winner = predict_func_state(home_team, away_team, 2026) 
     
-    # Format output with markdown styling
     output_text = f"**{home_team}** vs **{away_team}**\n\n"
     output_text += f"🏆 Predicted Result: **{predicted_winner}**\n"
 
@@ -146,7 +278,6 @@ with gr.Blocks() as page:
     )
     train = gr.Button("Train your model", variant="primary")
     
-    # Train button updates model and prediction function states
     train.click(
         fn=train_model,
         inputs=[model_dropdown, model_state, predict_function_state], 
@@ -170,23 +301,33 @@ with gr.Blocks() as page:
     predict = gr.Button("Predict", variant="primary")
     prediction_output = gr.Markdown(label="Match Prediction Result") 
     
-    # Predict button runs prediction with selected teams
     predict.click(
         fn=run_prediction, 
         inputs=[HomeTeam, AwayTeam, predict_function_state], 
         outputs=[prediction_output]
-        # probabilities_state
     )
+    
+    # --- FULL TOURNAMENT SIMULATION SECTION (New Addition) ---
+    gr.Markdown("---")
+    gr.Markdown("## 🌐 Full Tournament Simulation")
+    
+    simulate_btn = gr.Button("Run World Cup 2026 Simulation", variant="secondary")
+    simulation_output = gr.Markdown(label="Tournament Bracket & Winner")
+    
+    simulate_btn.click(
+        fn=run_full_tournament_simulation, 
+        inputs=[predict_function_state], 
+        outputs=[simulation_output]
+    )
+    # --- END NEW SECTION ---
 
     # Event Handlers
-    # Submit user prediction and refresh chart
     submit.click(
         fn=select_and_update, 
         inputs=[user, winner_dropdown], 
         outputs=[plot, user, winner_dropdown]
     )
 
-    # Load initial pie chart on page load
     page.load(
         fn=get_and_create_pie, 
         inputs=None, 
