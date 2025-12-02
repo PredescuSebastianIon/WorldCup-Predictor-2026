@@ -39,6 +39,17 @@ df_matches = df_matches.astype({
 df_matches['TotalGoals'] = df_matches['HomeGoals'] + df_matches['AwayGoals']
 print(df_matches.dtypes)
 
+# Create column special for models
+def outcome(row):
+    if row['HomeGoals'] > row['AwayGoals']:
+        return 'win'
+    elif row['HomeGoals'] < row['AwayGoals']:
+        return 'lose'
+    else:
+        return 'draw'
+
+df_matches['Result'] = df_matches.apply(outcome, axis = 1)
+
 # Predict data
 df_predict.dropna(inplace=True)
 df_predict.drop_duplicates(inplace=True)

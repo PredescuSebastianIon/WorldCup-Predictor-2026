@@ -1,0 +1,965 @@
+HomeTeam,AwayTeam,Year,HomeGoals,AwayGoals,TotalGoals,Result
+France,Mexico,1930,4,1,5,win
+Argentina,France,1930,1,0,1,win
+Chile,Mexico,1930,3,0,3,win
+Chile,France,1930,1,0,1,win
+Argentina,Mexico,1930,6,3,9,win
+Argentina,Chile,1930,3,1,4,win
+Yugoslavia,Brazil,1930,2,1,3,win
+Yugoslavia,Bolivia,1930,4,0,4,win
+Brazil,Bolivia,1930,4,0,4,win
+Romania,Peru,1930,3,1,4,win
+Uruguay,Peru,1930,1,0,1,win
+Uruguay,Romania,1930,4,0,4,win
+United States,Belgium,1930,3,0,3,win
+United States,Paraguay,1930,3,0,3,win
+Paraguay,Belgium,1930,1,0,1,win
+Argentina,United States,1930,6,1,7,win
+Uruguay,Yugoslavia,1930,6,1,7,win
+Uruguay,Argentina,1930,4,2,6,win
+Spain,Brazil,1934,3,1,4,win
+Hungary,Egypt,1934,4,2,6,win
+Switzerland,Netherlands,1934,3,2,5,win
+Italy,United States,1934,7,1,8,win
+Czechoslovakia,Romania,1934,2,1,3,win
+Sweden,Argentina,1934,3,2,5,win
+Austria,France,1934,3,2,5,win
+Germany,Belgium,1934,5,2,7,win
+Austria,Hungary,1934,2,1,3,win
+Italy,Spain,1934,1,1,2,draw
+Germany,Sweden,1934,2,1,3,win
+Czechoslovakia,Switzerland,1934,3,2,5,win
+Italy,Spain,1934,1,0,1,win
+Italy,Austria,1934,1,0,1,win
+Czechoslovakia,Germany,1934,3,1,4,win
+Germany,Austria,1934,3,2,5,win
+Italy,Czechoslovakia,1934,2,1,3,win
+Switzerland,Germany,1938,1,1,2,draw
+Hungary,Dutch East Indies,1938,6,0,6,win
+Cuba,Romania,1938,3,3,6,draw
+France,Belgium,1938,3,1,4,win
+Italy,Norway,1938,2,1,3,win
+Brazil,Poland,1938,6,5,11,win
+Czechoslovakia,Netherlands,1938,3,0,3,win
+Switzerland,Germany,1938,4,2,6,win
+Cuba,Romania,1938,2,1,3,win
+Hungary,Switzerland,1938,2,0,2,win
+Sweden,Cuba,1938,8,0,8,win
+Italy,France,1938,3,1,4,win
+Brazil,Czechoslovakia,1938,1,1,2,draw
+Brazil,Czechoslovakia,1938,2,1,3,win
+Hungary,Sweden,1938,5,1,6,win
+Italy,Brazil,1938,2,1,3,win
+Brazil,Sweden,1938,4,2,6,win
+Italy,Hungary,1938,4,2,6,win
+Brazil,Mexico,1950,4,0,4,win
+Yugoslavia,Switzerland,1950,3,0,3,win
+Brazil,Switzerland,1950,2,2,4,draw
+Yugoslavia,Mexico,1950,4,1,5,win
+Brazil,Yugoslavia,1950,2,0,2,win
+Switzerland,Mexico,1950,2,1,3,win
+England,Chile,1950,2,0,2,win
+Spain,United States,1950,3,1,4,win
+Spain,Chile,1950,2,0,2,win
+United States,England,1950,1,0,1,win
+Spain,England,1950,1,0,1,win
+Chile,United States,1950,5,2,7,win
+Sweden,Italy,1950,3,2,5,win
+Sweden,Paraguay,1950,2,2,4,draw
+Italy,Paraguay,1950,2,0,2,win
+Uruguay,Bolivia,1950,8,0,8,win
+Uruguay,Spain,1950,2,2,4,draw
+Brazil,Sweden,1950,7,1,8,win
+Brazil,Spain,1950,6,1,7,win
+Uruguay,Sweden,1950,3,2,5,win
+Sweden,Spain,1950,3,1,4,win
+Uruguay,Brazil,1950,2,1,3,win
+Brazil,Mexico,1954,5,0,5,win
+Yugoslavia,France,1954,1,0,1,win
+Brazil,Yugoslavia,1954,1,1,2,draw
+France,Mexico,1954,3,2,5,win
+West Germany,Turkey,1954,4,1,5,win
+Hungary,South Korea,1954,9,0,9,win
+Hungary,West Germany,1954,8,3,11,win
+Turkey,South Korea,1954,7,0,7,win
+West Germany,Turkey,1954,7,2,9,win
+Uruguay,Czechoslovakia,1954,2,0,2,win
+Austria,Scotland,1954,1,0,1,win
+Uruguay,Scotland,1954,7,0,7,win
+Austria,Czechoslovakia,1954,5,0,5,win
+Switzerland,Italy,1954,2,1,3,win
+England,Belgium,1954,4,4,8,draw
+Italy,Belgium,1954,4,1,5,win
+England,Switzerland,1954,2,0,2,win
+Switzerland,Italy,1954,4,1,5,win
+Austria,Switzerland,1954,7,5,12,win
+Uruguay,England,1954,4,2,6,win
+West Germany,Yugoslavia,1954,2,0,2,win
+Hungary,Brazil,1954,4,2,6,win
+West Germany,Austria,1954,6,1,7,win
+Hungary,Uruguay,1954,4,2,6,win
+Austria,Uruguay,1954,3,1,4,win
+West Germany,Hungary,1954,3,2,5,win
+Argentina,West Germany,1958,1,3,4,lose
+Northern Ireland,Czechoslovakia,1958,1,0,1,win
+West Germany,Czechoslovakia,1958,2,2,4,draw
+Argentina,Northern Ireland,1958,3,1,4,win
+West Germany,Northern Ireland,1958,2,2,4,draw
+Czechoslovakia,Argentina,1958,6,1,7,win
+Northern Ireland,Czechoslovakia,1958,2,1,3,win
+France,Paraguay,1958,7,3,10,win
+Yugoslavia,Scotland,1958,1,1,2,draw
+Yugoslavia,France,1958,3,2,5,win
+Paraguay,Scotland,1958,3,2,5,win
+France,Scotland,1958,2,1,3,win
+Paraguay,Yugoslavia,1958,3,3,6,draw
+Sweden,Mexico,1958,3,0,3,win
+Hungary,Wales,1958,1,1,2,draw
+Mexico,Wales,1958,1,1,2,draw
+Sweden,Hungary,1958,2,1,3,win
+Sweden,Wales,1958,0,0,0,draw
+Hungary,Mexico,1958,4,0,4,win
+Wales,Hungary,1958,2,1,3,win
+Brazil,Austria,1958,3,0,3,win
+Soviet Union,England,1958,2,2,4,draw
+Brazil,England,1958,0,0,0,draw
+Soviet Union,Austria,1958,2,0,2,win
+England,Austria,1958,2,2,4,draw
+Brazil,Soviet Union,1958,2,0,2,win
+Soviet Union,England,1958,1,0,1,win
+Brazil,Wales,1958,1,0,1,win
+France,Northern Ireland,1958,4,0,4,win
+Sweden,Soviet Union,1958,2,0,2,win
+West Germany,Yugoslavia,1958,1,0,1,win
+Brazil,France,1958,5,2,7,win
+Sweden,West Germany,1958,3,1,4,win
+France,West Germany,1958,6,3,9,win
+Brazil,Sweden,1958,5,2,7,win
+Uruguay,Colombia,1962,2,1,3,win
+Soviet Union,Yugoslavia,1962,2,0,2,win
+Yugoslavia,Uruguay,1962,3,1,4,win
+Soviet Union,Colombia,1962,4,4,8,draw
+Soviet Union,Uruguay,1962,2,1,3,win
+Yugoslavia,Colombia,1962,5,0,5,win
+Chile,Switzerland,1962,3,1,4,win
+West Germany,Italy,1962,0,0,0,draw
+Chile,Italy,1962,2,0,2,win
+West Germany,Switzerland,1962,2,1,3,win
+West Germany,Chile,1962,2,0,2,win
+Italy,Switzerland,1962,3,0,3,win
+Brazil,Mexico,1962,2,0,2,win
+Czechoslovakia,Spain,1962,1,0,1,win
+Brazil,Czechoslovakia,1962,0,0,0,draw
+Spain,Mexico,1962,1,0,1,win
+Brazil,Spain,1962,2,1,3,win
+Mexico,Czechoslovakia,1962,3,1,4,win
+Argentina,Bulgaria,1962,1,0,1,win
+Hungary,England,1962,2,1,3,win
+England,Argentina,1962,3,1,4,win
+Hungary,Bulgaria,1962,6,1,7,win
+Hungary,Argentina,1962,0,0,0,draw
+England,Bulgaria,1962,0,0,0,draw
+Chile,Soviet Union,1962,2,1,3,win
+Czechoslovakia,Hungary,1962,1,0,1,win
+Brazil,England,1962,3,1,4,win
+Yugoslavia,West Germany,1962,1,0,1,win
+Czechoslovakia,Yugoslavia,1962,3,1,4,win
+Brazil,Chile,1962,4,2,6,win
+Chile,Yugoslavia,1962,1,0,1,win
+Brazil,Czechoslovakia,1962,3,1,4,win
+England,Uruguay,1966,0,0,0,draw
+France,Mexico,1966,1,1,2,draw
+Uruguay,France,1966,2,1,3,win
+England,Mexico,1966,2,0,2,win
+Mexico,Uruguay,1966,0,0,0,draw
+England,France,1966,2,0,2,win
+West Germany,Switzerland,1966,5,0,5,win
+Argentina,Spain,1966,2,1,3,win
+Spain,Switzerland,1966,2,1,3,win
+Argentina,West Germany,1966,0,0,0,draw
+Argentina,Switzerland,1966,2,0,2,win
+West Germany,Spain,1966,2,1,3,win
+Brazil,Bulgaria,1966,2,0,2,win
+Portugal,Hungary,1966,3,1,4,win
+Hungary,Brazil,1966,3,1,4,win
+Portugal,Bulgaria,1966,3,0,3,win
+Portugal,Brazil,1966,3,1,4,win
+Hungary,Bulgaria,1966,3,1,4,win
+Soviet Union,North Korea,1966,3,0,3,win
+Italy,Chile,1966,2,0,2,win
+Chile,North Korea,1966,1,1,2,draw
+Soviet Union,Italy,1966,1,0,1,win
+North Korea,Italy,1966,1,0,1,win
+Soviet Union,Chile,1966,2,1,3,win
+England,Argentina,1966,1,0,1,win
+West Germany,Uruguay,1966,4,0,4,win
+Soviet Union,Hungary,1966,2,1,3,win
+Portugal,North Korea,1966,5,3,8,win
+West Germany,Soviet Union,1966,2,1,3,win
+England,Portugal,1966,2,1,3,win
+Portugal,Soviet Union,1966,2,1,3,win
+England,West Germany,1966,4,2,6,win
+Mexico,Soviet Union,1970,0,0,0,draw
+Belgium,El Salvador,1970,3,0,3,win
+Soviet Union,Belgium,1970,4,1,5,win
+Mexico,El Salvador,1970,4,0,4,win
+Soviet Union,El Salvador,1970,2,0,2,win
+Mexico,Belgium,1970,1,0,1,win
+Uruguay,Israel,1970,2,0,2,win
+Italy,Sweden,1970,1,0,1,win
+Uruguay,Italy,1970,0,0,0,draw
+Sweden,Israel,1970,1,1,2,draw
+Sweden,Uruguay,1970,1,0,1,win
+Italy,Israel,1970,0,0,0,draw
+England,Romania,1970,1,0,1,win
+Brazil,Czechoslovakia,1970,4,1,5,win
+Romania,Czechoslovakia,1970,2,1,3,win
+Brazil,England,1970,1,0,1,win
+Brazil,Romania,1970,3,2,5,win
+England,Czechoslovakia,1970,1,0,1,win
+Peru,Bulgaria,1970,3,2,5,win
+West Germany,Morocco,1970,2,1,3,win
+Peru,Morocco,1970,3,0,3,win
+West Germany,Bulgaria,1970,5,2,7,win
+West Germany,Peru,1970,3,1,4,win
+Bulgaria,Morocco,1970,1,1,2,draw
+Soviet Union,Uruguay,1970,0,1,1,lose
+Italy,Mexico,1970,4,1,5,win
+Brazil,Peru,1970,4,2,6,win
+West Germany,England,1970,3,2,5,win
+Brazil,Uruguay,1970,3,1,4,win
+Italy,West Germany,1970,4,3,7,win
+West Germany,Uruguay,1970,1,0,1,win
+Brazil,Italy,1970,4,1,5,win
+West Germany,Chile,1974,1,0,1,win
+East Germany,Australia,1974,2,0,2,win
+Australia,West Germany,1974,0,3,3,lose
+Chile,East Germany,1974,1,1,2,draw
+Australia,Chile,1974,0,0,0,draw
+East Germany,West Germany,1974,1,0,1,win
+Brazil,Yugoslavia,1974,0,0,0,draw
+Zaire,Scotland,1974,0,2,2,lose
+Yugoslavia,Zaire,1974,9,0,9,win
+Scotland,Brazil,1974,0,0,0,draw
+Scotland,Yugoslavia,1974,1,1,2,draw
+Zaire,Brazil,1974,0,3,3,lose
+Uruguay,Netherlands,1974,0,2,2,lose
+Sweden,Bulgaria,1974,0,0,0,draw
+Bulgaria,Uruguay,1974,1,1,2,draw
+Netherlands,Sweden,1974,0,0,0,draw
+Bulgaria,Netherlands,1974,1,4,5,lose
+Sweden,Uruguay,1974,3,0,3,win
+Italy,Haiti,1974,3,1,4,win
+Poland,Argentina,1974,3,2,5,win
+Argentina,Italy,1974,1,1,2,draw
+Haiti,Poland,1974,0,7,7,lose
+Argentina,Haiti,1974,4,1,5,win
+Poland,Italy,1974,2,1,3,win
+Netherlands,Argentina,1974,4,0,4,win
+Brazil,East Germany,1974,1,0,1,win
+Argentina,Brazil,1974,1,2,3,lose
+East Germany,Netherlands,1974,0,2,2,lose
+Argentina,East Germany,1974,1,1,2,draw
+Netherlands,Brazil,1974,2,0,2,win
+Yugoslavia,West Germany,1974,0,2,2,lose
+Sweden,Poland,1974,0,1,1,lose
+Poland,Yugoslavia,1974,2,1,3,win
+West Germany,Sweden,1974,4,2,6,win
+Poland,West Germany,1974,0,1,1,lose
+Sweden,Yugoslavia,1974,2,1,3,win
+Brazil,Poland,1974,0,1,1,lose
+Netherlands,West Germany,1974,1,2,3,lose
+Italy,France,1978,2,1,3,win
+Argentina,Hungary,1978,2,1,3,win
+Italy,Hungary,1978,3,1,4,win
+Argentina,France,1978,2,1,3,win
+France,Hungary,1978,3,1,4,win
+Argentina,Italy,1978,0,1,1,lose
+West Germany,Poland,1978,0,0,0,draw
+Tunisia,Mexico,1978,3,1,4,win
+West Germany,Mexico,1978,6,0,6,win
+Poland,Tunisia,1978,1,0,1,win
+West Germany,Tunisia,1978,0,0,0,draw
+Poland,Mexico,1978,3,1,4,win
+Austria,Spain,1978,2,1,3,win
+Brazil,Sweden,1978,1,1,2,draw
+Austria,Sweden,1978,1,0,1,win
+Brazil,Spain,1978,0,0,0,draw
+Spain,Sweden,1978,1,0,1,win
+Brazil,Austria,1978,1,0,1,win
+Peru,Scotland,1978,3,1,4,win
+Netherlands,Iran,1978,3,0,3,win
+Scotland,Iran,1978,1,1,2,draw
+Netherlands,Peru,1978,0,0,0,draw
+Peru,Iran,1978,4,1,5,win
+Scotland,Netherlands,1978,3,2,5,win
+Austria,Netherlands,1978,1,5,6,lose
+Italy,West Germany,1978,0,0,0,draw
+Netherlands,West Germany,1978,2,2,4,draw
+Italy,Austria,1978,1,0,1,win
+Austria,West Germany,1978,3,2,5,win
+Italy,Netherlands,1978,1,2,3,lose
+Brazil,Peru,1978,3,0,3,win
+Argentina,Poland,1978,2,0,2,win
+Peru,Poland,1978,0,1,1,lose
+Argentina,Brazil,1978,0,0,0,draw
+Brazil,Poland,1978,3,1,4,win
+Argentina,Peru,1978,6,0,6,win
+Brazil,Italy,1978,2,1,3,win
+Argentina,Netherlands,1978,3,1,4,win
+Italy,Poland,1982,0,0,0,draw
+Peru,Cameroon,1982,0,0,0,draw
+Italy,Peru,1982,1,1,2,draw
+Poland,Cameroon,1982,0,0,0,draw
+Poland,Peru,1982,5,1,6,win
+Italy,Cameroon,1982,1,1,2,draw
+West Germany,Algeria,1982,1,2,3,lose
+Chile,Austria,1982,0,1,1,lose
+West Germany,Chile,1982,4,1,5,win
+Algeria,Austria,1982,0,2,2,lose
+Algeria,Chile,1982,3,2,5,win
+West Germany,Austria,1982,1,0,1,win
+Argentina,Belgium,1982,0,1,1,lose
+Hungary,El Salvador,1982,10,1,11,win
+Argentina,Hungary,1982,4,1,5,win
+Belgium,El Salvador,1982,1,0,1,win
+Belgium,Hungary,1982,1,1,2,draw
+Argentina,El Salvador,1982,2,0,2,win
+England,France,1982,3,1,4,win
+Czechoslovakia,Kuwait,1982,1,1,2,draw
+England,Czechoslovakia,1982,2,0,2,win
+France,Kuwait,1982,4,1,5,win
+France,Czechoslovakia,1982,1,1,2,draw
+England,Kuwait,1982,1,0,1,win
+Spain,Honduras,1982,1,1,2,draw
+Yugoslavia,Northern Ireland,1982,0,0,0,draw
+Spain,Yugoslavia,1982,2,1,3,win
+Honduras,Northern Ireland,1982,1,1,2,draw
+Honduras,Yugoslavia,1982,0,1,1,lose
+Spain,Northern Ireland,1982,0,1,1,lose
+Brazil,Soviet Union,1982,2,1,3,win
+Scotland,New Zealand,1982,5,2,7,win
+Brazil,Scotland,1982,4,1,5,win
+Soviet Union,New Zealand,1982,3,0,3,win
+Soviet Union,Scotland,1982,2,2,4,draw
+Brazil,New Zealand,1982,4,0,4,win
+Poland,Belgium,1982,3,0,3,win
+Belgium,Soviet Union,1982,0,1,1,lose
+Soviet Union,Poland,1982,0,0,0,draw
+West Germany,England,1982,0,0,0,draw
+West Germany,Spain,1982,2,1,3,win
+Spain,England,1982,0,0,0,draw
+Italy,Argentina,1982,2,1,3,win
+Argentina,Brazil,1982,1,3,4,lose
+Italy,Brazil,1982,3,2,5,win
+Austria,France,1982,0,1,1,lose
+Austria,Northern Ireland,1982,2,2,4,draw
+France,Northern Ireland,1982,4,1,5,win
+Poland,Italy,1982,0,2,2,lose
+West Germany,France,1982,3,3,6,draw
+Poland,France,1982,3,2,5,win
+Italy,West Germany,1982,3,1,4,win
+Bulgaria,Italy,1986,1,1,2,draw
+Argentina,South Korea,1986,3,1,4,win
+Italy,Argentina,1986,1,1,2,draw
+South Korea,Bulgaria,1986,1,1,2,draw
+South Korea,Italy,1986,2,3,5,lose
+Argentina,Bulgaria,1986,2,0,2,win
+Belgium,Mexico,1986,1,2,3,lose
+Paraguay,Iraq,1986,1,0,1,win
+Mexico,Paraguay,1986,1,1,2,draw
+Iraq,Belgium,1986,1,2,3,lose
+Paraguay,Belgium,1986,2,2,4,draw
+Iraq,Mexico,1986,0,1,1,lose
+Canada,France,1986,0,1,1,lose
+Soviet Union,Hungary,1986,6,0,6,win
+France,Soviet Union,1986,1,1,2,draw
+Hungary,Canada,1986,2,0,2,win
+Hungary,France,1986,0,3,3,lose
+Soviet Union,Canada,1986,2,0,2,win
+Spain,Brazil,1986,0,1,1,lose
+Algeria,Northern Ireland,1986,1,1,2,draw
+Brazil,Algeria,1986,1,0,1,win
+Northern Ireland,Spain,1986,1,2,3,lose
+Northern Ireland,Brazil,1986,0,3,3,lose
+Algeria,Spain,1986,0,3,3,lose
+Uruguay,West Germany,1986,1,1,2,draw
+Scotland,Denmark,1986,0,1,1,lose
+West Germany,Scotland,1986,2,1,3,win
+Denmark,Uruguay,1986,6,1,7,win
+Denmark,West Germany,1986,2,0,2,win
+Scotland,Uruguay,1986,0,0,0,draw
+Morocco,Poland,1986,0,0,0,draw
+Portugal,England,1986,1,0,1,win
+England,Morocco,1986,0,0,0,draw
+Poland,Portugal,1986,1,0,1,win
+England,Poland,1986,3,0,3,win
+Portugal,Morocco,1986,1,3,4,lose
+Mexico,Bulgaria,1986,2,0,2,win
+Soviet Union,Belgium,1986,3,4,7,lose
+Brazil,Poland,1986,4,0,4,win
+Argentina,Uruguay,1986,1,0,1,win
+Italy,France,1986,0,2,2,lose
+Morocco,West Germany,1986,0,1,1,lose
+England,Paraguay,1986,3,0,3,win
+Denmark,Spain,1986,1,5,6,lose
+Brazil,France,1986,1,1,2,draw
+West Germany,Mexico,1986,0,0,0,draw
+Argentina,England,1986,2,1,3,win
+Spain,Belgium,1986,1,1,2,draw
+France,West Germany,1986,0,2,2,lose
+Argentina,Belgium,1986,2,0,2,win
+Belgium,France,1986,2,4,6,lose
+Argentina,West Germany,1986,3,2,5,win
+Cameroon,Colombia,1990,2,1,3,win
+Czechoslovakia,Costa Rica,1990,4,1,5,win
+Brazil,Argentina,1990,0,1,1,lose
+West Germany,Netherlands,1990,2,1,3,win
+Republic of Ireland,Romania,1990,0,0,0,draw
+Italy,Uruguay,1990,2,0,2,win
+Spain,Yugoslavia,1990,1,2,3,lose
+England,Belgium,1990,1,0,1,win
+Argentina,Yugoslavia,1990,0,0,0,draw
+Republic of Ireland,Italy,1990,0,1,1,lose
+Czechoslovakia,West Germany,1990,0,1,1,lose
+Cameroon,England,1990,2,3,5,lose
+Argentina,Italy,1990,1,1,2,draw
+West Germany,England,1990,1,1,2,draw
+Italy,England,1990,2,1,3,win
+West Germany,Argentina,1990,1,0,1,win
+Italy,Austria,1990,1,0,1,win
+United States,Czechoslovakia,1990,1,5,6,lose
+Italy,United States,1990,1,0,1,win
+Austria,Czechoslovakia,1990,0,1,1,lose
+Italy,Czechoslovakia,1990,2,0,2,win
+Austria,United States,1990,2,1,3,win
+Argentina,Cameroon,1990,0,1,1,lose
+Soviet Union,Romania,1990,0,2,2,lose
+Argentina,Soviet Union,1990,2,0,2,win
+Cameroon,Romania,1990,2,1,3,win
+Argentina,Romania,1990,1,1,2,draw
+Cameroon,Soviet Union,1990,0,4,4,lose
+Brazil,Sweden,1990,2,1,3,win
+Costa Rica,Scotland,1990,1,0,1,win
+Brazil,Costa Rica,1990,1,0,1,win
+Sweden,Scotland,1990,1,2,3,lose
+Brazil,Scotland,1990,1,0,1,win
+Sweden,Costa Rica,1990,1,2,3,lose
+United Arab Emirates,Colombia,1990,0,2,2,lose
+West Germany,Yugoslavia,1990,4,1,5,win
+Yugoslavia,Colombia,1990,1,0,1,win
+West Germany,United Arab Emirates,1990,5,1,6,win
+West Germany,Colombia,1990,1,1,2,draw
+Yugoslavia,United Arab Emirates,1990,4,1,5,win
+Belgium,South Korea,1990,2,0,2,win
+Uruguay,Spain,1990,0,0,0,draw
+Belgium,Uruguay,1990,3,1,4,win
+South Korea,Spain,1990,1,3,4,lose
+Belgium,Spain,1990,1,2,3,lose
+South Korea,Uruguay,1990,0,1,1,lose
+England,Republic of Ireland,1990,1,1,2,draw
+Netherlands,Egypt,1990,1,1,2,draw
+England,Netherlands,1990,0,0,0,draw
+Republic of Ireland,Egypt,1990,0,0,0,draw
+England,Egypt,1990,1,0,1,win
+Republic of Ireland,Netherlands,1990,1,1,2,draw
+United States,Switzerland,1994,1,1,2,draw
+Colombia,Romania,1994,1,3,4,lose
+Romania,Switzerland,1994,1,4,5,lose
+United States,Colombia,1994,2,1,3,win
+Switzerland,Colombia,1994,0,2,2,lose
+United States,Romania,1994,0,1,1,lose
+Cameroon,Sweden,1994,2,2,4,draw
+Brazil,Russia,1994,2,0,2,win
+Brazil,Cameroon,1994,3,0,3,win
+Sweden,Russia,1994,3,1,4,win
+Russia,Cameroon,1994,6,1,7,win
+Brazil,Sweden,1994,1,1,2,draw
+Germany,Bolivia,1994,1,0,1,win
+Spain,South Korea,1994,2,2,4,draw
+Germany,Spain,1994,1,1,2,draw
+South Korea,Bolivia,1994,0,0,0,draw
+Bolivia,Spain,1994,1,3,4,lose
+Germany,South Korea,1994,3,2,5,win
+Argentina,Greece,1994,4,0,4,win
+Nigeria,Bulgaria,1994,3,0,3,win
+Argentina,Nigeria,1994,2,1,3,win
+Bulgaria,Greece,1994,4,0,4,win
+Argentina,Bulgaria,1994,0,2,2,lose
+Greece,Nigeria,1994,0,2,2,lose
+Italy,Republic of Ireland,1994,0,1,1,lose
+Norway,Mexico,1994,1,0,1,win
+Italy,Norway,1994,1,0,1,win
+Mexico,Republic of Ireland,1994,2,1,3,win
+Italy,Mexico,1994,1,1,2,draw
+Republic of Ireland,Norway,1994,0,0,0,draw
+Belgium,Morocco,1994,1,0,1,win
+Netherlands,Saudi Arabia,1994,2,1,3,win
+Belgium,Netherlands,1994,1,0,1,win
+Saudi Arabia,Morocco,1994,2,1,3,win
+Belgium,Saudi Arabia,1994,0,1,1,lose
+Morocco,Netherlands,1994,1,2,3,lose
+Germany,Belgium,1994,3,2,5,win
+Spain,Switzerland,1994,3,0,3,win
+Saudi Arabia,Sweden,1994,1,3,4,lose
+Romania,Argentina,1994,3,2,5,win
+Netherlands,Republic of Ireland,1994,2,0,2,win
+Brazil,United States,1994,1,0,1,win
+Nigeria,Italy,1994,1,2,3,lose
+Mexico,Bulgaria,1994,1,1,2,draw
+Italy,Spain,1994,2,1,3,win
+Netherlands,Brazil,1994,2,3,5,lose
+Bulgaria,Germany,1994,2,1,3,win
+Romania,Sweden,1994,2,2,4,draw
+Bulgaria,Italy,1994,1,2,3,lose
+Sweden,Brazil,1994,0,1,1,lose
+Sweden,Bulgaria,1994,4,0,4,win
+Brazil,Italy,1994,0,0,0,draw
+Brazil,Scotland,1998,2,1,3,win
+Morocco,Norway,1998,2,2,4,draw
+Scotland,Norway,1998,1,1,2,draw
+Brazil,Morocco,1998,3,0,3,win
+Scotland,Morocco,1998,0,3,3,lose
+Brazil,Norway,1998,1,2,3,lose
+Italy,Chile,1998,2,2,4,draw
+Cameroon,Austria,1998,1,1,2,draw
+Chile,Austria,1998,1,1,2,draw
+Italy,Cameroon,1998,3,0,3,win
+Italy,Austria,1998,2,1,3,win
+Chile,Cameroon,1998,1,1,2,draw
+Saudi Arabia,Denmark,1998,0,1,1,lose
+France,South Africa,1998,3,0,3,win
+South Africa,Denmark,1998,1,1,2,draw
+France,Saudi Arabia,1998,4,0,4,win
+France,Denmark,1998,2,1,3,win
+South Africa,Saudi Arabia,1998,2,2,4,draw
+Paraguay,Bulgaria,1998,0,0,0,draw
+Spain,Nigeria,1998,2,3,5,lose
+Nigeria,Bulgaria,1998,1,0,1,win
+Spain,Paraguay,1998,0,0,0,draw
+Nigeria,Paraguay,1998,1,3,4,lose
+Spain,Bulgaria,1998,6,1,7,win
+South Korea,Mexico,1998,1,3,4,lose
+Netherlands,Belgium,1998,0,0,0,draw
+Belgium,Mexico,1998,2,2,4,draw
+Netherlands,South Korea,1998,5,0,5,win
+Netherlands,Mexico,1998,2,2,4,draw
+Belgium,South Korea,1998,1,1,2,draw
+FR Yugoslavia,Iran,1998,1,0,1,win
+Germany,United States,1998,2,0,2,win
+Germany,FR Yugoslavia,1998,2,2,4,draw
+United States,Iran,1998,1,2,3,lose
+Germany,Iran,1998,2,0,2,win
+United States,FR Yugoslavia,1998,0,1,1,lose
+England,Tunisia,1998,2,0,2,win
+Romania,Colombia,1998,1,0,1,win
+Colombia,Tunisia,1998,1,0,1,win
+Romania,England,1998,2,1,3,win
+Colombia,England,1998,0,2,2,lose
+Romania,Tunisia,1998,1,1,2,draw
+Argentina,Japan,1998,1,0,1,win
+Jamaica,Croatia,1998,1,3,4,lose
+Japan,Croatia,1998,0,1,1,lose
+Argentina,Jamaica,1998,5,0,5,win
+Argentina,Croatia,1998,1,0,1,win
+Japan,Jamaica,1998,1,2,3,lose
+Italy,Norway,1998,1,0,1,win
+Brazil,Chile,1998,4,1,5,win
+France,Paraguay,1998,1,0,1,win
+Nigeria,Denmark,1998,1,4,5,lose
+Germany,Mexico,1998,2,1,3,win
+Netherlands,FR Yugoslavia,1998,2,1,3,win
+Romania,Croatia,1998,0,1,1,lose
+Argentina,England,1998,2,2,4,draw
+Italy,France,1998,0,0,0,draw
+Brazil,Denmark,1998,3,2,5,win
+Netherlands,Argentina,1998,2,1,3,win
+Germany,Croatia,1998,0,3,3,lose
+Brazil,Netherlands,1998,1,1,2,draw
+France,Croatia,1998,2,1,3,win
+Netherlands,Croatia,1998,1,2,3,lose
+Brazil,France,1998,0,3,3,lose
+France,Senegal,2002,0,1,1,lose
+Uruguay,Denmark,2002,1,2,3,lose
+Denmark,Senegal,2002,1,1,2,draw
+France,Uruguay,2002,0,0,0,draw
+Denmark,France,2002,2,0,2,win
+Senegal,Uruguay,2002,3,3,6,draw
+Paraguay,South Africa,2002,2,2,4,draw
+Spain,Slovenia,2002,3,1,4,win
+Spain,Paraguay,2002,3,1,4,win
+South Africa,Slovenia,2002,1,0,1,win
+South Africa,Spain,2002,2,3,5,lose
+Slovenia,Paraguay,2002,1,3,4,lose
+Brazil,Turkey,2002,2,1,3,win
+China,Costa Rica,2002,0,2,2,lose
+Brazil,China,2002,4,0,4,win
+Costa Rica,Turkey,2002,1,1,2,draw
+Costa Rica,Brazil,2002,2,5,7,lose
+Turkey,China,2002,3,0,3,win
+South Korea,Poland,2002,2,0,2,win
+United States,Portugal,2002,3,2,5,win
+South Korea,United States,2002,1,1,2,draw
+Portugal,Poland,2002,4,0,4,win
+Portugal,South Korea,2002,0,1,1,lose
+Poland,United States,2002,3,1,4,win
+Republic of Ireland,Cameroon,2002,1,1,2,draw
+Germany,Saudi Arabia,2002,8,0,8,win
+Germany,Republic of Ireland,2002,1,1,2,draw
+Cameroon,Saudi Arabia,2002,1,0,1,win
+Cameroon,Germany,2002,0,2,2,lose
+Saudi Arabia,Republic of Ireland,2002,0,3,3,lose
+Argentina,Nigeria,2002,1,0,1,win
+England,Sweden,2002,1,1,2,draw
+Sweden,Nigeria,2002,2,1,3,win
+Argentina,England,2002,0,1,1,lose
+Sweden,Argentina,2002,1,1,2,draw
+Nigeria,England,2002,0,0,0,draw
+Croatia,Mexico,2002,0,1,1,lose
+Italy,Ecuador,2002,2,0,2,win
+Italy,Croatia,2002,1,2,3,lose
+Mexico,Ecuador,2002,2,1,3,win
+Mexico,Italy,2002,1,1,2,draw
+Ecuador,Croatia,2002,1,0,1,win
+Japan,Belgium,2002,2,2,4,draw
+Russia,Tunisia,2002,2,0,2,win
+Japan,Russia,2002,1,0,1,win
+Tunisia,Belgium,2002,1,1,2,draw
+Tunisia,Japan,2002,0,2,2,lose
+Belgium,Russia,2002,3,2,5,win
+Germany,Paraguay,2002,1,0,1,win
+Denmark,England,2002,0,3,3,lose
+Sweden,Senegal,2002,1,2,3,lose
+Spain,Republic of Ireland,2002,1,1,2,draw
+Mexico,United States,2002,0,2,2,lose
+Brazil,Belgium,2002,2,0,2,win
+Japan,Turkey,2002,0,1,1,lose
+South Korea,Italy,2002,2,1,3,win
+England,Brazil,2002,1,2,3,lose
+Germany,United States,2002,1,0,1,win
+Spain,South Korea,2002,0,0,0,draw
+Senegal,Turkey,2002,0,1,1,lose
+Germany,South Korea,2002,1,0,1,win
+Brazil,Turkey,2002,1,0,1,win
+South Korea,Turkey,2002,2,3,5,lose
+Germany,Brazil,2002,0,2,2,lose
+Germany,Costa Rica,2006,4,2,6,win
+Poland,Ecuador,2006,0,2,2,lose
+Germany,Poland,2006,1,0,1,win
+Ecuador,Costa Rica,2006,3,0,3,win
+Ecuador,Germany,2006,0,3,3,lose
+Costa Rica,Poland,2006,1,2,3,lose
+England,Paraguay,2006,1,0,1,win
+Trinidad and Tobago,Sweden,2006,0,0,0,draw
+England,Trinidad and Tobago,2006,2,0,2,win
+Sweden,Paraguay,2006,1,0,1,win
+Sweden,England,2006,2,2,4,draw
+Paraguay,Trinidad and Tobago,2006,2,0,2,win
+Argentina,Ivory Coast,2006,2,1,3,win
+Serbia and Montenegro,Netherlands,2006,0,1,1,lose
+Argentina,Serbia and Montenegro,2006,6,0,6,win
+Netherlands,Ivory Coast,2006,2,1,3,win
+Netherlands,Argentina,2006,0,0,0,draw
+Ivory Coast,Serbia and Montenegro,2006,3,2,5,win
+Mexico,Iran,2006,3,1,4,win
+Angola,Portugal,2006,0,1,1,lose
+Mexico,Angola,2006,0,0,0,draw
+Portugal,Iran,2006,2,0,2,win
+Portugal,Mexico,2006,2,1,3,win
+Iran,Angola,2006,1,1,2,draw
+United States,Czech Republic,2006,0,3,3,lose
+Italy,Ghana,2006,2,0,2,win
+Czech Republic,Ghana,2006,0,2,2,lose
+Italy,United States,2006,1,1,2,draw
+Czech Republic,Italy,2006,0,2,2,lose
+Ghana,United States,2006,2,1,3,win
+Australia,Japan,2006,3,1,4,win
+Brazil,Croatia,2006,1,0,1,win
+Japan,Croatia,2006,0,0,0,draw
+Brazil,Australia,2006,2,0,2,win
+Japan,Brazil,2006,1,4,5,lose
+Croatia,Australia,2006,2,2,4,draw
+South Korea,Togo,2006,2,1,3,win
+France,Switzerland,2006,0,0,0,draw
+France,South Korea,2006,1,1,2,draw
+Togo,Switzerland,2006,0,2,2,lose
+Togo,France,2006,0,2,2,lose
+Switzerland,South Korea,2006,2,0,2,win
+Spain,Ukraine,2006,4,0,4,win
+Tunisia,Saudi Arabia,2006,2,2,4,draw
+Saudi Arabia,Ukraine,2006,0,4,4,lose
+Spain,Tunisia,2006,3,1,4,win
+Saudi Arabia,Spain,2006,0,1,1,lose
+Ukraine,Tunisia,2006,1,0,1,win
+Germany,Sweden,2006,2,0,2,win
+Argentina,Mexico,2006,2,1,3,win
+England,Ecuador,2006,1,0,1,win
+Portugal,Netherlands,2006,1,0,1,win
+Italy,Australia,2006,1,0,1,win
+Switzerland,Ukraine,2006,0,0,0,draw
+Brazil,Ghana,2006,3,0,3,win
+Spain,France,2006,1,3,4,lose
+Germany,Argentina,2006,1,1,2,draw
+Italy,Ukraine,2006,3,0,3,win
+England,Portugal,2006,0,0,0,draw
+Brazil,France,2006,0,1,1,lose
+Germany,Italy,2006,0,2,2,lose
+Portugal,France,2006,0,1,1,lose
+Germany,Portugal,2006,3,1,4,win
+Italy,France,2006,1,1,2,draw
+South Africa,Mexico,2010,1,1,2,draw
+Uruguay,France,2010,0,0,0,draw
+South Africa,Uruguay,2010,0,3,3,lose
+France,Mexico,2010,0,2,2,lose
+Mexico,Uruguay,2010,0,1,1,lose
+France,South Africa,2010,1,2,3,lose
+South Korea,Greece,2010,2,0,2,win
+Argentina,Nigeria,2010,1,0,1,win
+Argentina,South Korea,2010,4,1,5,win
+Greece,Nigeria,2010,2,1,3,win
+Nigeria,South Korea,2010,2,2,4,draw
+Greece,Argentina,2010,0,2,2,lose
+England,United States,2010,1,1,2,draw
+Algeria,Slovenia,2010,0,1,1,lose
+Slovenia,United States,2010,2,2,4,draw
+England,Algeria,2010,0,0,0,draw
+Slovenia,England,2010,0,1,1,lose
+United States,Algeria,2010,1,0,1,win
+Serbia,Ghana,2010,0,1,1,lose
+Germany,Australia,2010,4,0,4,win
+Germany,Serbia,2010,0,1,1,lose
+Ghana,Australia,2010,1,1,2,draw
+Ghana,Germany,2010,0,1,1,lose
+Australia,Serbia,2010,2,1,3,win
+Netherlands,Denmark,2010,2,0,2,win
+Japan,Cameroon,2010,1,0,1,win
+Netherlands,Japan,2010,1,0,1,win
+Cameroon,Denmark,2010,1,2,3,lose
+Denmark,Japan,2010,1,3,4,lose
+Cameroon,Netherlands,2010,1,2,3,lose
+Italy,Paraguay,2010,1,1,2,draw
+New Zealand,Slovakia,2010,1,1,2,draw
+Slovakia,Paraguay,2010,0,2,2,lose
+Italy,New Zealand,2010,1,1,2,draw
+Slovakia,Italy,2010,3,2,5,win
+Paraguay,New Zealand,2010,0,0,0,draw
+Ivory Coast,Portugal,2010,0,0,0,draw
+Brazil,North Korea,2010,2,1,3,win
+Brazil,Ivory Coast,2010,3,1,4,win
+Portugal,North Korea,2010,7,0,7,win
+Portugal,Brazil,2010,0,0,0,draw
+North Korea,Ivory Coast,2010,0,3,3,lose
+Honduras,Chile,2010,0,1,1,lose
+Spain,Switzerland,2010,0,1,1,lose
+Chile,Switzerland,2010,1,0,1,win
+Spain,Honduras,2010,2,0,2,win
+Chile,Spain,2010,1,2,3,lose
+Switzerland,Honduras,2010,0,0,0,draw
+Uruguay,South Korea,2010,2,1,3,win
+United States,Ghana,2010,1,2,3,lose
+Germany,England,2010,4,1,5,win
+Argentina,Mexico,2010,3,1,4,win
+Netherlands,Slovakia,2010,2,1,3,win
+Brazil,Chile,2010,3,0,3,win
+Paraguay,Japan,2010,0,0,0,draw
+Spain,Portugal,2010,1,0,1,win
+Netherlands,Brazil,2010,2,1,3,win
+Uruguay,Ghana,2010,1,1,2,draw
+Argentina,Germany,2010,0,4,4,lose
+Paraguay,Spain,2010,0,1,1,lose
+Uruguay,Netherlands,2010,2,3,5,lose
+Germany,Spain,2010,0,1,1,lose
+Uruguay,Germany,2010,2,3,5,lose
+Netherlands,Spain,2010,0,1,1,lose
+Brazil,Croatia,2014,3,1,4,win
+Mexico,Cameroon,2014,1,0,1,win
+Brazil,Mexico,2014,0,0,0,draw
+Cameroon,Croatia,2014,0,4,4,lose
+Cameroon,Brazil,2014,1,4,5,lose
+Croatia,Mexico,2014,1,3,4,lose
+Spain,Netherlands,2014,1,5,6,lose
+Chile,Australia,2014,3,1,4,win
+Australia,Netherlands,2014,2,3,5,lose
+Spain,Chile,2014,0,2,2,lose
+Australia,Spain,2014,0,3,3,lose
+Netherlands,Chile,2014,2,0,2,win
+Colombia,Greece,2014,3,0,3,win
+Ivory Coast,Japan,2014,2,1,3,win
+Colombia,Ivory Coast,2014,2,1,3,win
+Japan,Greece,2014,0,0,0,draw
+Japan,Colombia,2014,1,4,5,lose
+Greece,Ivory Coast,2014,2,1,3,win
+Uruguay,Costa Rica,2014,1,3,4,lose
+England,Italy,2014,1,2,3,lose
+Uruguay,England,2014,2,1,3,win
+Italy,Costa Rica,2014,0,1,1,lose
+Italy,Uruguay,2014,0,1,1,lose
+Costa Rica,England,2014,0,0,0,draw
+Switzerland,Ecuador,2014,2,1,3,win
+France,Honduras,2014,3,0,3,win
+Switzerland,France,2014,2,5,7,lose
+Honduras,Ecuador,2014,1,2,3,lose
+Honduras,Switzerland,2014,0,3,3,lose
+Ecuador,France,2014,0,0,0,draw
+Argentina,Bosnia and Herzegovina,2014,2,1,3,win
+Iran,Nigeria,2014,0,0,0,draw
+Argentina,Iran,2014,1,0,1,win
+Nigeria,Bosnia and Herzegovina,2014,1,0,1,win
+Nigeria,Argentina,2014,2,3,5,lose
+Bosnia and Herzegovina,Iran,2014,3,1,4,win
+Germany,Portugal,2014,4,0,4,win
+Ghana,United States,2014,1,2,3,lose
+Germany,Ghana,2014,2,2,4,draw
+United States,Portugal,2014,2,2,4,draw
+United States,Germany,2014,0,1,1,lose
+Portugal,Ghana,2014,2,1,3,win
+Belgium,Algeria,2014,2,1,3,win
+Russia,South Korea,2014,1,1,2,draw
+Belgium,Russia,2014,1,0,1,win
+South Korea,Algeria,2014,2,4,6,lose
+South Korea,Belgium,2014,0,1,1,lose
+Algeria,Russia,2014,1,1,2,draw
+Brazil,Chile,2014,1,1,2,draw
+Colombia,Uruguay,2014,2,0,2,win
+Netherlands,Mexico,2014,2,1,3,win
+Costa Rica,Greece,2014,1,1,2,draw
+France,Nigeria,2014,2,0,2,win
+Germany,Algeria,2014,2,1,3,win
+Argentina,Switzerland,2014,1,0,1,win
+Belgium,United States,2014,2,1,3,win
+France,Germany,2014,0,1,1,lose
+Brazil,Colombia,2014,2,1,3,win
+Argentina,Belgium,2014,1,0,1,win
+Netherlands,Costa Rica,2014,0,0,0,draw
+Brazil,Germany,2014,1,7,8,lose
+Netherlands,Argentina,2014,0,0,0,draw
+Brazil,Netherlands,2014,0,3,3,lose
+Germany,Argentina,2014,1,0,1,win
+Russia,Saudi Arabia,2018,5,0,5,win
+Egypt,Uruguay,2018,0,1,1,lose
+Russia,Egypt,2018,3,1,4,win
+Uruguay,Saudi Arabia,2018,1,0,1,win
+Uruguay,Russia,2018,3,0,3,win
+Saudi Arabia,Egypt,2018,2,1,3,win
+Morocco,Iran,2018,0,1,1,lose
+Portugal,Spain,2018,3,3,6,draw
+Portugal,Morocco,2018,1,0,1,win
+Iran,Spain,2018,0,1,1,lose
+Iran,Portugal,2018,1,1,2,draw
+Spain,Morocco,2018,2,2,4,draw
+France,Australia,2018,2,1,3,win
+Peru,Denmark,2018,0,1,1,lose
+Denmark,Australia,2018,1,1,2,draw
+France,Peru,2018,1,0,1,win
+Denmark,France,2018,0,0,0,draw
+Australia,Peru,2018,0,2,2,lose
+Argentina,Iceland,2018,1,1,2,draw
+Croatia,Nigeria,2018,2,0,2,win
+Argentina,Croatia,2018,0,3,3,lose
+Nigeria,Iceland,2018,2,0,2,win
+Nigeria,Argentina,2018,1,2,3,lose
+Iceland,Croatia,2018,1,2,3,lose
+Costa Rica,Serbia,2018,0,1,1,lose
+Brazil,Switzerland,2018,1,1,2,draw
+Brazil,Costa Rica,2018,2,0,2,win
+Serbia,Switzerland,2018,1,2,3,lose
+Serbia,Brazil,2018,0,2,2,lose
+Switzerland,Costa Rica,2018,2,2,4,draw
+Germany,Mexico,2018,0,1,1,lose
+Sweden,South Korea,2018,1,0,1,win
+South Korea,Mexico,2018,1,2,3,lose
+Germany,Sweden,2018,2,1,3,win
+South Korea,Germany,2018,2,0,2,win
+Mexico,Sweden,2018,0,3,3,lose
+Belgium,Panama,2018,3,0,3,win
+Tunisia,England,2018,1,2,3,lose
+Belgium,Tunisia,2018,5,2,7,win
+England,Panama,2018,6,1,7,win
+England,Belgium,2018,0,1,1,lose
+Panama,Tunisia,2018,1,2,3,lose
+Colombia,Japan,2018,1,2,3,lose
+Poland,Senegal,2018,1,2,3,lose
+Japan,Senegal,2018,2,2,4,draw
+Poland,Colombia,2018,0,3,3,lose
+Japan,Poland,2018,0,1,1,lose
+Senegal,Colombia,2018,0,1,1,lose
+France,Argentina,2018,4,3,7,win
+Uruguay,Portugal,2018,2,1,3,win
+Spain,Russia,2018,1,1,2,draw
+Croatia,Denmark,2018,1,1,2,draw
+Brazil,Mexico,2018,2,0,2,win
+Belgium,Japan,2018,3,2,5,win
+Sweden,Switzerland,2018,1,0,1,win
+Colombia,England,2018,1,1,2,draw
+Uruguay,France,2018,0,2,2,lose
+Brazil,Belgium,2018,1,2,3,lose
+Sweden,England,2018,0,2,2,lose
+Russia,Croatia,2018,2,2,4,draw
+France,Belgium,2018,1,0,1,win
+Croatia,England,2018,2,1,3,win
+Belgium,England,2018,2,0,2,win
+France,Croatia,2018,4,2,6,win
+Qatar,Ecuador,2022,0,2,2,lose
+Senegal,Netherlands,2022,0,2,2,lose
+Qatar,Senegal,2022,1,3,4,lose
+Netherlands,Ecuador,2022,1,1,2,draw
+Ecuador,Senegal,2022,1,2,3,lose
+Netherlands,Qatar,2022,2,0,2,win
+England,Iran,2022,6,2,8,win
+United States,Wales,2022,1,1,2,draw
+Wales,Iran,2022,0,2,2,lose
+England,United States,2022,0,0,0,draw
+Wales,England,2022,0,3,3,lose
+Iran,United States,2022,0,1,1,lose
+Argentina,Saudi Arabia,2022,1,2,3,lose
+Mexico,Poland,2022,0,0,0,draw
+Poland,Saudi Arabia,2022,2,0,2,win
+Argentina,Mexico,2022,2,0,2,win
+Poland,Argentina,2022,0,2,2,lose
+Saudi Arabia,Mexico,2022,1,2,3,lose
+Denmark,Tunisia,2022,0,0,0,draw
+France,Australia,2022,4,1,5,win
+Tunisia,Australia,2022,0,1,1,lose
+France,Denmark,2022,2,1,3,win
+Australia,Denmark,2022,1,0,1,win
+Tunisia,France,2022,1,0,1,win
+Germany,Japan,2022,1,2,3,lose
+Spain,Costa Rica,2022,7,0,7,win
+Japan,Costa Rica,2022,0,1,1,lose
+Spain,Germany,2022,1,1,2,draw
+Japan,Spain,2022,2,1,3,win
+Costa Rica,Germany,2022,2,4,6,lose
+Morocco,Croatia,2022,0,0,0,draw
+Belgium,Canada,2022,1,0,1,win
+Belgium,Morocco,2022,0,2,2,lose
+Croatia,Canada,2022,4,1,5,win
+Croatia,Belgium,2022,0,0,0,draw
+Canada,Morocco,2022,1,2,3,lose
+Switzerland,Cameroon,2022,1,0,1,win
+Brazil,Serbia,2022,2,0,2,win
+Cameroon,Serbia,2022,3,3,6,draw
+Brazil,Switzerland,2022,1,0,1,win
+Serbia,Switzerland,2022,2,3,5,lose
+Cameroon,Brazil,2022,1,0,1,win
+Uruguay,South Korea,2022,0,0,0,draw
+Portugal,Ghana,2022,3,2,5,win
+South Korea,Ghana,2022,2,3,5,lose
+Portugal,Uruguay,2022,2,0,2,win
+Ghana,Uruguay,2022,0,2,2,lose
+South Korea,Portugal,2022,2,1,3,win
+Netherlands,United States,2022,3,1,4,win
+Argentina,Australia,2022,2,1,3,win
+France,Poland,2022,3,1,4,win
+England,Senegal,2022,3,0,3,win
+Japan,Croatia,2022,1,1,2,draw
+Brazil,South Korea,2022,4,1,5,win
+Morocco,Spain,2022,0,0,0,draw
+Portugal,Switzerland,2022,6,1,7,win
+Croatia,Brazil,2022,1,1,2,draw
+Netherlands,Argentina,2022,2,2,4,draw
+Morocco,Portugal,2022,1,0,1,win
+England,France,2022,1,2,3,lose
+Argentina,Croatia,2022,3,0,3,win
+France,Morocco,2022,2,0,2,win
+Croatia,Morocco,2022,2,1,3,win
+Argentina,France,2022,3,3,6,draw
