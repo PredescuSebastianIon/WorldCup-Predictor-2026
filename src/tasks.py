@@ -4,6 +4,7 @@ from scrape.fifa_rankings import fetch_latest
 
 DATA_DIR = "../data"
 SCRAPE_DIR = "./scrape"
+MODELS_DIR = "./models"
 
 @task(name = "see")
 def see_app(c):
@@ -55,6 +56,19 @@ def scrape(c):
 def fifa_latest(c):
     fetch_latest()
 
+@task(name = "model")
+def create_models(c, model_name):
+    """
+    Create models: Logistic Regression and Ridge Classifier CV
+    Usage: inv model -m <model_name>
+    <model_name> = {logistic, ridge}
+    """
+    if model_name == "logistic":
+        c.run(f"python {MODELS_DIR}/logistic_regression.py")
+    
+    if model_name == "ridge":
+        c.run(f"python {MODELS_DIR}/ridge_classifier_cv.py")
+
 @task(name = "all", pre = [clean])
 def all(c):
     """
@@ -68,4 +82,3 @@ def all(c):
     time.sleep(2)
     see_app(c)
     build(c)
-    
