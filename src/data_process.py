@@ -10,6 +10,9 @@ historical_rankings= Path("../data/fifa_historical.csv")
 latest_rankings= Path("../data/fifa_latest.csv")
 
 def merge():
+    # make sure ../data/processed exists
+    merge_csv.parent.mkdir(parents=True, exist_ok=True)
+
     # loading source csvs
     historical_df = pd.read_csv(historical_rankings)
     latest_df = pd.read_csv(latest_rankings)
