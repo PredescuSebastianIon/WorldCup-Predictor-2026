@@ -6,3 +6,5 @@ plotly
 bs4
 lxml
 invoke
+requierments
+requests
