@@ -46,7 +46,7 @@ This project provides detailed insights and forecasts for the 2026 tournament:
 
 -----
 
-## ⚙️ How It Works (Non-Technical)
+## ⚙️ How It Works
 
 This predictor uses smart computer algorithms to make its forecasts:
 
