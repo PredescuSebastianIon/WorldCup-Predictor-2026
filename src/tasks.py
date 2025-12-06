@@ -17,7 +17,7 @@ def see_app(c):
     """
     Open app in default browser
     """
-    c.run(f"open http://127.0.0.1:7860")
+    c.run('python -m webbrowser http://127.0.0.1:7860', pty=True)
 
 @task(name = "build", 
       help = {
