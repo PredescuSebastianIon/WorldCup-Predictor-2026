@@ -40,10 +40,6 @@ This project provides detailed insights and forecasts for the 2026 tournament:
 
     Identify the most probable teams to lift the trophy based on thousands of independent simulations run by the algorithm.
 
-  * ### Data-Driven Insights
-
-    Get an objective look at which variables (like recent form, team ranking, or home advantage) were most important in determining the predicted outcomes.
-
 -----
 
 ## ⚙️ How It Works
@@ -51,7 +47,7 @@ This project provides detailed insights and forecasts for the 2026 tournament:
 This predictor uses smart computer algorithms to make its forecasts:
 
 1.  **Data Collection & Cleaning:** We start by gathering a large, clean database of past international matches, team rankings, and performance statistics.
-2.  **Training the Algorithm:** The system is fed this historical data and learns to recognize complex patterns that led to wins, losses, or draws. The current version uses a powerful forecasting method that relies on thousands of simulated "decision trees" to make highly accurate and reliable predictions.
+2.  **Training the Algorithm:** The system is fed this historical data and learns to recognize complex patterns that led to wins, losses, or draws. The current version uses three different models that can predict the outcome.
 3.  **Forecasting:** Once trained, the system analyzes the current teams competing in the 2026 World Cup and applies the learned patterns to predict the probability of every possible match result.
 4.  **Simulation & Output:** We run the entire World Cup schedule (all 104 matches) many times over. The final output provides the most likely outcomes based on the majority consensus of these intensive simulations.
 
