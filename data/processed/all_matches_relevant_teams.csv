@@ -8,7 +8,6 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 1993-02-10,South Korea,Ghana,3,1,Independence Tournament,Malaysia,True,49.0,28.0,49.0,28.0,AFC,39.0,34.0,39.0,34.0,CAF,10.0,-6.0,2,0
 1993-02-10,Mexico,Romania,2,0,Friendly,Mexico,False,25.0,43.0,25.0,43.0,CONCACAF,11.0,51.0,11.0,51.0,UEFA,14.0,-8.0,2,0
 1993-02-10,Portugal,Norway,1,1,Friendly,Portugal,False,33.0,38.0,33.0,38.0,UEFA,14.0,49.0,14.0,49.0,UEFA,19.0,-11.0,0,1
-1993-02-14,Albania,Kosovo,3,1,Friendly,Albania,False,86.0,14.0,86.0,14.0,UEFA,,,,,,,,2,0
 1993-02-17,Albania,Northern Ireland,1,2,World Cup qualifier,Albania,False,86.0,14.0,86.0,14.0,UEFA,43.0,31.0,43.0,31.0,UEFA,43.0,-17.0,-1,1
 1993-02-18,Argentina,Brazil,1,1,Friendly tournament,Argentina,False,10.0,51.0,10.0,51.0,CONMEBOL,3.0,56.0,3.0,56.0,CONMEBOL,7.0,-5.0,0,1
 1993-02-24,Argentina,Denmark,1,1,Artemio Franchi Trophy,Argentina,False,10.0,51.0,10.0,51.0,CONMEBOL,9.0,52.0,9.0,52.0,UEFA,1.0,-1.0,0,0
@@ -118,7 +117,6 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 1993-09-08,England,Poland,3,0,World Cup qualifier,England,False,11.0,53.0,5.0,55.0,UEFA,20.0,48.0,20.0,46.0,UEFA,-9.0,5.0,3,1
 1993-09-08,Scotland,Switzerland,1,1,World Cup qualifier,Scotland,False,30.0,42.0,23.0,43.0,UEFA,3.0,57.0,12.0,51.0,UEFA,27.0,-15.0,0,1
 1993-09-08,Albania,Denmark,0,1,World Cup qualifier,Albania,False,92.0,15.0,86.0,14.0,UEFA,10.0,53.0,9.0,52.0,UEFA,82.0,-38.0,-1,1
-1993-09-12,Iran,Bosnia and Herzegovina,1,3,Friendly,Iran,False,54.0,32.0,61.0,24.0,AFC,,,,,,,,-2,0
 1993-09-12,Uruguay,Bolivia,2,1,World Cup qualifier,Uruguay,False,22.0,46.0,16.0,48.0,CONMEBOL,59.0,31.0,87.0,14.0,CONMEBOL,-37.0,15.0,1,1
 1993-09-19,Brazil,Uruguay,2,0,World Cup qualifier,Brazil,False,8.0,54.0,3.0,56.0,CONMEBOL,22.0,46.0,16.0,48.0,CONMEBOL,-14.0,8.0,2,1
 1993-09-19,Ecuador,Bolivia,1,1,World Cup qualifier,Ecuador,False,35.0,40.0,65.0,23.0,CONMEBOL,59.0,31.0,87.0,14.0,CONMEBOL,-24.0,9.0,0,1
@@ -282,7 +280,6 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 1994-09-11,South Korea,Ukraine,1,0,Friendly,South Korea,False,36.0,39.0,37.0,38.0,AFC,79.0,20.0,83.0,20.0,UEFA,-43.0,19.0,1,0
 1994-09-13,South Korea,Ukraine,2,0,Friendly,South Korea,False,38.0,39.0,36.0,39.0,AFC,79.0,21.0,79.0,20.0,UEFA,-41.0,18.0,2,0
 1994-09-29,Japan,Australia,0,0,Friendly,Japan,False,41.0,37.0,38.0,38.0,AFC,52.0,32.0,47.0,34.0,AFC,-11.0,5.0,0,1
-1994-10-01,Uzbekistan,Saudi Arabia,4,1,Asian Games,Japan,True,,,,,,29.0,43.0,29.0,43.0,AFC,,,3,0
 1994-10-05,Japan,Qatar,1,1,Asian Games,Japan,False,41.0,37.0,38.0,38.0,AFC,71.0,23.0,67.0,23.0,AFC,-30.0,14.0,0,1
 1994-10-08,France,Romania,0,0,European Championship qual,France,False,20.0,50.0,16.0,53.0,UEFA,7.0,58.0,7.0,58.0,UEFA,13.0,-8.0,0,1
 1994-10-11,Japan,South Korea,2,3,Asian Games,Japan,False,41.0,37.0,38.0,38.0,AFC,38.0,39.0,36.0,39.0,AFC,3.0,-2.0,-1,1
@@ -291,7 +288,6 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 1994-10-12,Denmark,Belgium,3,1,European Championship qual,Denmark,False,13.0,53.0,12.0,55.0,UEFA,19.0,51.0,20.0,50.0,UEFA,-6.0,2.0,2,1
 1994-10-12,Switzerland,Sweden,4,2,European Championship qual,Switzerland,False,11.0,56.0,11.0,56.0,UEFA,3.0,62.0,3.0,61.0,UEFA,8.0,-6.0,2,1
 1994-10-12,England,Romania,1,1,Friendly,England,False,18.0,51.0,18.0,52.0,UEFA,7.0,58.0,7.0,58.0,UEFA,11.0,-7.0,0,1
-1994-10-13,Uzbekistan,South Korea,1,0,Asian Games,Japan,True,,,,,,38.0,39.0,36.0,39.0,AFC,,,1,0
 1994-10-19,Saudi Arabia,United States,2,1,Friendly,Saudi Arabia,False,29.0,43.0,29.0,43.0,AFC,22.0,48.0,22.0,48.0,CONCACAF,7.0,-5.0,1,0
 1994-11-08,Tunisia,Ivory Coast,2,0,Friendly,Tunisia,False,30.0,43.0,27.0,43.0,CAF,22.0,48.0,23.0,47.0,CAF,8.0,-5.0,2,1
 1994-11-12,Saudi Arabia,Qatar,2,1,Gulf Cup,United Arab Emirates,True,27.0,44.0,29.0,43.0,AFC,60.0,29.0,71.0,23.0,AFC,-33.0,15.0,1,1
@@ -450,7 +446,6 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 1995-11-26,Algeria,Ivory Coast,0,0,Friendly tournament,Gabon,True,47.0,38.0,51.0,36.0,CAF,28.0,46.0,32.0,45.0,CAF,19.0,-8.0,0,1
 1995-11-26,Jamaica,Norway,1,1,Friendly,Jamaica,False,51.0,37.0,81.0,27.0,CONCACAF,6.0,58.0,4.0,58.0,UEFA,45.0,-21.0,0,0
 1995-11-29,Colombia,Mexico,2,2,Friendly,United States,True,17.0,53.0,15.0,54.0,CONMEBOL,13.0,55.0,10.0,56.0,CONCACAF,4.0,-2.0,0,0
-1995-11-30,Albania,Bosnia and Herzegovina,2,0,Friendly,Albania,False,87.0,23.0,89.0,22.0,UEFA,,,,,,,,2,0
 1995-12-02,Algeria,Ivory Coast,0,0,Friendly tournament,Gabon,True,47.0,38.0,51.0,36.0,CAF,28.0,46.0,32.0,45.0,CAF,19.0,-8.0,0,1
 1995-12-12,England,Portugal,1,1,Friendly,England,False,20.0,50.0,22.0,48.0,UEFA,16.0,54.0,17.0,53.0,UEFA,4.0,-4.0,0,1
 1995-12-15,South Africa,Germany,0,0,Friendly,South Africa,False,59.0,34.0,57.0,35.0,CAF,2.0,62.0,3.0,60.0,UEFA,57.0,-28.0,0,0
@@ -505,7 +500,6 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 1996-04-24,Switzerland,Wales,2,0,Friendly,Switzerland,False,26.0,48.0,21.0,51.0,UEFA,66.0,32.0,65.0,33.0,UEFA,-40.0,16.0,2,1
 1996-04-24,South Africa,Brazil,2,3,Friendly tournament,South Africa,False,19.0,51.0,23.0,51.0,CAF,1.0,69.0,1.0,69.0,CONMEBOL,18.0,-18.0,-1,0
 1996-04-24,Norway,Spain,0,0,Friendly,Norway,False,17.0,52.0,17.0,52.0,UEFA,6.0,59.0,4.0,60.0,UEFA,11.0,-7.0,0,1
-1996-04-24,Bosnia and Herzegovina,Albania,0,0,Friendly,Bosnia and Herzegovina,False,,,,,,96.0,20.0,91.0,22.0,UEFA,,,0,0
 1996-04-24,Netherlands,Germany,0,1,Friendly,Netherlands,False,11.0,54.0,6.0,58.0,UEFA,2.0,62.0,3.0,61.0,UEFA,9.0,-8.0,-1,1
 1996-05-09,Sweden,Slovakia,2,1,Friendly,Sweden,False,7.0,56.0,12.0,54.0,UEFA,39.0,43.0,38.0,43.0,UEFA,-32.0,13.0,1,1
 1996-05-16,South Korea,Sweden,0,2,Friendly,South Korea,False,59.0,36.0,62.0,35.0,AFC,7.0,56.0,12.0,54.0,UEFA,52.0,-20.0,-2,0
@@ -814,12 +808,10 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 1998-02-10,United States,Brazil,1,0,CONCACAF Championship,United States,False,26.0,54.0,29.0,54.0,CONCACAF,1.0,73.0,1.0,72.0,CONMEBOL,25.0,-19.0,1,0
 1998-02-11,Australia,South Korea,1,0,Friendly,Australia,False,35.0,53.0,32.0,53.0,AFC,27.0,54.0,31.0,53.0,AFC,8.0,-1.0,1,1
 1998-02-11,Ivory Coast,South Africa,1,1,African Nations Cup,Burkina Faso,True,52.0,46.0,48.0,46.0,CAF,31.0,53.0,35.0,53.0,CAF,21.0,-7.0,0,1
-1998-02-12,Tunisia,DR Congo,2,1,African Nations Cup,Burkina Faso,True,23.0,56.0,23.0,56.0,CAF,,,,,,,,1,0
 1998-02-12,Mexico,Jamaica,1,0,CONCACAF Championship,United States,True,5.0,61.0,11.0,60.0,CONCACAF,39.0,52.0,39.0,51.0,CONCACAF,-34.0,9.0,1,1
 1998-02-15,Australia,Japan,0,3,Friendly,Australia,False,35.0,53.0,32.0,53.0,AFC,14.0,58.0,18.0,58.0,AFC,21.0,-5.0,-3,1
 1998-02-15,United States,Mexico,0,1,CONCACAF Championship,United States,False,26.0,54.0,29.0,54.0,CONCACAF,5.0,61.0,11.0,60.0,CONCACAF,21.0,-7.0,-1,1
 1998-02-15,Brazil,Jamaica,1,0,CONCACAF Championship,United States,True,1.0,73.0,1.0,72.0,CONMEBOL,39.0,52.0,39.0,51.0,CONCACAF,-38.0,21.0,1,0
-1998-02-16,DR Congo,Ghana,1,0,African Nations Cup,Burkina Faso,True,,,,,,57.0,45.0,53.0,45.0,CAF,,,1,0
 1998-02-17,Morocco,Egypt,1,0,African Nations Cup,Burkina Faso,True,15.0,58.0,16.0,58.0,CAF,32.0,53.0,37.0,51.0,CAF,-17.0,5.0,1,1
 1998-02-21,Egypt,Ivory Coast,0,0,African Nations Cup,Burkina Faso,True,26.0,55.0,32.0,53.0,CAF,45.0,48.0,52.0,46.0,CAF,-19.0,7.0,0,1
 1998-02-21,United States,Netherlands,0,2,Friendly,United States,False,12.0,59.0,26.0,54.0,CONCACAF,25.0,55.0,22.0,56.0,UEFA,-13.0,4.0,-2,0
@@ -827,7 +819,6 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 1998-02-22,South Africa,Morocco,2,1,African Nations Cup,Burkina Faso,True,36.0,52.0,31.0,53.0,CAF,13.0,59.0,15.0,58.0,CAF,23.0,-7.0,1,1
 1998-02-24,Netherlands,Mexico,3,2,Friendly,United States,True,25.0,55.0,22.0,56.0,UEFA,4.0,62.0,5.0,61.0,CONCACAF,21.0,-7.0,1,0
 1998-02-25,Belgium,United States,2,0,Friendly,Belgium,False,41.0,50.0,41.0,50.0,UEFA,12.0,59.0,26.0,54.0,CONCACAF,29.0,-9.0,2,0
-1998-02-25,South Africa,DR Congo,2,1,African Nations Cup,Burkina Faso,True,36.0,52.0,31.0,53.0,CAF,,,,,,,,1,0
 1998-02-25,France,Norway,3,3,Friendly,France,False,6.0,59.0,6.0,60.0,UEFA,10.0,59.0,13.0,58.0,UEFA,-4.0,0.0,0,1
 1998-02-28,Egypt,South Africa,2,0,African Nations Cup,Burkina Faso,True,26.0,55.0,32.0,53.0,CAF,36.0,52.0,31.0,53.0,CAF,-10.0,3.0,2,1
 1998-03-01,Japan,South Korea,2,1,Dynasty Cup,Japan,False,9.0,59.0,14.0,58.0,AFC,20.0,56.0,27.0,54.0,AFC,-11.0,3.0,1,1
@@ -1641,7 +1632,6 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 2002-06-22,South Korea,Spain,0,0,World Cup,South Korea,False,40.0,603.0,41.0,602.0,AFC,8.0,713.0,8.0,715.0,UEFA,32.0,-110.0,0,0
 2002-06-25,South Korea,Germany,0,1,World Cup,South Korea,False,40.0,603.0,41.0,602.0,AFC,11.0,695.0,12.0,697.0,UEFA,29.0,-92.0,-1,0
 2002-06-30,Brazil,Germany,2,0,World Cup,Japan,True,2.0,784.0,2.0,787.0,CONMEBOL,11.0,695.0,12.0,697.0,UEFA,-9.0,89.0,2,0
-2002-07-08,Australia,New Caledonia,11,0,Oceania Nations Cup,New Zealand,True,50.0,552.0,48.0,575.0,AFC,,,,,,,,11,0
 2002-07-14,New Zealand,Australia,1,0,Oceania Nations Cup,New Zealand,False,88.0,452.0,87.0,471.0,OFC,50.0,552.0,48.0,575.0,AFC,38.0,-100.0,1,0
 2002-08-20,Algeria,DR Congo,1,1,Friendly,Algeria,False,82.0,481.0,79.0,490.0,CAF,79.0,486.0,76.0,493.0,CAF,3.0,-5.0,0,1
 2002-08-21,Switzerland,Austria,3,2,Friendly,Switzerland,False,65.0,510.0,64.0,518.0,UEFA,62.0,522.0,58.0,533.0,UEFA,3.0,-12.0,1,1
@@ -1659,7 +1649,6 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 2002-09-07,England,Portugal,1,1,Friendly,England,False,7.0,728.0,8.0,728.0,UEFA,8.0,728.0,7.0,731.0,UEFA,-1.0,0.0,0,1
 2002-09-07,Norway,Denmark,2,2,European Championship qual,Norway,False,35.0,621.0,37.0,625.0,UEFA,12.0,703.0,13.0,704.0,UEFA,23.0,-82.0,0,1
 2002-09-07,Bosnia and Herzegovina,Romania,0,3,European Championship qual,Bosnia and Herzegovina,False,77.0,487.0,73.0,497.0,UEFA,27.0,645.0,25.0,657.0,UEFA,50.0,-158.0,-3,1
-2002-09-07,Kosovo,Albania,0,1,Friendly,Kosovo,False,,,,,,93.0,432.0,95.0,437.0,UEFA,,,-1,0
 2002-09-08,Ivory Coast,South Africa,0,0,African Nations Cup qualifier,Ivory Coast,False,48.0,553.0,47.0,566.0,CAF,32.0,634.0,34.0,634.0,CAF,16.0,-81.0,0,1
 2002-09-19,Iran,Paraguay,1,1,Friendly tournament,Iran,False,34.0,633.0,33.0,633.0,AFC,16.0,680.0,19.0,674.0,CONMEBOL,18.0,-47.0,0,0
 2002-10-11,Bosnia and Herzegovina,Germany,1,1,Friendly,Bosnia and Herzegovina,False,83.0,476.0,77.0,487.0,UEFA,4.0,770.0,5.0,764.0,UEFA,79.0,-294.0,0,1
@@ -2451,7 +2440,6 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 2007-06-11,Canada,Haiti,2,0,CONCACAF Championship,United States,True,94.0,342.0,94.0,342.0,CONCACAF,85.0,372.0,86.0,373.0,CONCACAF,9.0,-30.0,2,1
 2007-06-12,Jordan,Iraq,0,0,Friendly,Jordan,False,82.0,392.0,80.0,395.0,AFC,79.0,402.0,78.0,402.0,AFC,3.0,-10.0,0,1
 2007-06-13,Mexico,Panama,1,0,CONCACAF Championship,United States,True,26.0,866.0,20.0,891.0,CONCACAF,52.0,595.0,60.0,514.0,CONCACAF,-26.0,271.0,1,1
-2007-06-15,Kosovo,Saudi Arabia,1,0,Friendly,Turkey,True,,,,,,62.0,484.0,63.0,484.0,AFC,,,1,0
 2007-06-16,Iran,Iraq,0,0,West Asian Championship,Jordan,True,47.0,623.0,41.0,673.0,AFC,84.0,388.0,79.0,402.0,AFC,-37.0,235.0,0,1
 2007-06-16,United States,Panama,2,1,CONCACAF Championship,United States,False,16.0,978.0,29.0,785.0,CONCACAF,52.0,595.0,60.0,514.0,CONCACAF,-36.0,383.0,1,1
 2007-06-20,Bolivia,Paraguay,0,0,Copa Paz del Chaco,Bolivia,False,92.0,356.0,97.0,332.0,CONMEBOL,37.0,731.0,35.0,729.0,CONMEBOL,55.0,-375.0,0,1
@@ -2916,7 +2904,6 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 2010-01-31,Jamaica,Canada,1,0,Friendly,Jamaica,False,81.0,403.0,74.0,451.0,CONCACAF,56.0,573.0,57.0,573.0,CONCACAF,25.0,-170.0,1,1
 2010-02-10,Argentina,Jamaica,2,1,Friendly tournament,Argentina,False,8.0,1082.0,8.0,1085.0,CONMEBOL,78.0,403.0,81.0,403.0,CONCACAF,-70.0,679.0,1,0
 2010-02-14,Japan,South Korea,1,3,East Asian Championship,Japan,False,40.0,729.0,43.0,709.0,AFC,49.0,634.0,52.0,625.0,AFC,-9.0,95.0,-2,1
-2010-02-17,Kosovo,Albania,2,3,Friendly,Kosovo,False,,,,,,97.0,336.0,96.0,336.0,UEFA,,,-1,0
 2010-02-24,Mexico,Bolivia,5,0,Friendly,United States,True,17.0,947.0,17.0,931.0,CONCACAF,55.0,573.0,56.0,573.0,CONMEBOL,-38.0,374.0,5,0
 2010-03-03,South Korea,Ivory Coast,2,0,Friendly,England,True,53.0,616.0,49.0,634.0,AFC,22.0,874.0,22.0,865.0,CAF,31.0,-258.0,2,0
 2010-03-03,Netherlands,United States,2,1,Friendly,Netherlands,False,3.0,1324.0,3.0,1288.0,UEFA,18.0,954.0,14.0,963.0,CONCACAF,-15.0,370.0,1,0
@@ -3062,7 +3049,6 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 2010-10-12,Croatia,Norway,2,1,Friendly,Croatia,False,11.0,998.0,14.0,968.0,UEFA,14.0,958.0,22.0,878.0,UEFA,-3.0,40.0,1,1
 2010-10-12,Belgium,Austria,4,4,European Championship qual,Belgium,False,62.0,526.0,48.0,589.0,UEFA,61.0,528.0,60.0,536.0,UEFA,1.0,-2.0,0,1
 2010-10-12,Netherlands,Sweden,4,1,European Championship qual,Netherlands,False,2.0,1663.0,2.0,1659.0,UEFA,32.0,760.0,35.0,747.0,UEFA,-30.0,903.0,3,1
-2010-10-31,Curacao,Suriname,2,2,Friendly tournament,Curacao,False,,,,,,113.0,261.0,137.0,133.0,CONCACAF,,,0,0
 2010-11-17,Egypt,Australia,3,0,Friendly,Egypt,False,10.0,1047.0,11.0,1034.0,CAF,20.0,853.0,21.0,862.0,AFC,-10.0,194.0,3,0
 2010-11-17,Ghana,Saudi Arabia,0,0,Friendly,United Arab Emirates,True,17.0,903.0,17.0,891.0,CAF,68.0,462.0,71.0,453.0,AFC,-51.0,441.0,0,0
 2010-11-17,South Africa,United States,0,1,Friendly tournament,South Africa,False,50.0,562.0,52.0,545.0,CAF,24.0,847.0,25.0,838.0,CONCACAF,26.0,-285.0,-1,0
@@ -3619,7 +3605,6 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 2014-03-05,Belgium,Ivory Coast,2,2,Friendly,Belgium,False,11.0,1117.0,11.0,1098.0,UEFA,23.0,841.0,17.0,912.0,CAF,-12.0,276.0,0,0
 2014-03-05,Colombia,Tunisia,1,1,Friendly,Spain,True,5.0,1211.0,4.0,1200.0,CONMEBOL,45.0,656.0,44.0,689.0,CAF,-40.0,555.0,0,0
 2014-03-05,South Africa,Brazil,0,5,Friendly,South Africa,False,64.0,550.0,54.0,576.0,CAF,9.0,1125.0,10.0,1102.0,CONMEBOL,55.0,-575.0,-5,0
-2014-03-05,Kosovo,Haiti,0,0,Friendly,Kosovo,False,,,,,,79.0,430.0,79.0,440.0,CONCACAF,,,0,0
 2014-03-05,France,Netherlands,2,0,Friendly,France,False,18.0,917.0,20.0,893.0,UEFA,10.0,1122.0,9.0,1106.0,UEFA,8.0,-205.0,2,1
 2014-03-05,England,Denmark,1,0,Friendly,England,False,15.0,1032.0,13.0,1041.0,UEFA,20.0,907.0,25.0,831.0,UEFA,-5.0,125.0,1,1
 2014-03-05,Poland,Scotland,0,1,Friendly,Poland,False,70.0,494.0,77.0,461.0,UEFA,34.0,742.0,37.0,717.0,UEFA,36.0,-248.0,-1,1
@@ -3632,7 +3617,6 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 2014-04-02,United States,Mexico,2,2,Friendly,United States,False,14.0,1017.0,13.0,1044.0,CONCACAF,20.0,888.0,21.0,887.0,CONCACAF,-6.0,129.0,0,1
 2014-05-13,Germany,Poland,0,0,Friendly,Germany,False,2.0,1340.0,2.0,1340.0,UEFA,72.0,479.0,72.0,479.0,UEFA,-70.0,861.0,0,1
 2014-05-17,Netherlands,Ecuador,1,1,Friendly,Netherlands,False,15.0,967.0,15.0,967.0,UEFA,28.0,794.0,28.0,790.0,CONMEBOL,-13.0,173.0,0,0
-2014-05-25,Senegal,Kosovo,3,1,Friendly,Switzerland,True,63.0,511.0,63.0,511.0,CAF,,,,,,,,2,0
 2014-05-26,Australia,South Africa,1,1,Friendly,Australia,False,59.0,545.0,59.0,545.0,AFC,65.0,507.0,66.0,500.0,CAF,-6.0,38.0,0,0
 2014-05-27,France,Norway,4,0,Friendly,France,False,16.0,935.0,16.0,935.0,UEFA,55.0,551.0,56.0,551.0,UEFA,-39.0,384.0,4,1
 2014-05-28,South Korea,Tunisia,0,1,Friendly,South Korea,False,55.0,551.0,56.0,551.0,AFC,49.0,597.0,49.0,597.0,CAF,6.0,-46.0,-1,0
@@ -3914,7 +3898,6 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral,home_r
 2015-11-13,Belgium,Italy,3,1,Friendly,Belgium,False,1.0,1440.0,3.0,1387.0,UEFA,13.0,1040.0,17.0,962.0,UEFA,-12.0,400.0,2,1
 2015-11-13,Wales,Netherlands,2,3,Friendly,Wales,False,15.0,1032.0,8.0,1195.0,UEFA,16.0,976.0,14.0,1004.0,UEFA,-1.0,56.0,-1,1
 2015-11-13,France,Germany,2,0,Friendly,France,False,24.0,881.0,22.0,899.0,UEFA,2.0,1388.0,2.0,1401.0,UEFA,22.0,-507.0,2,1
-2015-11-13,Kosovo,Albania,2,2,Friendly,Kosovo,False,,,,,,36.0,723.0,32.0,755.0,UEFA,,,0,0
 2015-11-13,Argentina,Brazil,1,1,World Cup qualifier,Argentina,False,3.0,1383.0,1.0,1419.0,CONMEBOL,8.0,1208.0,7.0,1204.0,CONMEBOL,-5.0,175.0,0,1
 2015-11-13,Slovakia,Switzerland,3,2,Friendly,Slovakia,False,27.0,857.0,18.0,936.0,UEFA,11.0,1073.0,12.0,1044.0,UEFA,16.0,-216.0,1,1
 2015-11-14,Sweden,Denmark,2,1,European Championship qual,Sweden,False,45.0,647.0,45.0,672.0,UEFA,35.0,743.0,28.0,835.0,UEFA,10.0,-96.0,1,1
