@@ -43,37 +43,42 @@ ACTUAL_GROUPS = {
     'L': ['England', 'Croatia', 'Ghana', 'Panama'],
 }
 
-def predict_match(home_team, away_team, predict_func_state):
+def predict_match(home_team, away_team, predict_func_state, model_name):
+
     # Uses the actual prediction function passed from the Gradio state
     if predict_func_state:
         # Predict_func_state returns 'Team A', 'Team B', or 'Draw'
-        state = predict_func_state(home_team, away_team, 2026)
+        if model_name == "LogisticRegression" or model_name == "RandomForest":
+            state, probabilities = predict_func_state(home_team, away_team, 2026)
+        else:
+            state = predict_func_state(home_team, away_team, 2026)
+            probabilities = None
         if state == "WIN":
-            return home_team
+            return home_team, probabilities
         elif state == "LOSE":
-            return away_team
+            return away_team, probabilities
         elif state == "DRAW":
-            return random.choice([home_team, away_team])
+            return state, probabilities
     # Fallback if no model is trained
-    return random.choice([home_team, away_team])
+    return random.choice([home_team, away_team]), None
 
-def run_knockout_match(team1, team2, predict_func_state):
+def run_knockout_match(team1, team2, predict_func_state, model_name):
     # Knockout matches cannot end in a draw.
     while True:
-        winner = predict_match(team1, team2, predict_func_state)
-        if winner != 'Draw':
-            return winner
+        winner, probabilities = predict_match(team1, team2, predict_func_state, model_name)
+        if winner != 'DRAW':
+            return winner, probabilities
         # Simulate penalty shootout if a draw is predicted
-        return random.choice([team1, team2])
+        return random.choice([team1, team2]), probabilities
 
-def simulate_group_stage(groups, predict_func_state):
+def simulate_group_stage(groups, predict_func_state, model_name):
     standings = {group: {team: {'P': 0, 'GD': 0, 'Pts': 0} for team in teams} for group, teams in groups.items()}
     
     for group, teams in groups.items():
         for i in range(len(teams)):
             for j in range(i + 1, len(teams)):
                 team_a, team_b = teams[i], teams[j]
-                result = predict_match(team_a, team_b, predict_func_state)
+                result = predict_match(team_a, team_b, predict_func_state, model_name)[0]
                 
                 if result == team_a:
                     standings[group][team_a]['Pts'] += 3
@@ -108,38 +113,44 @@ def simulate_group_stage(groups, predict_func_state):
     )[:8]
     
     qualified_teams.extend([team[0] for team in best_thirds])
-    random.shuffle(qualified_teams) 
+    random.shuffle(qualified_teams)
 
     return qualified_teams
 
-def simulate_knockout_stage(qualified_teams, predict_func_state, stage_name):
+def simulate_knockout_stage(qualified_teams, predict_func_state, stage_name, model_name):
     winners = []
     stage_output = f"### ➡️ {stage_name} (Total Matches: {len(qualified_teams)//2})\n"
     
     for i in range(0, len(qualified_teams), 2):
         team1 = qualified_teams[i]
         team2 = qualified_teams[i+1]
-        
-        winner = run_knockout_match(team1, team2, predict_func_state)
+
+        winner, probabilities = run_knockout_match(team1, team2, predict_func_state, model_name)
         winners.append(winner)
-        stage_output += f"* **{team1}** vs **{team2}** &rArr; Winner: **{winner}**\n"
-        
+        stage_output += f"* **{team1}** vs **{team2}** &rArr; Winner: **{winner}**"
+        if probabilities is not None:
+            stage_output += f" with the probabilities of lose-{probabilities[0]*100:.2f}%, \
+                                                        draw-{probabilities[1]*100:.2f}%, \
+                                                        win-{probabilities[2]*100:.2f}%\n"
+        else:
+            stage_output += f"\n"
+
     return winners, stage_output
 
-def run_full_tournament_simulation(predict_func_state):
+def run_full_tournament_simulation(predict_func_state, model_name):
     if predict_func_state is None:
         return "⚠️ Please train a model first using the 'Train your model' button!"
 
     # 1. Group Stage
-    qualified_32 = simulate_group_stage(ACTUAL_GROUPS, predict_func_state)
+    qualified_32 = simulate_group_stage(ACTUAL_GROUPS, predict_func_state, model_name)
     
     # 2. Knockout Stages (Simulated in a single pass)
     # The results from simulate_knockout_stage are lists of winners and formatted output strings
-    round_of_16_teams, output_r32 = simulate_knockout_stage(qualified_32, predict_func_state, "Round of 32 (1/16 Finals)")
-    quarter_final_teams, output_r16 = simulate_knockout_stage(round_of_16_teams, predict_func_state, "Round of 16 (Octavos)")
-    semi_final_teams, output_qf = simulate_knockout_stage(quarter_final_teams, predict_func_state, "Quarter-Finals (Cuartos)")
-    finalists, output_sf = simulate_knockout_stage(semi_final_teams, predict_func_state, "Semi-Finals (Semifinales)")
-    champion, output_final = simulate_knockout_stage(finalists, predict_func_state, "The FINAL")
+    round_of_16_teams, output_r32 = simulate_knockout_stage(qualified_32, predict_func_state, "Round of 32 (1/16 Finals)", model_name)
+    quarter_final_teams, output_r16 = simulate_knockout_stage(round_of_16_teams, predict_func_state, "Round of 16 (Octavos)", model_name)
+    semi_final_teams, output_qf = simulate_knockout_stage(quarter_final_teams, predict_func_state, "Quarter-Finals (Cuartos)", model_name)
+    finalists, output_sf = simulate_knockout_stage(semi_final_teams, predict_func_state, "Semi-Finals (Semifinales)", model_name)
+    champion, output_final = simulate_knockout_stage(finalists, predict_func_state, "The FINAL", model_name)
     
     # Get the final champion name
     champion_name = champion[0]
@@ -174,8 +185,6 @@ def run_full_tournament_simulation(predict_func_state):
     # but for simple Gradio output, this is usually acceptable.
     
     return full_output
-
-# --- END NEW CODE ---
 
 # Data Visualization Functions
 def create_pie_chart(panda_data):
@@ -251,23 +260,30 @@ def train_model(model_name, current_model, current_predict_function):
     return gr.update(value=model_name), model, predict_function
 
 # Match Prediction Functions
-def run_prediction(home_team, away_team, predict_func_state):
+def run_prediction(home_team, away_team, predict_func_state, model_name):
     """
     Predicts the outcome of a match between two teams.
     """
     if predict_func_state is None:
         return "⚠️ Please train a model first!" 
+    probabilities = None
     
-    predicted_winner = predict_func_state(home_team, away_team, 2026) 
+    if model_name == "LogisticRegression" or model_name == "RandomForest":
+        predicted_winner, probabilities = predict_func_state(home_team, away_team, 2026) 
+    else:
+        predicted_winner = predict_func_state(home_team, away_team, 2026) 
     
     output_text = f"**{home_team}** vs **{away_team}**\n\n"
     output_text += f"🏆 Predicted Result: **{predicted_winner}**\n"
+
+    if model_name == "LogisticRegression" or model_name == "RandomForest":
+        output_text += f"{probabilities}"
 
     return output_text
 
 # Gradio Interface
 with gr.Blocks() as page:
-    
+
     # State management for model and prediction function
     model_state = gr.State(value=None)
     predict_function_state = gr.State(value=None)
@@ -322,7 +338,7 @@ with gr.Blocks() as page:
     
     predict.click(
         fn=run_prediction, 
-        inputs=[HomeTeam, AwayTeam, predict_function_state], 
+        inputs=[HomeTeam, AwayTeam, predict_function_state, model_dropdown], 
         outputs=[prediction_output]
     )
     
@@ -335,7 +351,7 @@ with gr.Blocks() as page:
     
     simulate_btn.click(
         fn=run_full_tournament_simulation, 
-        inputs=[predict_function_state], 
+        inputs=[predict_function_state, model_dropdown], 
         outputs=[simulation_output]
     )
     # --- END NEW SECTION ---
@@ -355,4 +371,4 @@ with gr.Blocks() as page:
 
 # Application Entry Point
 if __name__ == "__main__":
-    page.launch(share=False)
+    page.launch(share=True)

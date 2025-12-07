@@ -108,7 +108,7 @@ def predict_match_with_random_forest(home_team, away_team, year):
     labels = {-1: "LOSE", 0: "DRAW", 1: "WIN"}
     print(f"\nPrediction {home_team} vs {away_team} ({year}): {labels[result_code]}")
     print("Probabilities:", probabilities)
-    return labels[result_code]
+    return labels[result_code], probabilities
 
 # OLD DATASET
 # teams = pd.read_csv("../data/processed/merged_data.csv")

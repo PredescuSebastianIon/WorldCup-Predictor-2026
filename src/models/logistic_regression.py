@@ -39,5 +39,5 @@ def predict_match_with_logistic_regression(HomeTeam, AwayTeam, Year):
     print(f"\nPredicted result {new_match['HomeTeam'][0]} vs {new_match['AwayTeam'][0]} with LogisticRegression: {labels[result_code].upper()}")
     print(f"Probabilities (lose/draw/win): {np.round(probabilities, 2)}")
 
-    return labels[result_code].upper()
+    return labels[result_code].upper(), np.round(probabilities, 2)
 # , np.round(probabilities, 2)
