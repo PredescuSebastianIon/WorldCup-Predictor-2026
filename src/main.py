@@ -5,8 +5,8 @@ from countries import countries
 from database import select_winner, update_procentage
 from database import winner_predictions_db, winner_predictions_cursor
 import plotly.express as px
-from models import logistic_model, ridge_model
-from models import predict_match_with_logistic_regression, predict_match_with_ridge_classifier
+from models import logistic_model, ridge_model, forest_model
+from models import predict_match_with_logistic_regression, predict_match_with_ridge_classifier, predict_match_with_random_forest
 import random
 
 # --- TOURNAMENT SIMULATION CODE (New Addition) ---
@@ -16,31 +16,46 @@ import random
 SYNTHETIC_GROUPS = {
     'A': ['Canada', 'Argentina', 'Senegal', 'New Zealand'],
     'B': ['Mexico', 'Netherlands', 'Morocco', 'Panama'],
-    'C': ['USA', 'Portugal', 'Poland', 'Ghana'],
+    'C': ['United States', 'Portugal', 'Poland', 'Ghana'],
     'D': ['Brazil', 'Croatia', 'South Korea', 'Saudi Arabia'],
     'E': ['England', 'Germany', 'Serbia', 'Peru'],
     'F': ['France', 'Uruguay', 'Japan', 'Cameroon'],
     'G': ['Spain', 'Colombia', 'Iran', 'Haiti'],
-    'H': ['Belgium', 'Switzerland', 'Australia', 'Costa Rica'],
+    'H': ['Belgium', 'Switzerland', 'Australia', 'Romania'],
     'I': ['Italy', 'Denmark', 'Tunisia', 'Ecuador'],
     'J': ['Chile', 'Sweden', 'Nigeria', 'Egypt'],
     'K': ['Ukraine', 'Czech Republic', 'Qatar', 'Venezuela'],
     'L': ['Turkey', 'Norway', 'Finland', 'Honduras'],
 }
 
+ACTUAL_GROUPS = {
+    'A': ['Mexico', 'South Africa', 'Korea Republic', 'Ukraine'],
+    'B': ['Canada', 'Qatar', 'Switzerland', 'Italy'],
+    'C': ['Brazil', 'Morocco', 'Haiti', 'Scotland'],
+    'D': ['United States', 'Paraguay', 'Australia', 'Romania'],
+    'E': ['Germany', 'Curacao', 'Côte d\'Ivoire', 'Ecuador'],
+    'F': ['Netherlands', 'Japan', 'Tunisia', 'Sweden'],
+    'G': ['Belgium', 'Egypt', 'Iran', 'New Zealand'],
+    'H': ['Spain', 'Cabo Verde', 'Saudi Arabia', 'Uruguay'],
+    'I': ['France', 'Senegal', 'Norway', 'Chile'],
+    'J': ['Argentina', 'Algeria', 'Austria', 'Jordan'],
+    'K': ['Portugal', 'Uzbekistan', 'Colombia', 'Iceland'],
+    'L': ['England', 'Croatia', 'Ghana', 'Panama'],
+}
+
 def predict_match(home_team, away_team, predict_func_state):
     # Uses the actual prediction function passed from the Gradio state
     if predict_func_state:
-        # Assuming predict_func_state returns 'Team A', 'Team B', or 'Draw'
+        # Predict_func_state returns 'Team A', 'Team B', or 'Draw'
         state = predict_func_state(home_team, away_team, 2026)
         if state == "WIN":
             return home_team
         elif state == "LOSE":
             return away_team
         elif state == "DRAW":
-            return state
+            return random.choice([home_team, away_team])
     # Fallback if no model is trained
-    return random.choice([home_team, away_team, 'Draw'])
+    return random.choice([home_team, away_team])
 
 def run_knockout_match(team1, team2, predict_func_state):
     # Knockout matches cannot end in a draw.
@@ -116,7 +131,7 @@ def run_full_tournament_simulation(predict_func_state):
         return "⚠️ Please train a model first using the 'Train your model' button!"
 
     # 1. Group Stage
-    qualified_32 = simulate_group_stage(SYNTHETIC_GROUPS, predict_func_state)
+    qualified_32 = simulate_group_stage(ACTUAL_GROUPS, predict_func_state)
     
     # 2. Knockout Stages (Simulated in a single pass)
     # The results from simulate_knockout_stage are lists of winners and formatted output strings
@@ -225,6 +240,10 @@ def train_model(model_name, current_model, current_predict_function):
     elif model_name == "RidgeClassifierCV":
         model = ridge_model
         predict_function = predict_match_with_ridge_classifier
+
+    elif model_name == "RandomForest":
+        model = forest_model
+        predict_function = predict_match_with_random_forest
         
     else:
         return gr.update(value=model_name), current_model, current_predict_function
@@ -273,7 +292,7 @@ with gr.Blocks() as page:
     gr.Markdown("## 🤖 Model Training")
     
     model_dropdown = gr.Dropdown(
-        ["LogisticRegression", "RidgeClassifierCV"],
+        ["LogisticRegression", "RidgeClassifierCV", "RandomForest"],
         label="Choose your model"
     )
     train = gr.Button("Train your model", variant="primary")

@@ -4,7 +4,8 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report
 from sklearn.preprocessing import LabelEncoder
 
-df = pd.read_csv("../../data/processed/all_matches_relevant_teams.csv")
+# df = pd.read_csv("../../data/processed/all_matches_relevant_teams.csv")
+df = pd.read_csv("../data/processed/all_matches_relevant_teams.csv")
 
 def result(row):
     if row["home_score"] > row["away_score"]:
@@ -19,10 +20,27 @@ df["year"] = pd.to_datetime(df["date"]).dt.year
 
 team_cols = ["home_team", "away_team"]
 label_encoders = {}
+# List all teams that could possibly be encountered for home or away teams,
+# including those that might not appear in all_matches_relevant_teams.csv.
+# This list is based on your traceback error showing 'Korea Republic' missing.
+all_possible_teams = list(df["home_team"].unique()) + list(df["away_team"].unique())
+# Add 'Korea Republic' and ensure uniqueness, just in case:
+all_possible_teams = list(set(all_possible_teams + ['Korea Republic', 'South Korea', 
+                                                    'Serbia', 'Côte d\'Ivoire', 
+                                                    'Cabo Verde', 'Chile', 'Iceland'])) # Add any other missing teams here!
+
 for col in team_cols:
     le = LabelEncoder()
-    df[col] = le.fit_transform(df[col])
+    # Fit the LabelEncoder on the full, comprehensive list of teams.
+    le.fit(all_possible_teams) 
+    
+    # Transform the DataFrame columns using the newly fitted encoder.
+    df[col] = le.transform(df[col])
     label_encoders[col] = le
+# for col in team_cols:
+#     le = LabelEncoder()
+#     df[col] = le.fit_transform(df[col])
+#     label_encoders[col] = le
 
 features = [
     "home_team", "away_team",
@@ -40,7 +58,7 @@ X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, random_state=42, stratify=y
 )
 
-model = RandomForestClassifier(
+forest_model = RandomForestClassifier(
     n_estimators=300,
     max_depth=None,
     min_samples_split=2,
@@ -49,14 +67,14 @@ model = RandomForestClassifier(
     n_jobs=-1
 )
 
-model.fit(X_train, y_train)
+forest_model.fit(X_train, y_train)
 
-y_pred = model.predict(X_test)
+y_pred = forest_model.predict(X_test)
 
-print("Accuracy:", accuracy_score(y_test, y_pred))
+print(f"Random Forest model Accuracy: {accuracy_score(y_test, y_pred) * 100:.2f}%")
 print(classification_report(y_test, y_pred))
 
-importances = pd.Series(model.feature_importances_, index=features)
+importances = pd.Series(forest_model.feature_importances_, index=features)
 print(importances.sort_values(ascending=False))
 
 def predict_match_with_random_forest(home_team, away_team, year):
@@ -83,10 +101,11 @@ def predict_match_with_random_forest(home_team, away_team, year):
         "year": [year]
     })
 
-    result_code = model.predict(new_match)[0]
-    probabilities = model.predict_proba(new_match)[0]
+    result_code = forest_model.predict(new_match)[0]
+    probabilities = forest_model.predict_proba(new_match)[0]
 
-    labels = {-1: "AWAY WIN", 0: "DRAW", 1: "HOME WIN"}
+    # labels = {-1: "AWAY WIN", 0: "DRAW", 1: "HOME WIN"}
+    labels = {-1: "LOSE", 0: "DRAW", 1: "WIN"}
     print(f"\nPrediction {home_team} vs {away_team} ({year}): {labels[result_code]}")
     print("Probabilities:", probabilities)
     return labels[result_code]
