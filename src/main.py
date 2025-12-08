@@ -7,6 +7,7 @@ from database import winner_predictions_db, winner_predictions_cursor
 import plotly.express as px
 from models import logistic_model, ridge_model, forest_model
 from models import predict_match_with_logistic_regression, predict_match_with_ridge_classifier, predict_match_with_random_forest
+from models.poisson_regressor import load_datasets as load_poisson_datasets, tune_poisson_alpha, predict_match as poisson_predict_match
 import random
 
 # --- TOURNAMENT SIMULATION CODE (New Addition) ---
@@ -28,23 +29,97 @@ SYNTHETIC_GROUPS = {
     'L': ['Turkey', 'Norway', 'Finland', 'Honduras'],
 }
 
-ACTUAL_GROUPS = {
-    'A': ['Mexico', 'South Africa', 'Korea Republic', 'Ukraine'],
-    'B': ['Canada', 'Qatar', 'Switzerland', 'Italy'],
-    'C': ['Brazil', 'Morocco', 'Haiti', 'Scotland'],
-    'D': ['United States', 'Paraguay', 'Australia', 'Romania'],
-    'E': ['Germany', 'Curacao', 'Côte d\'Ivoire', 'Ecuador'],
-    'F': ['Netherlands', 'Japan', 'Tunisia', 'Sweden'],
-    'G': ['Belgium', 'Egypt', 'Iran', 'New Zealand'],
-    'H': ['Spain', 'Cabo Verde', 'Saudi Arabia', 'Uruguay'],
-    'I': ['France', 'Senegal', 'Norway', 'Chile'],
-    'J': ['Argentina', 'Algeria', 'Austria', 'Jordan'],
-    'K': ['Portugal', 'Uzbekistan', 'Colombia', 'Iceland'],
-    'L': ['England', 'Croatia', 'Ghana', 'Panama'],
+ALLOWED_2026_TEAMS = {
+    "Algeria", "Argentina", "Australia", "Austria", "Belgium", "Brazil",
+    "Canada", "Cape Verde", "Colombia", "Croatia", "Curacao", "Ecuador",
+    "Egypt", "England", "France", "Germany", "Ghana", "Haiti", "Iran",
+    "Ivory Coast", "Japan", "Jordan", "Mexico", "Morocco", "Netherlands",
+    "New Zealand", "Norway", "Panama", "Paraguay", "Portugal", "Qatar",
+    "Saudi Arabia", "Scotland", "Senegal", "South Africa", "South Korea",
+    "Spain", "Switzerland", "Tunisia", "United States", "Uruguay",
+    "Uzbekistan",
+
+    # inter-confederation playoff teams
+    "Bolivia", "DR Congo", "Iraq", "Jamaica", "New Caledonia", "Suriname",
+
+    # UEFA playoff teams
+    "Albania", "Albania", "Bosnia and Herzegovina", "Czechia", "Denmark",
+    "Italy", "Kosovo", "Northern Ireland", "North Macedonia",
+    "Poland", "Republic of Ireland", "Romania", "Slovakia",
+    "Sweden", "Türkiye", "Ukraine", "Wales", "Romania", "Sweden",
+    "Northern Ireland", "North Macedonia"
 }
 
-def predict_match(home_team, away_team, predict_func_state, model_name):
 
+PLAYOFF_POOLS = {
+    # UEFA Playoff D Group A
+    "A": ["Czechia", "Denmark", "North Macedonia", "Ireland"],
+
+    # UEFA Playoff A Group B
+    "B": ["Italy", "Northern Ireland", "Wales", "Bosnia and Herzegovina"],
+
+    # UEFA Playoff C Group D
+    "D": ["Turkey", "Romania", "Slovakia", "Kosovo"],
+
+    # UEFA Playoff B Group F
+    "F": ["Ukraine", "Sweden", "Poland", "Albania"],
+
+    # Intercontinental Playoff 2 Group I
+    "I": ["Iraq", "Bolivia", "Suriname"],
+
+    # Intercontinental Playoff 1 Group K
+    "K": ["DR Congo", "Jamaica", "New Caledonia"],
+}
+
+
+ACTUAL_GROUPS = {
+    'A': ['Mexico', 'South Korea', 'South Africa', None],  # UEFA PO D
+    'B': ['Canada', 'Switzerland', 'Qatar', None],         # UEFA PO A
+    'C': ['Brazil', 'Morocco', 'Scotland', 'Haiti'],
+    'D': ['United States', 'Australia', 'Paraguay', None], # UEFA PO C
+    'E': ['Germany', 'Ecuador', 'Ivory Coast', 'Curacao'],
+    'F': ['Netherlands', 'Japan', 'Tunisia', None],        # UEFA PO B
+    'G': ['Belgium', 'Iran', 'Egypt', 'New Zealand'],
+    'H': ['Spain', 'Uruguay', 'Saudi Arabia', 'Cape Verde'],
+    'I': ['France', 'Senegal', 'Norway', None],            # Inter PO 2
+    'J': ['Argentina', 'Austria', 'Algeria', 'Jordan'],
+    'K': ['Portugal', 'Colombia', 'Uzbekistan', None],     # Inter PO 1
+    'L': ['England', 'Croatia', 'Panama', 'Ghana'],
+}
+
+def resolve_playoff_teams(base_groups, allowed_teams, playoff_pools):
+    """
+    Replace playoff placeholders (None) in ACTUAL_GROUPS with a random team
+    from the corresponding playoff pool, ensuring it is in allowed_teams.
+    """
+    resolved = {}
+
+    for group_name, teams in base_groups.items():
+        # Copy so we don't mutate the original
+        group_teams = list(teams)
+
+        if group_name in playoff_pools:
+            candidates = [
+                t for t in playoff_pools[group_name]
+                if t in allowed_teams
+            ]
+            if not candidates:
+                raise ValueError(f"No valid playoff candidates for group {group_name}")
+
+            chosen = random.choice(candidates)
+
+            # Put the chosen team as the 4th team
+            if len(group_teams) == 4:
+                group_teams[3] = chosen
+            else:
+                group_teams.append(chosen)
+
+        resolved[group_name] = group_teams
+
+    return resolved
+
+
+def predict_match(home_team, away_team, predict_func_state):
     # Uses the actual prediction function passed from the Gradio state
     if predict_func_state:
         # Predict_func_state returns 'Team A', 'Team B', or 'Draw'
@@ -142,7 +217,13 @@ def run_full_tournament_simulation(predict_func_state, model_name):
         return "⚠️ Please train a model first using the 'Train your model' button!"
 
     # 1. Group Stage
-    qualified_32 = simulate_group_stage(ACTUAL_GROUPS, predict_func_state, model_name)
+    resolved_groups = resolve_playoff_teams(
+        ACTUAL_GROUPS,
+        ALLOWED_2026_TEAMS,
+        PLAYOFF_POOLS,
+    )
+
+    qualified_32 = simulate_group_stage(resolved_groups, predict_func_state)
     
     # 2. Knockout Stages (Simulated in a single pass)
     # The results from simulate_knockout_stage are lists of winners and formatted output strings
@@ -254,6 +335,57 @@ def train_model(model_name, current_model, current_predict_function):
         model = forest_model
         predict_function = predict_match_with_random_forest
         
+    elif model_name == "PoissonRegressor":
+        train_df, val_df, test_df = load_poisson_datasets()
+        (home_model, away_model), best_alpha, metrics = tune_poisson_alpha(train_df, val_df)
+        print("Using Poisson alpha:", best_alpha)
+
+        print("Poisson validation metrics:", metrics)
+
+        NAME_ALIASES = {
+            "Republic of Ireland": "Ireland",
+            "Czech Republic": "Czechia",
+            "Congo DR": "DR Congo",
+            "Côte d'Ivoire": "Ivory Coast",
+            "Cabo Verde": "Cape Verde",
+            "Korea Republic": "South Korea",
+            "IR Iran": "Iran",
+            "Curaçao": "Curacao",
+        }
+
+        def normalize_team(name: str) -> str:
+            return NAME_ALIASES.get(name, name)
+
+        def predict_match_with_poisson(home_team, away_team, year):
+            home = normalize_team(home_team)
+            away = normalize_team(away_team)
+
+            try:
+                pred = poisson_predict_match(
+                    home_team=home,
+                    away_team=away,
+                    df_reference=train_df,
+                    home_model=home_model,
+                    away_model=away_model,
+                    neutral=0,
+                )
+            except ValueError as e:
+                print("Poisson prediction error:", e)
+                return random.choice(["WIN", "LOSE", "DRAW"])
+
+            probs = pred.outcome_probabilities
+            label = max(probs, key=probs.get)
+            if label == "home_win":
+                return "WIN"
+            elif label == "away_win":
+                return "LOSE"
+            else:
+                return "DRAW"
+
+        model = (home_model, away_model, metrics)
+        predict_function = predict_match_with_poisson
+
+
     else:
         return gr.update(value=model_name), current_model, current_predict_function
 
@@ -308,7 +440,7 @@ with gr.Blocks() as page:
     gr.Markdown("## 🤖 Model Training")
     
     model_dropdown = gr.Dropdown(
-        ["LogisticRegression", "RidgeClassifierCV", "RandomForest"],
+        ["LogisticRegression", "RidgeClassifierCV", "RandomForest", "PoissonRegressor"],
         label="Choose your model"
     )
     train = gr.Button("Train your model", variant="primary")
