@@ -1,7 +1,7 @@
 """
-Simple sanity checks for the ``countries`` module.
+Simple sanity checks for the countries module.
 
-The module defines a list of the 32 nations participating in the
+The module defines a list of nations participating in the
 upcoming tournament.  Tests verify that there are no duplicates and
 that a few expected teams are present.
 """
@@ -10,8 +10,8 @@ import src.countries as countries
 
 
 def test_countries_unique_and_length():
-    """The list of countries should contain 32 unique entries."""
-    assert len(countries.countries) == 32
+    """The list of countries should contain 68 unique entries."""
+    assert len(countries.countries) == 68
     # ensure all entries are unique
     assert len(set(countries.countries)) == len(countries.countries)
 
