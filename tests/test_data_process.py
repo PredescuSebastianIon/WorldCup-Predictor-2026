@@ -158,7 +158,7 @@ def test_filter_relevant_teams(tmp_path):
 
 
 def test_split_dataset(tmp_path):
-    """Validate that ``split_dataset`` performs a time‑based split correctly."""
+    """Validate that ``split_dataset`` performs a time-based split correctly."""
     df = pd.DataFrame(
         {
             "date": pd.to_datetime(
@@ -192,5 +192,11 @@ def test_split_dataset(tmp_path):
 
     # verify counts
     assert len(train_df) == 1  # only 2017-12-31
-    assert len(val_df) == 3  # 2018 and 2019 dates
-    assert len(test_df) == 1  # 2022 and beyond
+    assert len(val_df) == 2    # 2018-01-01 and 2019-06-01
+    assert len(test_df) == 2   # 2022-01-01 and 2023-05-05
+
+    # extra sanity checks (optional)
+    assert train_df["date"].max() < pd.Timestamp("2018-01-01")
+    assert val_df["date"].min() >= pd.Timestamp("2018-01-01")
+    assert val_df["date"].max() < pd.Timestamp("2022-01-01")
+    assert test_df["date"].min() >= pd.Timestamp("2022-01-01")
