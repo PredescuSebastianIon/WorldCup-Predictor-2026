@@ -119,7 +119,7 @@ def resolve_playoff_teams(base_groups, allowed_teams, playoff_pools):
     return resolved
 
 
-def predict_match(home_team, away_team, predict_func_state):
+def predict_match(home_team, away_team, predict_func_state, model_name):
     # Uses the actual prediction function passed from the Gradio state
     if predict_func_state:
         # Predict_func_state returns 'Team A', 'Team B', or 'Draw'
@@ -223,7 +223,7 @@ def run_full_tournament_simulation(predict_func_state, model_name):
         PLAYOFF_POOLS,
     )
 
-    qualified_32 = simulate_group_stage(resolved_groups, predict_func_state)
+    qualified_32 = simulate_group_stage(resolved_groups, predict_func_state, model_name)
     
     # 2. Knockout Stages (Simulated in a single pass)
     # The results from simulate_knockout_stage are lists of winners and formatted output strings
