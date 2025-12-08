@@ -67,7 +67,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1992-12-31,Denmark,DEN,9,9,52.0,52.0,UEFA
 1992-12-31,Russia,RUS,8,8,52.0,52.0,UEFA
 1992-12-31,Netherlands,NED,7,7,54.0,54.0,UEFA
-1992-12-31,Republic of Ireland,IRL,6,6,54.0,54.0,UEFA
+1992-12-31,Ireland,IRL,6,6,54.0,54.0,UEFA
 1992-12-31,England,ENG,5,5,55.0,55.0,UEFA
 1992-12-31,Sweden,SWE,4,4,56.0,56.0,UEFA
 1992-12-31,Brazil,BRA,3,3,56.0,56.0,CONMEBOL
@@ -274,7 +274,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1993-08-08,Switzerland,SUI,3,12,57.0,51.0,UEFA
 1993-08-08,Sweden,SWE,4,4,56.0,56.0,UEFA
 1993-08-08,Argentina,ARG,5,10,56.0,51.0,CONMEBOL
-1993-08-08,Republic of Ireland,IRL,6,6,55.0,54.0,UEFA
+1993-08-08,Ireland,IRL,6,6,55.0,54.0,UEFA
 1993-08-08,Russia,RUS,7,8,55.0,52.0,UEFA
 1993-08-08,Brazil,BRA,8,3,54.0,56.0,CONMEBOL
 1993-08-08,Norway,NOR,9,14,54.0,49.0,UEFA
@@ -377,7 +377,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1993-09-23,Argentina,ARG,12,5,55.0,56.0,CONMEBOL
 1993-09-23,Sweden,SWE,11,4,55.0,56.0,UEFA
 1993-09-23,Switzerland,SUI,10,3,55.0,57.0,UEFA
-1993-09-23,Republic of Ireland,IRL,9,6,55.0,55.0,UEFA
+1993-09-23,Ireland,IRL,9,6,55.0,55.0,UEFA
 1993-09-23,Russia,RUS,8,7,55.0,55.0,UEFA
 1993-09-23,France,FRA,7,12,56.0,52.0,UEFA
 1993-09-23,Germany,GER,5,1,56.0,58.0,UEFA
@@ -546,7 +546,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1993-10-22,France,FRA,14,7,53.0,56.0,UEFA
 1993-10-22,Switzerland,SUI,13,10,53.0,55.0,UEFA
 1993-10-22,Russia,RUS,11,8,55.0,55.0,UEFA
-1993-10-22,Republic of Ireland,IRL,11,9,55.0,55.0,UEFA
+1993-10-22,Ireland,IRL,11,9,55.0,55.0,UEFA
 1993-10-22,England,ENG,10,5,55.0,56.0,UEFA
 1993-10-22,Argentina,ARG,9,12,55.0,55.0,CONMEBOL
 1993-10-22,Sweden,SWE,8,11,55.0,55.0,UEFA
@@ -713,7 +713,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1993-11-19,Switzerland,SUI,9,13,55.0,53.0,UEFA
 1993-11-19,San Marino,SMR,120,122,9.0,8.0,UEFA
 1993-11-19,Romania,ROU,12,15,55.0,52.0,UEFA
-1993-11-19,Republic of Ireland,IRL,13,11,54.0,55.0,UEFA
+1993-11-19,Ireland,IRL,13,11,54.0,55.0,UEFA
 1993-11-19,Russia,RUS,14,11,52.0,55.0,UEFA
 1993-11-19,France,FRA,15,14,52.0,53.0,UEFA
 1993-11-19,Nigeria,NGA,16,16,52.0,52.0,CAF
@@ -928,7 +928,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1993-12-23,Denmark,DEN,6,6,57.0,57.0,UEFA
 1993-12-23,Argentina,ARG,8,9,55.0,55.0,CONMEBOL
 1993-12-23,Sweden,SWE,9,11,55.0,55.0,UEFA
-1993-12-23,Republic of Ireland,IRL,10,13,54.0,54.0,UEFA
+1993-12-23,Ireland,IRL,10,13,54.0,54.0,UEFA
 1993-12-23,England,ENG,11,8,54.0,56.0,UEFA
 1993-12-23,Switzerland,SUI,12,9,54.0,55.0,UEFA
 1993-12-23,Romania,ROU,13,12,52.0,55.0,UEFA
@@ -1042,7 +1042,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1994-02-15,France,FRA,14,15,52.0,52.0,UEFA
 1994-02-15,Russia,RUS,13,14,53.0,52.0,UEFA
 1994-02-15,England,ENG,12,11,54.0,54.0,UEFA
-1994-02-15,Republic of Ireland,IRL,11,10,54.0,54.0,UEFA
+1994-02-15,Ireland,IRL,11,10,54.0,54.0,UEFA
 1994-02-15,Sweden,SWE,10,9,54.0,55.0,UEFA
 1994-02-15,Argentina,ARG,9,8,55.0,55.0,CONMEBOL
 1994-02-15,Switzerland,SUI,8,12,56.0,54.0,UEFA
@@ -1278,7 +1278,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1994-03-15,Netherlands,NED,9,3,55.0,57.0,UEFA
 1994-03-15,Italy,ITA,11,7,54.0,57.0,UEFA
 1994-03-15,England,ENG,12,12,54.0,54.0,UEFA
-1994-03-15,Republic of Ireland,IRL,13,11,53.0,54.0,UEFA
+1994-03-15,Ireland,IRL,13,11,53.0,54.0,UEFA
 1994-03-15,Mexico,MEX,14,17,52.0,51.0,CONCACAF
 1994-03-15,France,FRA,15,14,52.0,52.0,UEFA
 1994-03-15,Russia,RUS,16,13,52.0,53.0,UEFA
@@ -1472,7 +1472,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1994-04-19,Oman,OMA,83,83,20.0,20.0,AFC
 1994-04-19,France,FRA,15,15,51.0,52.0,UEFA
 1994-04-19,England,ENG,16,12,51.0,54.0,UEFA
-1994-04-19,Republic of Ireland,IRL,17,13,51.0,53.0,UEFA
+1994-04-19,Ireland,IRL,17,13,51.0,53.0,UEFA
 1994-04-19,Uruguay,URU,17,17,51.0,51.0,CONMEBOL
 1994-04-19,Austria,AUT,36,35,39.0,40.0,UEFA
 1994-04-19,Northern Ireland,NIR,35,42,39.0,36.0,UEFA
@@ -1608,7 +1608,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1994-05-17,Spain,ESP,9,7,54.0,55.0,UEFA
 1994-05-17,Romania,ROU,10,11,54.0,53.0,UEFA
 1994-05-17,Netherlands,NED,11,8,53.0,55.0,UEFA
-1994-05-17,Republic of Ireland,IRL,12,17,52.0,51.0,UEFA
+1994-05-17,Ireland,IRL,12,17,52.0,51.0,UEFA
 1994-05-17,Mexico,MEX,13,13,51.0,52.0,CONCACAF
 1994-05-17,Slovakia,SVK,45,54,34.0,32.0,UEFA
 1994-05-17,Uruguay,URU,14,17,50.0,51.0,CONMEBOL
@@ -1790,7 +1790,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1994-06-14,Sweden,SWE,10,3,55.0,57.0,UEFA
 1994-06-14,Switzerland,SUI,12,8,54.0,54.0,UEFA
 1994-06-14,France,FRA,13,17,53.0,50.0,UEFA
-1994-06-14,Republic of Ireland,IRL,14,12,53.0,52.0,UEFA
+1994-06-14,Ireland,IRL,14,12,53.0,52.0,UEFA
 1994-06-14,England,ENG,15,15,52.0,50.0,UEFA
 1994-06-14,Mexico,MEX,16,13,51.0,51.0,CONCACAF
 1994-06-14,Colombia,COL,17,18,51.0,50.0,CONMEBOL
@@ -1920,7 +1920,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1994-07-21,France,FRA,16,13,53.0,53.0,UEFA
 1994-07-21,Mexico,MEX,15,16,53.0,51.0,CONCACAF
 1994-07-21,Bulgaria,BUL,14,29,53.0,44.0,UEFA
-1994-07-21,Republic of Ireland,IRL,13,14,54.0,53.0,UEFA
+1994-07-21,Ireland,IRL,13,14,54.0,53.0,UEFA
 1994-07-21,Denmark,DEN,12,9,55.0,55.0,UEFA
 1994-07-21,Switzerland,SUI,11,12,56.0,54.0,UEFA
 1994-07-21,Nigeria,NGA,10,11,56.0,54.0,CAF
@@ -2176,7 +2176,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1994-09-13,Russia,RUS,17,19,52.0,52.0,UEFA
 1994-09-13,Nigeria,NGA,10,10,56.0,56.0,CAF
 1994-09-13,Switzerland,SUI,11,11,56.0,56.0,UEFA
-1994-09-13,Republic of Ireland,IRL,12,13,54.0,54.0,UEFA
+1994-09-13,Ireland,IRL,12,13,54.0,54.0,UEFA
 1994-09-13,Denmark,DEN,13,12,53.0,55.0,UEFA
 1994-09-13,England,ENG,18,18,51.0,52.0,UEFA
 1994-09-13,Colombia,COL,15,17,53.0,53.0,CONMEBOL
@@ -2349,7 +2349,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1994-10-25,Switzerland,SUI,7,11,57.0,56.0,UEFA
 1994-10-25,Guinea-Bissau,GNB,117,119,12.0,11.0,CAF
 1994-10-25,Romania,ROU,8,7,57.0,58.0,UEFA
-1994-10-25,Republic of Ireland,IRL,11,12,56.0,54.0,UEFA
+1994-10-25,Ireland,IRL,11,12,56.0,54.0,UEFA
 1994-10-25,Nigeria,NGA,12,10,55.0,56.0,CAF
 1994-10-25,Denmark,DEN,13,13,54.0,53.0,UEFA
 1994-10-25,Russia,RUS,14,17,54.0,52.0,UEFA
@@ -2532,7 +2532,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1994-11-22,Tanzania,TAN,85,90,20.0,17.0,CAF
 1994-11-22,Colombia,COL,15,15,53.0,53.0,CONMEBOL
 1994-11-22,Yugoslavia,YUG,96,92,16.0,17.0,UEFA
-1994-11-22,Republic of Ireland,IRL,8,11,58.0,56.0,UEFA
+1994-11-22,Ireland,IRL,8,11,58.0,56.0,UEFA
 1994-12-20,Malaysia,MAS,89,87,19.0,19.0,AFC
 1994-12-20,United States,USA,23,24,48.0,48.0,CONCACAF
 1994-12-20,Belgium,BEL,24,22,47.0,48.0,UEFA
@@ -2565,7 +2565,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1994-12-20,Switzerland,SUI,7,7,58.0,58.0,UEFA
 1994-12-20,Norway,NOR,8,10,58.0,57.0,UEFA
 1994-12-20,Portugal,POR,20,21,51.0,48.0,UEFA
-1994-12-20,Republic of Ireland,IRL,9,8,58.0,58.0,UEFA
+1994-12-20,Ireland,IRL,9,8,58.0,58.0,UEFA
 1994-12-20,Romania,ROU,11,11,57.0,57.0,UEFA
 1994-12-20,Nigeria,NGA,12,12,54.0,54.0,CAF
 1994-12-20,Russia,RUS,13,12,54.0,54.0,UEFA
@@ -2837,7 +2837,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1995-02-20,Brunei Darussalam,BRU,167,165,1.0,1.0,AFC
 1995-02-20,Netherlands,NED,8,6,59.0,60.0,UEFA
 1995-02-20,Mexico,MEX,9,15,59.0,54.0,CONCACAF
-1995-02-20,Republic of Ireland,IRL,10,9,57.0,58.0,UEFA
+1995-02-20,Ireland,IRL,10,9,57.0,58.0,UEFA
 1995-02-20,Switzerland,SUI,11,7,57.0,58.0,UEFA
 1995-02-20,Romania,ROU,12,11,56.0,57.0,UEFA
 1995-02-20,Nigeria,NGA,13,12,55.0,54.0,CAF
@@ -2943,7 +2943,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1995-04-19,Portugal,POR,14,19,55.0,52.0,UEFA
 1995-04-19,Bulgaria,BUL,13,14,55.0,54.0,UEFA
 1995-04-19,Switzerland,SUI,12,11,56.0,57.0,UEFA
-1995-04-19,Republic of Ireland,IRL,11,10,57.0,57.0,UEFA
+1995-04-19,Ireland,IRL,11,10,57.0,57.0,UEFA
 1995-04-19,Vanuatu,VAN,175,175,0.0,0.0,OFC
 1995-04-19,Romania,ROU,10,12,57.0,56.0,UEFA
 1995-04-19,Argentina,ARG,8,7,59.0,59.0,CONMEBOL
@@ -3188,7 +3188,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1995-05-16,Netherlands,NED,7,7,59.0,59.0,UEFA
 1995-05-16,Argentina,ARG,8,8,58.0,59.0,CONMEBOL
 1995-05-16,Mexico,MEX,9,9,58.0,58.0,CONCACAF
-1995-05-16,Republic of Ireland,IRL,10,11,57.0,57.0,UEFA
+1995-05-16,Ireland,IRL,10,11,57.0,57.0,UEFA
 1995-05-16,Romania,ROU,11,10,57.0,57.0,UEFA
 1995-05-16,Bulgaria,BUL,12,13,56.0,55.0,UEFA
 1995-05-16,Switzerland,SUI,13,12,55.0,56.0,UEFA
@@ -3372,7 +3372,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1995-06-13,Denmark,DEN,12,14,57.0,55.0,UEFA
 1995-06-13,Russia,RUS,13,15,56.0,54.0,UEFA
 1995-06-13,Switzerland,SUI,14,13,55.0,55.0,UEFA
-1995-06-13,Republic of Ireland,IRL,15,10,55.0,57.0,UEFA
+1995-06-13,Ireland,IRL,15,10,55.0,57.0,UEFA
 1995-06-13,Portugal,POR,16,16,54.0,53.0,UEFA
 1995-06-13,France,FRA,17,17,51.0,53.0,UEFA
 1995-06-13,Nigeria,NGA,18,20,51.0,50.0,CAF
@@ -3474,7 +3474,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1995-07-25,Uruguay,URU,19,36,50.0,42.0,CONMEBOL
 1995-07-25,France,FRA,18,17,51.0,51.0,UEFA
 1995-07-25,Netherlands,NED,17,9,51.0,57.0,UEFA
-1995-07-25,Republic of Ireland,IRL,16,15,52.0,55.0,UEFA
+1995-07-25,Ireland,IRL,16,15,52.0,55.0,UEFA
 1995-07-25,Sweden,SWE,15,6,52.0,58.0,UEFA
 1995-07-25,Switzerland,SUI,14,14,52.0,55.0,UEFA
 1995-07-25,Romania,ROU,13,11,53.0,57.0,UEFA
@@ -3731,7 +3731,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1995-08-22,Colombia,COL,13,12,54.0,54.0,CONMEBOL
 1995-08-22,Romania,ROU,14,13,53.0,53.0,UEFA
 1995-08-22,Sweden,SWE,15,15,53.0,52.0,UEFA
-1995-08-22,Republic of Ireland,IRL,16,16,52.0,52.0,UEFA
+1995-08-22,Ireland,IRL,16,16,52.0,52.0,UEFA
 1995-08-22,Netherlands,NED,17,17,51.0,51.0,UEFA
 1995-08-22,France,FRA,18,18,51.0,51.0,UEFA
 1995-08-22,United States,USA,19,20,50.0,50.0,CONCACAF
@@ -3833,7 +3833,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1995-09-19,Bulgaria,BUL,14,12,53.0,54.0,UEFA
 1995-09-19,Denmark,DEN,13,7,53.0,56.0,UEFA
 1995-09-19,Zambia,ZAM,21,26,49.0,48.0,CAF
-1995-09-19,Republic of Ireland,IRL,12,16,54.0,52.0,UEFA
+1995-09-19,Ireland,IRL,12,16,54.0,52.0,UEFA
 1995-09-19,Nigeria,NGA,10,34,56.0,43.0,CAF
 1995-09-19,Argentina,ARG,9,5,57.0,58.0,CONMEBOL
 1995-09-19,Norway,NOR,8,2,57.0,59.0,UEFA
@@ -4000,7 +4000,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1995-10-17,Iceland,ISL,44,37,40.0,39.0,UEFA
 1995-10-17,Lithuania,LTU,43,58,40.0,28.0,UEFA
 1995-10-17,United States,USA,19,22,51.0,48.0,CONCACAF
-1995-10-17,Republic of Ireland,IRL,18,12,52.0,54.0,UEFA
+1995-10-17,Ireland,IRL,18,12,52.0,54.0,UEFA
 1995-10-17,Portugal,POR,17,24,53.0,46.0,UEFA
 1995-10-17,Romania,ROU,15,7,54.0,58.0,UEFA
 1995-10-17,Colombia,COL,15,15,54.0,53.0,CONMEBOL
@@ -4199,7 +4199,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1995-11-21,Brazil,BRA,1,1,68.0,68.0,CONMEBOL
 1995-11-21,France,FRA,9,12,56.0,55.0,UEFA
 1995-11-21,England,ENG,20,22,50.0,48.0,UEFA
-1995-11-21,Republic of Ireland,IRL,21,18,50.0,52.0,UEFA
+1995-11-21,Ireland,IRL,21,18,50.0,52.0,UEFA
 1995-11-21,Tunisia,TUN,22,25,48.0,47.0,CAF
 1995-11-21,Finland,FIN,41,38,41.0,42.0,UEFA
 1995-11-21,Israel,ISR,40,42,41.0,41.0,UEFA
@@ -4397,7 +4397,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1995-12-19,Japan,JPN,31,32,45.0,45.0,AFC
 1995-12-19,Turkey,TUR,30,31,46.0,45.0,UEFA
 1995-12-19,Ghana,GHA,29,27,47.0,46.0,CAF
-1995-12-19,Republic of Ireland,IRL,28,21,47.0,50.0,UEFA
+1995-12-19,Ireland,IRL,28,21,47.0,50.0,UEFA
 1995-12-19,Nigeria,NGA,27,24,47.0,47.0,CAF
 1995-12-19,Scotland,SCO,26,25,48.0,47.0,UEFA
 1995-12-19,Zambia,ZAM,25,34,48.0,45.0,CAF
@@ -4624,7 +4624,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1996-01-24,Zambia,ZAM,23,25,49.0,48.0,CAF
 1996-01-24,Belgium,BEL,25,24,48.0,48.0,UEFA
 1996-01-24,Scotland,SCO,26,26,47.0,48.0,UEFA
-1996-01-24,Republic of Ireland,IRL,27,28,47.0,47.0,UEFA
+1996-01-24,Ireland,IRL,27,28,47.0,47.0,UEFA
 1996-01-24,Turkey,TUR,28,30,46.0,46.0,UEFA
 1996-01-24,South Africa,RSA,29,40,46.0,41.0,CAF
 1996-01-24,Japan,JPN,30,31,46.0,45.0,AFC
@@ -4776,7 +4776,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1996-02-21,Hong Kong,HKG,90,110,22.0,17.0,AFC
 1996-02-21,Japan,JPN,30,30,47.0,46.0,AFC
 1996-02-21,Turkey,TUR,31,28,47.0,46.0,UEFA
-1996-02-21,Republic of Ireland,IRL,32,27,46.0,47.0,UEFA
+1996-02-21,Ireland,IRL,32,27,46.0,47.0,UEFA
 1996-02-21,Chile,CHI,33,39,45.0,42.0,CONMEBOL
 1996-02-21,Cameroon,CMR,34,32,45.0,45.0,CAF
 1996-02-21,Saudi Arabia,KSA,35,43,45.0,40.0,AFC
@@ -4999,7 +4999,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1996-04-24,Cayman Islands,CAY,138,134,11.0,11.0,CONCACAF
 1996-04-24,Slovakia,SVK,39,38,43.0,43.0,UEFA
 1996-04-24,Haiti,HAI,155,153,7.0,7.0,CONCACAF
-1996-04-24,Republic of Ireland,IRL,37,32,44.0,46.0,UEFA
+1996-04-24,Ireland,IRL,37,32,44.0,46.0,UEFA
 1996-04-24,Zambia,ZAM,15,15,53.0,53.0,CAF
 1996-04-24,Ghana,GHA,15,16,53.0,53.0,CAF
 1996-04-24,United States,USA,14,14,54.0,53.0,CONCACAF
@@ -5207,7 +5207,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1996-05-22,Austria,AUT,41,43,42.0,41.0,UEFA
 1996-05-22,Poland,POL,42,40,41.0,43.0,UEFA
 1996-05-22,Nigeria,NGA,43,42,41.0,41.0,CAF
-1996-05-22,Republic of Ireland,IRL,44,37,40.0,44.0,UEFA
+1996-05-22,Ireland,IRL,44,37,40.0,44.0,UEFA
 1996-05-22,Israel,ISR,45,44,40.0,40.0,UEFA
 1996-05-22,Algeria,ALG,46,46,40.0,40.0,CAF
 1996-05-22,Jamaica,JAM,47,51,39.0,38.0,CONCACAF
@@ -5297,7 +5297,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1996-07-03,Belgium,BEL,43,40,42.0,42.0,UEFA
 1996-07-03,Austria,AUT,42,41,42.0,42.0,UEFA
 1996-07-03,Saudi Arabia,KSA,41,36,43.0,44.0,AFC
-1996-07-03,Republic of Ireland,IRL,40,44,43.0,40.0,UEFA
+1996-07-03,Ireland,IRL,40,44,43.0,40.0,UEFA
 1996-07-03,Cameroon,CMR,39,34,44.0,45.0,CAF
 1996-07-03,Uruguay,URU,38,32,44.0,46.0,CONMEBOL
 1996-07-03,Bolivia,BOL,36,37,45.0,44.0,CONMEBOL
@@ -5546,7 +5546,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1996-08-28,Morocco,MAR,34,33,45.0,45.0,CAF
 1996-08-28,Japan,JPN,26,25,48.0,50.0,AFC
 1996-08-28,Bolivia,BOL,35,36,45.0,45.0,CONMEBOL
-1996-08-28,Republic of Ireland,IRL,37,40,44.0,43.0,UEFA
+1996-08-28,Ireland,IRL,37,40,44.0,43.0,UEFA
 1996-08-28,Slovakia,SVK,38,37,43.0,44.0,UEFA
 1996-08-28,Jamaica,JAM,39,45,42.0,41.0,CONCACAF
 1996-08-28,Saudi Arabia,KSA,40,41,42.0,43.0,AFC
@@ -5725,7 +5725,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1996-09-25,China PR,CHN,55,53,37.0,37.0,AFC
 1996-09-25,Iceland,ISL,54,54,37.0,37.0,UEFA
 1996-09-25,Uruguay,URU,53,56,37.0,36.0,CONMEBOL
-1996-09-25,Republic of Ireland,IRL,32,37,46.0,44.0,UEFA
+1996-09-25,Ireland,IRL,32,37,46.0,44.0,UEFA
 1996-09-25,Turkey,TUR,33,29,46.0,47.0,UEFA
 1996-09-25,Trinidad and Tobago,TRI,34,33,46.0,46.0,CONCACAF
 1996-09-25,Switzerland,SUI,35,31,45.0,46.0,UEFA
@@ -5884,7 +5884,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1996-10-23,Belgium,BEL,36,37,45.0,45.0,UEFA
 1996-10-23,Turkey,TUR,35,33,46.0,46.0,UEFA
 1996-10-23,Trinidad and Tobago,TRI,34,34,46.0,46.0,CONCACAF
-1996-10-23,Republic of Ireland,IRL,32,32,46.0,46.0,UEFA
+1996-10-23,Ireland,IRL,32,32,46.0,46.0,UEFA
 1996-10-23,Portugal,POR,13,14,56.0,54.0,UEFA
 1996-10-23,Romania,ROU,14,15,55.0,53.0,UEFA
 1996-10-23,Mexico,MEX,15,13,55.0,55.0,CONCACAF
@@ -6019,7 +6019,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1996-11-20,Austria,AUT,36,43,46.0,44.0,UEFA
 1996-11-20,Jamaica,JAM,35,38,46.0,45.0,CONCACAF
 1996-11-20,Ecuador,ECU,34,32,46.0,46.0,CONMEBOL
-1996-11-20,Republic of Ireland,IRL,33,32,47.0,46.0,UEFA
+1996-11-20,Ireland,IRL,33,32,47.0,46.0,UEFA
 1996-11-20,Ivory Coast,CIV,32,31,47.0,47.0,CAF
 1996-11-20,Turkey,TUR,31,35,47.0,46.0,UEFA
 1996-11-20,Slovakia,SVK,30,37,48.0,45.0,UEFA
@@ -6168,7 +6168,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1996-12-18,Nigeria,NGA,63,58,37.0,37.0,CAF
 1996-12-18,Hungary,HUN,75,72,34.0,34.0,UEFA
 1996-12-18,Kuwait,KUW,62,79,37.0,33.0,AFC
-1996-12-18,Republic of Ireland,IRL,36,33,46.0,47.0,UEFA
+1996-12-18,Ireland,IRL,36,33,46.0,47.0,UEFA
 1996-12-18,Iceland,ISL,60,58,37.0,37.0,UEFA
 1996-12-18,Austria,AUT,34,36,46.0,46.0,UEFA
 1996-12-18,Malawi,MWI,88,87,30.0,30.0,CAF
@@ -6396,7 +6396,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1997-02-27,Saudi Arabia,KSA,36,37,46.0,46.0,AFC
 1997-02-27,Bolivia,BOL,37,39,46.0,45.0,CONMEBOL
 1997-02-27,Ghana,GHA,38,25,46.0,51.0,CAF
-1997-02-27,Republic of Ireland,IRL,39,36,46.0,46.0,UEFA
+1997-02-27,Ireland,IRL,39,36,46.0,46.0,UEFA
 1997-02-27,Greece,GRE,40,35,45.0,46.0,UEFA
 1997-02-27,South Korea,KOR,41,44,45.0,44.0,AFC
 1997-02-27,Gabon,GAB,55,46,41.0,44.0,CAF
@@ -6633,7 +6633,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1997-04-09,Morocco,MAR,38,28,47.0,48.0,CAF
 1997-04-09,Belgium,BEL,39,44,47.0,44.0,UEFA
 1997-04-09,Ghana,GHA,40,38,46.0,46.0,CAF
-1997-04-09,Republic of Ireland,IRL,41,39,46.0,46.0,UEFA
+1997-04-09,Ireland,IRL,41,39,46.0,46.0,UEFA
 1997-04-09,Uruguay,URU,42,43,46.0,45.0,CONMEBOL
 1997-04-09,Ivory Coast,CIV,43,47,45.0,44.0,CAF
 1997-04-09,Trinidad and Tobago,TRI,44,42,45.0,45.0,CONCACAF
@@ -6782,7 +6782,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1997-05-14,Zambia,ZAM,23,22,53.0,52.0,CAF
 1997-05-14,Tunisia,TUN,24,29,53.0,50.0,CAF
 1997-05-14,Honduras,HON,45,50,45.0,44.0,CONCACAF
-1997-05-14,Republic of Ireland,IRL,44,41,45.0,46.0,UEFA
+1997-05-14,Ireland,IRL,44,41,45.0,46.0,UEFA
 1997-05-14,Israel,ISR,43,53,46.0,43.0,UEFA
 1997-05-14,Turkey,TUR,42,31,46.0,49.0,UEFA
 1997-05-14,Cameroon,CMR,41,62,46.0,40.0,CAF
@@ -7052,7 +7052,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1997-06-18,Austria,AUT,43,46,47.0,45.0,UEFA
 1997-06-18,Egypt,EGY,42,33,47.0,49.0,CAF
 1997-06-18,Greece,GRE,41,37,47.0,47.0,UEFA
-1997-06-18,Republic of Ireland,IRL,40,44,47.0,45.0,UEFA
+1997-06-18,Ireland,IRL,40,44,47.0,45.0,UEFA
 1997-06-18,Peru,PER,39,39,47.0,47.0,CONMEBOL
 1997-06-18,Angola,ANG,63,66,41.0,40.0,CAF
 1997-06-18,Ukraine,UKR,48,51,45.0,43.0,UEFA
@@ -7265,7 +7265,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1997-07-16,Chad,CHA,190,190,0.0,0.0,CAF
 1997-07-16,Poland,POL,51,57,45.0,43.0,UEFA
 1997-07-16,Kuwait,KUW,52,55,45.0,43.0,AFC
-1997-07-16,Republic of Ireland,IRL,53,40,44.0,47.0,UEFA
+1997-07-16,Ireland,IRL,53,40,44.0,47.0,UEFA
 1997-07-16,Costa Rica,CRC,54,53,44.0,44.0,CONCACAF
 1997-07-16,China PR,CHN,56,58,43.0,43.0,AFC
 1997-07-16,Iran,IRN,57,56,43.0,43.0,AFC
@@ -7304,7 +7304,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1997-08-20,Kuwait,KUW,51,52,45.0,45.0,AFC
 1997-08-20,Turkey,TUR,52,43,44.0,46.0,UEFA
 1997-08-20,Poland,POL,53,51,44.0,45.0,UEFA
-1997-08-20,Republic of Ireland,IRL,55,53,44.0,44.0,UEFA
+1997-08-20,Ireland,IRL,55,53,44.0,44.0,UEFA
 1997-08-20,Costa Rica,CRC,56,54,44.0,44.0,CONCACAF
 1997-08-20,Egypt,EGY,31,38,51.0,48.0,CAF
 1997-08-20,Angola,ANG,57,59,44.0,42.0,CAF
@@ -7480,7 +7480,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1997-09-17,Cameroon,CMR,44,45,47.0,46.0,CAF
 1997-09-17,Turkey,TUR,39,52,50.0,44.0,UEFA
 1997-09-17,Ivory Coast,CIV,46,40,47.0,48.0,CAF
-1997-09-17,Republic of Ireland,IRL,42,55,48.0,44.0,UEFA
+1997-09-17,Ireland,IRL,42,55,48.0,44.0,UEFA
 1997-09-17,Saudi Arabia,KSA,38,35,50.0,50.0,AFC
 1997-09-17,Peru,PER,34,36,51.0,50.0,CONMEBOL
 1997-09-17,Australia,AUS,36,32,51.0,51.0,AFC
@@ -7777,7 +7777,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1997-10-17,Jamaica,JAM,40,40,51.0,49.0,CONCACAF
 1997-10-17,Greece,GRE,41,41,50.0,49.0,UEFA
 1997-10-17,Lithuania,LTU,42,43,48.0,48.0,UEFA
-1997-10-17,Republic of Ireland,IRL,43,42,47.0,48.0,UEFA
+1997-10-17,Ireland,IRL,43,42,47.0,48.0,UEFA
 1997-10-17,Cameroon,CMR,44,44,47.0,47.0,CAF
 1997-10-17,United States,USA,35,32,52.0,52.0,CONCACAF
 1997-10-17,Austria,AUT,23,26,55.0,54.0,UEFA
@@ -7926,7 +7926,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1997-11-19,Yugoslavia,YUG,22,36,56.0,52.0,UEFA
 1997-11-19,Tunisia,TUN,23,24,56.0,55.0,CAF
 1997-11-19,Bulgaria,BUL,24,18,55.0,57.0,UEFA
-1997-11-19,Republic of Ireland,IRL,45,43,47.0,47.0,UEFA
+1997-11-19,Ireland,IRL,45,43,47.0,47.0,UEFA
 1997-11-19,Lithuania,LTU,44,42,47.0,48.0,UEFA
 1997-11-19,Uruguay,URU,43,52,49.0,45.0,CONMEBOL
 1997-11-19,Turkey,TUR,42,39,50.0,51.0,UEFA
@@ -8055,7 +8055,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1997-12-23,United Arab Emirates,UAE,50,59,46.0,44.0,AFC
 1997-12-23,Ukraine,UKR,49,49,46.0,46.0,UEFA
 1997-12-23,Poland,POL,48,47,46.0,46.0,UEFA
-1997-12-23,Republic of Ireland,IRL,47,45,47.0,47.0,UEFA
+1997-12-23,Ireland,IRL,47,45,47.0,47.0,UEFA
 1997-12-23,Iran,IRN,46,50,47.0,46.0,AFC
 1997-12-23,China PR,CHN,55,56,45.0,44.0,AFC
 1997-12-23,Lithuania,LTU,45,44,47.0,47.0,UEFA
@@ -8309,7 +8309,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1998-02-18,United Arab Emirates,UAE,53,50,46.0,46.0,AFC
 1998-02-18,Ukraine,UKR,52,49,46.0,46.0,UEFA
 1998-02-18,Trinidad and Tobago,TRI,51,56,46.0,45.0,CONCACAF
-1998-02-18,Republic of Ireland,IRL,50,47,47.0,47.0,UEFA
+1998-02-18,Ireland,IRL,50,47,47.0,47.0,UEFA
 1998-02-18,Cameroon,CMR,49,53,47.0,45.0,CAF
 1998-02-18,Lithuania,LTU,48,45,47.0,47.0,UEFA
 1998-02-18,Iran,IRN,47,46,47.0,47.0,AFC
@@ -8600,7 +8600,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1998-03-18,Burkina Faso,BFA,75,75,39.0,38.0,CAF
 1998-03-18,Zaire,ZAI,63,82,41.0,37.0,CAF
 1998-03-18,Gabon,GAB,72,66,39.0,40.0,CAF
-1998-03-18,Republic of Ireland,IRL,50,50,46.0,47.0,UEFA
+1998-03-18,Ireland,IRL,50,50,46.0,47.0,UEFA
 1998-03-18,Israel,ISR,46,63,47.0,41.0,UEFA
 1998-03-18,Lithuania,LTU,47,48,47.0,47.0,UEFA
 1998-03-18,Cameroon,CMR,48,49,47.0,47.0,CAF
@@ -8736,7 +8736,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1998-04-22,Lithuania,LTU,45,47,47.0,47.0,UEFA
 1998-04-22,Iran,IRN,46,45,47.0,47.0,AFC
 1998-04-22,Uruguay,URU,37,41,50.0,51.0,CONMEBOL
-1998-04-22,Republic of Ireland,IRL,47,50,47.0,46.0,UEFA
+1998-04-22,Ireland,IRL,47,50,47.0,46.0,UEFA
 1998-04-22,Tunisia,TUN,26,22,56.0,56.0,CAF
 1998-04-22,South Korea,KOR,24,24,56.0,55.0,AFC
 1998-04-22,Mexico,MEX,4,4,61.0,61.0,CONCACAF
@@ -8953,7 +8953,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1998-05-20,South Korea,KOR,20,24,55.0,56.0,AFC
 1998-05-20,United States,USA,11,15,58.0,57.0,CONCACAF
 1998-05-20,Cook Islands,COK,191,191,0.0,0.0,OFC
-1998-05-20,Republic of Ireland,IRL,46,47,46.0,47.0,UEFA
+1998-05-20,Ireland,IRL,46,47,46.0,47.0,UEFA
 1998-05-20,Thailand,THA,50,52,45.0,45.0,AFC
 1998-05-20,Guatemala,GUA,75,67,37.0,39.0,CONCACAF
 1998-05-20,Namibia,NAM,76,78,37.0,37.0,CAF
@@ -9048,7 +9048,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1998-07-15,Switzerland,SUI,73,81,37.0,36.0,UEFA
 1998-07-15,Gabon,GAB,82,79,34.0,36.0,CAF
 1998-07-15,Poland,POL,48,54,45.0,44.0,UEFA
-1998-07-15,Republic of Ireland,IRL,47,46,45.0,46.0,UEFA
+1998-07-15,Ireland,IRL,47,46,45.0,46.0,UEFA
 1998-07-15,Thailand,THA,46,50,45.0,45.0,AFC
 1998-07-15,South Korea,KOR,21,20,55.0,55.0,AFC
 1998-07-15,Egypt,EGY,20,17,57.0,56.0,CAF
@@ -9288,7 +9288,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1998-08-19,Greece,GRE,51,50,44.0,44.0,UEFA
 1998-08-19,China PR,CHN,50,49,44.0,44.0,AFC
 1998-08-19,Ivory Coast,CIV,49,45,45.0,46.0,CAF
-1998-08-19,Republic of Ireland,IRL,48,47,45.0,45.0,UEFA
+1998-08-19,Ireland,IRL,48,47,45.0,45.0,UEFA
 1998-08-19,Trinidad and Tobago,TRI,47,59,45.0,42.0,CONCACAF
 1998-08-19,Georgia,GEO,46,44,45.0,46.0,UEFA
 1998-08-19,Guam,GUM,193,190,0.0,0.0,AFC
@@ -9387,7 +9387,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1998-08-19,Poland,POL,40,48,46.0,45.0,UEFA
 1998-09-16,Kuwait,KUW,52,53,42.0,43.0,AFC
 1998-09-16,Ecuador,ECU,51,44,43.0,45.0,CONMEBOL
-1998-09-16,Republic of Ireland,IRL,54,48,42.0,45.0,UEFA
+1998-09-16,Ireland,IRL,54,48,42.0,45.0,UEFA
 1998-09-16,Costa Rica,CRC,50,52,44.0,44.0,CONCACAF
 1998-09-16,Ukraine,UKR,49,68,44.0,39.0,UEFA
 1998-09-16,Mali,MLI,53,58,42.0,42.0,CAF
@@ -9757,7 +9757,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1998-10-21,Hungary,HUN,49,59,44.0,41.0,UEFA
 1998-10-21,Thailand,THA,50,43,44.0,45.0,AFC
 1998-10-21,Costa Rica,CRC,51,50,44.0,44.0,CONCACAF
-1998-10-21,Republic of Ireland,IRL,52,54,43.0,42.0,UEFA
+1998-10-21,Ireland,IRL,52,54,43.0,42.0,UEFA
 1998-10-21,Finland,FIN,53,55,43.0,41.0,UEFA
 1998-10-21,Mali,MLI,54,53,43.0,42.0,CAF
 1998-10-21,Greece,GRE,55,66,43.0,40.0,UEFA
@@ -9876,7 +9876,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1998-11-18,Bolivia,BOL,60,63,41.0,41.0,CONMEBOL
 1998-11-18,Iceland,ISL,59,62,41.0,41.0,UEFA
 1998-11-18,Lithuania,LTU,58,61,42.0,42.0,UEFA
-1998-11-18,Republic of Ireland,IRL,57,52,42.0,43.0,UEFA
+1998-11-18,Ireland,IRL,57,52,42.0,43.0,UEFA
 1998-11-18,Nigeria,NGA,65,68,41.0,41.0,CAF
 1998-11-18,Jamaica,JAM,33,32,52.0,52.0,CONCACAF
 1998-11-18,Kazakhstan,KAZ,120,118,23.0,23.0,UEFA
@@ -10095,7 +10095,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1998-12-23,Greece,GRE,53,54,44.0,43.0,UEFA
 1998-12-23,Lithuania,LTU,54,58,44.0,42.0,UEFA
 1998-12-23,Finland,FIN,55,52,43.0,43.0,UEFA
-1998-12-23,Republic of Ireland,IRL,56,57,43.0,42.0,UEFA
+1998-12-23,Ireland,IRL,56,57,43.0,42.0,UEFA
 1998-12-23,Turkey,TUR,57,56,42.0,43.0,UEFA
 1998-12-23,Oman,OMA,58,71,42.0,39.0,AFC
 1998-12-23,North Macedonia,MKD,59,64,42.0,41.0,UEFA
@@ -10243,7 +10243,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1999-01-27,Costa Rica,CRC,69,67,454.0,40.0,CONCACAF
 1999-01-27,Northern Ireland,NIR,67,86,467.0,35.0,UEFA
 1999-01-27,Hungary,HUN,45,46,533.0,47.0,UEFA
-1999-01-27,Republic of Ireland,IRL,44,56,535.0,43.0,UEFA
+1999-01-27,Ireland,IRL,44,56,535.0,43.0,UEFA
 1999-01-27,Cameroon,CMR,43,41,536.0,49.0,CAF
 1999-01-27,Turkey,TUR,42,57,536.0,42.0,UEFA
 1999-01-27,Ghana,GHA,41,48,547.0,46.0,CAF
@@ -10538,7 +10538,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1999-02-24,Ghana,GHA,43,41,541.0,547.0,CAF
 1999-02-24,Ivory Coast,CIV,42,40,544.0,553.0,CAF
 1999-02-24,Angola,ANG,57,59,499.0,489.0,CAF
-1999-02-24,Republic of Ireland,IRL,41,44,550.0,535.0,UEFA
+1999-02-24,Ireland,IRL,41,44,550.0,535.0,UEFA
 1999-02-24,Cyprus,CYP,58,64,498.0,478.0,UEFA
 1999-02-24,Switzerland,SUI,60,65,493.0,475.0,UEFA
 1999-02-24,Zimbabwe,ZIM,75,75,443.0,442.0,CAF
@@ -10648,7 +10648,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1999-03-24,Cameroon,CMR,44,44,532.0,534.0,CAF
 1999-03-24,Ghana,GHA,43,43,542.0,541.0,CAF
 1999-03-24,Ivory Coast,CIV,42,42,542.0,544.0,CAF
-1999-03-24,Republic of Ireland,IRL,41,41,547.0,550.0,UEFA
+1999-03-24,Ireland,IRL,41,41,547.0,550.0,UEFA
 1999-03-24,Jamaica,JAM,40,39,558.0,559.0,CONCACAF
 1999-03-24,Zambia,ZAM,39,38,560.0,561.0,CAF
 1999-03-24,Saudi Arabia,KSA,38,36,562.0,564.0,AFC
@@ -10827,7 +10827,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1999-04-21,Grenada,GRN,125,124,261.0,264.0,CONCACAF
 1999-04-21,Ghana,GHA,44,43,540.0,542.0,CAF
 1999-04-21,Hungary,HUN,45,47,540.0,528.0,UEFA
-1999-04-21,Republic of Ireland,IRL,46,41,540.0,547.0,UEFA
+1999-04-21,Ireland,IRL,46,41,540.0,547.0,UEFA
 1999-04-21,Iran,IRN,47,45,531.0,532.0,AFC
 1999-04-21,Iceland,ISL,48,56,519.0,504.0,UEFA
 1999-04-21,Kuwait,KUW,49,48,519.0,521.0,AFC
@@ -11080,7 +11080,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1999-05-19,Bulgaria,BUL,30,23,589.0,601.0,UEFA
 1999-05-19,Poland,POL,29,32,590.0,583.0,UEFA
 1999-05-19,Tunisia,TUN,28,29,591.0,591.0,CAF
-1999-05-19,Republic of Ireland,IRL,38,46,557.0,540.0,UEFA
+1999-05-19,Ireland,IRL,38,46,557.0,540.0,UEFA
 1999-05-19,Uganda,UGA,107,106,339.0,340.0,CAF
 1999-05-19,Sierra Leone,SLE,108,107,331.0,336.0,CAF
 1999-05-19,Haiti,HAI,109,121,327.0,275.0,CONCACAF
@@ -11273,7 +11273,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1999-06-16,Colombia,COL,32,31,583.0,586.0,CONMEBOL
 1999-06-16,Bulgaria,BUL,33,30,575.0,589.0,UEFA
 1999-06-16,Zambia,ZAM,34,36,573.0,564.0,CAF
-1999-06-16,Republic of Ireland,IRL,35,38,571.0,557.0,UEFA
+1999-06-16,Ireland,IRL,35,38,571.0,557.0,UEFA
 1999-06-16,Greece,GRE,36,37,570.0,562.0,UEFA
 1999-06-16,Turkey,TUR,37,42,566.0,540.0,UEFA
 1999-06-16,South Korea,KOR,38,34,564.0,566.0,AFC
@@ -11473,7 +11473,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1999-07-21,Belgium,BEL,33,30,587.0,594.0,UEFA
 1999-07-21,Bulgaria,BUL,34,33,573.0,575.0,UEFA
 1999-07-21,Greece,GRE,35,36,568.0,570.0,UEFA
-1999-07-21,Republic of Ireland,IRL,36,35,567.0,571.0,UEFA
+1999-07-21,Ireland,IRL,36,35,567.0,571.0,UEFA
 1999-07-21,South Korea,KOR,37,38,563.0,564.0,AFC
 1999-07-21,Egypt,EGY,38,39,562.0,558.0,CAF
 1999-07-21,Turkey,TUR,39,37,562.0,566.0,UEFA
@@ -11713,7 +11713,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1999-08-18,Peru,PER,41,41,550.0,554.0,CONMEBOL
 1999-08-18,Turkey,TUR,40,39,558.0,562.0,UEFA
 1999-08-18,South Korea,KOR,39,37,561.0,563.0,AFC
-1999-08-18,Republic of Ireland,IRL,38,36,564.0,567.0,UEFA
+1999-08-18,Ireland,IRL,38,36,564.0,567.0,UEFA
 1999-08-18,Greece,GRE,37,35,566.0,568.0,UEFA
 1999-08-18,Saudi Arabia,KSA,36,40,567.0,556.0,AFC
 1999-08-18,Egypt,EGY,35,38,567.0,562.0,CAF
@@ -11864,7 +11864,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1999-09-15,Slovakia,SVK,22,24,620.0,612.0,UEFA
 1999-09-15,South Africa,RSA,31,30,591.0,593.0,CAF
 1999-09-15,Zambia,ZAM,33,31,582.0,590.0,CAF
-1999-09-15,Republic of Ireland,IRL,34,38,576.0,564.0,UEFA
+1999-09-15,Ireland,IRL,34,38,576.0,564.0,UEFA
 1999-09-15,Turkey,TUR,35,40,576.0,558.0,UEFA
 1999-09-15,Bulgaria,BUL,36,34,570.0,568.0,UEFA
 1999-09-15,Greece,GRE,37,37,568.0,566.0,UEFA
@@ -12074,7 +12074,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1999-10-13,Belgium,BEL,32,32,584.0,589.0,UEFA
 1999-10-13,Tunisia,TUN,33,30,584.0,593.0,CAF
 1999-10-13,Zambia,ZAM,34,33,581.0,582.0,CAF
-1999-10-13,Republic of Ireland,IRL,35,34,578.0,576.0,UEFA
+1999-10-13,Ireland,IRL,35,34,578.0,576.0,UEFA
 1999-10-13,Bulgaria,BUL,36,36,573.0,570.0,UEFA
 1999-10-13,Turkey,TUR,37,35,568.0,576.0,UEFA
 1999-10-13,Egypt,EGY,38,38,563.0,565.0,CAF
@@ -12364,7 +12364,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1999-11-17,Lithuania,LTU,50,45,527.0,540.0,UEFA
 1999-11-17,Jamaica,JAM,44,44,544.0,543.0,CONCACAF
 1999-11-17,Switzerland,SUI,49,50,529.0,530.0,UEFA
-1999-11-17,Republic of Ireland,IRL,36,35,572.0,578.0,UEFA
+1999-11-17,Ireland,IRL,36,35,572.0,578.0,UEFA
 1999-11-17,Hungary,HUN,47,46,536.0,538.0,UEFA
 1999-11-17,Iran,IRN,46,48,539.0,537.0,AFC
 1999-11-17,Iceland,ISL,48,47,533.0,537.0,UEFA
@@ -12463,7 +12463,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 1999-12-22,Zimbabwe,ZIM,67,68,474.0,472.0,CAF
 1999-12-22,Ivory Coast,CIV,53,51,515.0,526.0,CAF
 1999-12-22,Zambia,ZAM,36,35,571.0,576.0,CAF
-1999-12-22,Republic of Ireland,IRL,35,36,576.0,572.0,UEFA
+1999-12-22,Ireland,IRL,35,36,576.0,572.0,UEFA
 1999-12-22,Greece,GRE,34,34,582.0,582.0,UEFA
 1999-12-22,France,FRA,3,2,765.0,770.0,UEFA
 1999-12-22,Spain,ESP,4,4,753.0,758.0,UEFA
@@ -12657,7 +12657,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2000-01-19,Egypt,EGY,38,38,558.0,556.0,CAF
 2000-01-19,Ivory Coast,CIV,49,53,529.0,515.0,CAF
 2000-01-19,Bulgaria,BUL,37,37,563.0,563.0,UEFA
-2000-01-19,Republic of Ireland,IRL,35,35,575.0,576.0,UEFA
+2000-01-19,Ireland,IRL,35,35,575.0,576.0,UEFA
 2000-01-19,Greece,GRE,34,34,580.0,582.0,UEFA
 2000-01-19,Belgium,BEL,33,33,588.0,588.0,UEFA
 2000-01-19,Poland,POL,32,32,589.0,589.0,UEFA
@@ -12828,7 +12828,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2000-02-16,Saudi Arabia,KSA,40,39,554.0,556.0,AFC
 2000-02-16,Bulgaria,BUL,39,37,569.0,563.0,UEFA
 2000-02-16,Zambia,ZAM,38,36,569.0,571.0,CAF
-2000-02-16,Republic of Ireland,IRL,37,35,573.0,575.0,UEFA
+2000-02-16,Ireland,IRL,37,35,573.0,575.0,UEFA
 2000-02-16,Iran,IRN,47,43,536.0,535.0,AFC
 2000-02-16,Greece,GRE,36,34,577.0,580.0,UEFA
 2000-02-16,Cameroon,CMR,34,57,583.0,501.0,CAF
@@ -13008,7 +13008,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2000-03-15,Bulgaria,BUL,39,39,558.0,569.0,UEFA
 2000-03-15,Zambia,ZAM,38,38,566.0,569.0,CAF
 2000-03-15,Greece,GRE,37,36,576.0,577.0,UEFA
-2000-03-15,Republic of Ireland,IRL,36,37,577.0,573.0,UEFA
+2000-03-15,Ireland,IRL,36,37,577.0,573.0,UEFA
 2000-03-15,Cameroon,CMR,35,34,577.0,583.0,CAF
 2000-03-15,Belgium,BEL,33,33,582.0,586.0,UEFA
 2000-03-15,Switzerland,SUI,52,52,530.0,529.0,UEFA
@@ -13190,7 +13190,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2000-04-12,Paraguay,PAR,19,18,638.0,642.0,CONMEBOL
 2000-04-12,Cameroon,CMR,35,35,576.0,577.0,CAF
 2000-04-12,Morocco,MAR,26,26,610.0,613.0,CAF
-2000-04-12,Republic of Ireland,IRL,36,36,575.0,577.0,UEFA
+2000-04-12,Ireland,IRL,36,36,575.0,577.0,UEFA
 2000-04-12,Japan,JPN,50,49,530.0,533.0,AFC
 2000-04-12,Zambia,ZAM,38,38,565.0,566.0,CAF
 2000-04-12,Lithuania,LTU,54,56,523.0,524.0,UEFA
@@ -13486,7 +13486,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2000-05-10,Peru,PER,36,39,565.0,561.0,CONMEBOL
 2000-05-10,Zambia,ZAM,37,38,565.0,565.0,CAF
 2000-05-10,Cameroon,CMR,38,35,564.0,576.0,CAF
-2000-05-10,Republic of Ireland,IRL,39,36,563.0,575.0,UEFA
+2000-05-10,Ireland,IRL,39,36,563.0,575.0,UEFA
 2000-05-10,South Korea,KOR,40,43,560.0,548.0,AFC
 2000-05-10,Trinidad and Tobago,TRI,41,41,559.0,555.0,CONCACAF
 2000-05-10,Iran,IRN,42,46,557.0,544.0,AFC
@@ -13765,7 +13765,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2000-06-07,Poland,POL,37,35,567.0,574.0,UEFA
 2000-06-07,Cameroon,CMR,38,38,565.0,564.0,CAF
 2000-06-07,Zambia,ZAM,39,37,562.0,565.0,CAF
-2000-06-07,Republic of Ireland,IRL,40,39,561.0,563.0,UEFA
+2000-06-07,Ireland,IRL,40,39,561.0,563.0,UEFA
 2000-06-07,Iran,IRN,41,42,560.0,557.0,AFC
 2000-06-07,Turkey,TUR,35,34,568.0,578.0,UEFA
 2000-06-07,Uruguay,URU,43,44,549.0,550.0,CONMEBOL
@@ -13912,7 +13912,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2000-07-05,Cayman Islands,CAY,160,158,182.0,182.0,CONCACAF
 2000-07-05,Lithuania,LTU,64,50,502.0,529.0,UEFA
 2000-07-05,Eswatini,SWZ,139,136,251.0,245.0,CAF
-2000-07-05,Republic of Ireland,IRL,39,40,563.0,561.0,UEFA
+2000-07-05,Ireland,IRL,39,40,563.0,561.0,UEFA
 2000-07-05,South Korea,KOR,38,42,567.0,559.0,AFC
 2000-07-05,Croatia,CRO,14,9,694.0,700.0,UEFA
 2000-07-05,Iran,IRN,40,41,561.0,560.0,AFC
@@ -14001,7 +14001,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2000-08-09,Uruguay,URU,36,35,572.0,569.0,CONMEBOL
 2000-08-09,South Korea,KOR,37,38,565.0,567.0,AFC
 2000-08-09,Iran,IRN,38,40,561.0,561.0,AFC
-2000-08-09,Republic of Ireland,IRL,39,39,561.0,563.0,UEFA
+2000-08-09,Ireland,IRL,39,39,561.0,563.0,UEFA
 2000-08-09,Zambia,ZAM,40,43,561.0,558.0,CAF
 2000-08-09,Slovenia,SVN,41,42,559.0,559.0,UEFA
 2000-08-09,Austria,AUT,42,36,554.0,568.0,UEFA
@@ -14314,7 +14314,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2000-09-06,Israel,ISR,35,35,577.0,572.0,UEFA
 2000-09-06,Poland,POL,36,44,568.0,548.0,UEFA
 2000-09-06,Slovenia,SVN,37,41,568.0,559.0,UEFA
-2000-09-06,Republic of Ireland,IRL,38,39,565.0,561.0,UEFA
+2000-09-06,Ireland,IRL,38,39,565.0,561.0,UEFA
 2000-09-06,Jamaica,JAM,39,46,565.0,543.0,CONCACAF
 2000-09-06,Peru,PER,40,43,565.0,554.0,CONMEBOL
 2000-09-06,Ukraine,UKR,41,34,565.0,580.0,UEFA
@@ -14571,7 +14571,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2000-10-11,Iran,IRN,43,44,561.0,559.0,AFC
 2000-10-11,South Korea,KOR,44,43,559.0,563.0,AFC
 2000-10-11,Zambia,ZAM,45,45,554.0,557.0,CAF
-2000-10-11,Republic of Ireland,IRL,38,38,571.0,565.0,UEFA
+2000-10-11,Ireland,IRL,38,38,571.0,565.0,UEFA
 2000-10-11,Honduras,HON,46,46,546.0,545.0,CONCACAF
 2000-10-11,Ghana,GHA,48,53,543.0,530.0,CAF
 2000-10-11,Japan,JPN,49,50,541.0,537.0,AFC
@@ -14674,7 +14674,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2000-11-15,Uruguay,URU,36,34,585.0,582.0,CONMEBOL
 2000-11-15,Saudi Arabia,KSA,35,47,586.0,546.0,AFC
 2000-11-15,Japan,JPN,34,49,587.0,541.0,AFC
-2000-11-15,Republic of Ireland,IRL,33,38,588.0,571.0,UEFA
+2000-11-15,Ireland,IRL,33,38,588.0,571.0,UEFA
 2000-11-15,Egypt,EGY,32,31,589.0,586.0,CAF
 2000-11-15,Ukraine,UKR,31,40,596.0,567.0,UEFA
 2000-11-15,Trinidad and Tobago,TRI,30,29,597.0,595.0,CONCACAF
@@ -14881,7 +14881,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2000-12-20,Slovenia,SVN,35,38,586.0,584.0,UEFA
 2000-12-20,Ukraine,UKR,34,31,587.0,596.0,UEFA
 2000-12-20,Egypt,EGY,33,32,589.0,589.0,CAF
-2000-12-20,Republic of Ireland,IRL,31,33,596.0,588.0,UEFA
+2000-12-20,Ireland,IRL,31,33,596.0,588.0,UEFA
 2000-12-20,Jordan,JOR,105,104,401.0,400.0,AFC
 2000-12-20,Oman,OMA,106,108,395.0,386.0,AFC
 2000-12-20,Malaysia,MAS,107,109,390.0,384.0,AFC
@@ -15082,7 +15082,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2001-01-17,Norway,NOR,14,14,675.0,675.0,UEFA
 2001-01-17,Burundi,BDI,125,126,306.0,304.0,CAF
 2001-01-17,Egypt,EGY,30,33,599.0,589.0,CAF
-2001-01-17,Republic of Ireland,IRL,32,31,596.0,596.0,UEFA
+2001-01-17,Ireland,IRL,32,31,596.0,596.0,UEFA
 2001-01-17,Finland,FIN,60,59,529.0,530.0,UEFA
 2001-01-17,Switzerland,SUI,59,58,531.0,531.0,UEFA
 2001-01-17,Ghana,GHA,58,57,531.0,531.0,CAF
@@ -15354,7 +15354,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2001-02-14,Morocco,MAR,28,28,606.0,610.0,CAF
 2001-02-14,Trinidad and Tobago,TRI,29,29,602.0,600.0,CONCACAF
 2001-02-14,Turkey,TUR,30,31,597.0,598.0,UEFA
-2001-02-14,Republic of Ireland,IRL,31,32,594.0,596.0,UEFA
+2001-02-14,Ireland,IRL,31,32,594.0,596.0,UEFA
 2001-02-14,Saudi Arabia,KSA,32,38,591.0,585.0,AFC
 2001-02-14,Uruguay,URU,33,33,589.0,590.0,CONMEBOL
 2001-02-14,Egypt,EGY,34,30,589.0,599.0,CAF
@@ -15494,7 +15494,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2001-03-14,Ecuador,ECU,53,54,543.0,542.0,CONMEBOL
 2001-03-14,Iceland,ISL,55,53,541.0,544.0,UEFA
 2001-03-14,Bhutan,BHU,201,201,15.0,15.0,AFC
-2001-03-14,Republic of Ireland,IRL,35,31,590.0,594.0,UEFA
+2001-03-14,Ireland,IRL,35,31,590.0,594.0,UEFA
 2001-03-14,Turks and Caicos Islands,TCA,200,200,22.0,22.0,CONCACAF
 2001-03-14,St Lucia,LCA,140,139,275.0,274.0,CONCACAF
 2001-03-14,Korea DPR,PRK,141,140,267.0,265.0,AFC
@@ -15694,7 +15694,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2001-04-11,Belgium,BEL,27,26,619.0,615.0,UEFA
 2001-04-11,Chile,CHI,28,22,617.0,623.0,CONMEBOL
 2001-04-11,Saudi Arabia,KSA,29,25,616.0,617.0,AFC
-2001-04-11,Republic of Ireland,IRL,30,35,611.0,590.0,UEFA
+2001-04-11,Ireland,IRL,30,35,611.0,590.0,UEFA
 2001-04-11,Morocco,MAR,31,30,611.0,602.0,CAF
 2001-04-11,Tunisia,TUN,32,27,607.0,612.0,CAF
 2001-04-11,Trinidad and Tobago,TRI,33,31,596.0,597.0,CONCACAF
@@ -15878,7 +15878,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2001-05-16,Belgium,BEL,30,27,612.0,619.0,UEFA
 2001-05-16,Turkey,TUR,29,26,614.0,620.0,UEFA
 2001-05-16,Saudi Arabia,KSA,28,29,615.0,616.0,AFC
-2001-05-16,Republic of Ireland,IRL,27,30,617.0,611.0,UEFA
+2001-05-16,Ireland,IRL,27,30,617.0,611.0,UEFA
 2001-05-16,Morocco,MAR,26,31,622.0,611.0,CAF
 2001-05-16,Slovakia,SVK,25,25,623.0,627.0,UEFA
 2001-05-16,Scotland,SCO,24,24,624.0,627.0,UEFA
@@ -16122,7 +16122,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2001-06-20,Portugal,POR,5,5,734.0,732.0,UEFA
 2001-06-20,Russia,RUS,20,18,659.0,652.0,UEFA
 2001-06-20,Sweden,SWE,21,21,657.0,643.0,UEFA
-2001-06-20,Republic of Ireland,IRL,22,27,641.0,617.0,UEFA
+2001-06-20,Ireland,IRL,22,27,641.0,617.0,UEFA
 2001-06-20,Oman,OMA,95,94,455.0,445.0,AFC
 2001-06-20,Jamaica,JAM,48,46,577.0,566.0,CONCACAF
 2001-06-20,Costa Rica,CRC,47,54,578.0,548.0,CONCACAF
@@ -16259,7 +16259,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2001-07-18,South Africa,RSA,25,24,633.0,632.0,CAF
 2001-07-18,Poland,POL,24,23,638.0,638.0,UEFA
 2001-07-18,Romania,ROU,11,12,689.0,696.0,UEFA
-2001-07-18,Republic of Ireland,IRL,23,22,640.0,641.0,UEFA
+2001-07-18,Ireland,IRL,23,22,640.0,641.0,UEFA
 2001-07-18,Tunisia,TUN,22,29,647.0,617.0,CAF
 2001-07-18,Togo,TOG,65,67,520.0,511.0,CAF
 2001-07-18,Norway,NOR,21,19,654.0,660.0,UEFA
@@ -16454,7 +16454,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2001-08-22,Tunisia,TUN,22,22,646.0,647.0,CAF
 2001-08-22,Honduras,HON,23,48,643.0,578.0,CONCACAF
 2001-08-22,Uruguay,URU,24,30,642.0,620.0,CONMEBOL
-2001-08-22,Republic of Ireland,IRL,25,23,638.0,640.0,UEFA
+2001-08-22,Ireland,IRL,25,23,638.0,640.0,UEFA
 2001-08-22,Poland,POL,26,24,638.0,638.0,UEFA
 2001-08-22,South Africa,RSA,28,25,629.0,633.0,CAF
 2001-08-22,Iceland,ISL,57,52,552.0,565.0,UEFA
@@ -16653,7 +16653,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2001-09-19,Australia,AUS,51,51,578.0,578.0,AFC
 2001-09-19,Croatia,CRO,16,17,674.0,666.0,UEFA
 2001-09-19,Scotland,SCO,49,39,586.0,602.0,UEFA
-2001-09-19,Republic of Ireland,IRL,22,25,653.0,638.0,UEFA
+2001-09-19,Ireland,IRL,22,25,653.0,638.0,UEFA
 2001-09-19,Uruguay,URU,21,24,653.0,642.0,CONMEBOL
 2001-09-19,Honduras,HON,20,23,656.0,643.0,CONCACAF
 2001-09-19,United States,USA,19,16,660.0,670.0,CONCACAF
@@ -16856,7 +16856,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2001-10-17,Uruguay,URU,23,21,656.0,653.0,CONMEBOL
 2001-10-17,Norway,NOR,22,23,658.0,650.0,UEFA
 2001-10-17,Russia,RUS,21,24,660.0,648.0,UEFA
-2001-10-17,Republic of Ireland,IRL,20,22,669.0,653.0,UEFA
+2001-10-17,Ireland,IRL,20,22,669.0,653.0,UEFA
 2001-10-17,United States,USA,19,19,670.0,660.0,CONCACAF
 2001-10-17,Sweden,SWE,18,17,678.0,673.0,UEFA
 2001-10-17,Denmark,DEN,17,18,682.0,664.0,UEFA
@@ -17077,7 +17077,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2001-11-21,Romania,ROU,15,15,687.0,694.0,UEFA
 2001-11-21,Sweden,SWE,16,18,676.0,678.0,UEFA
 2001-11-21,Denmark,DEN,17,17,675.0,682.0,UEFA
-2001-11-21,Republic of Ireland,IRL,18,20,672.0,669.0,UEFA
+2001-11-21,Ireland,IRL,18,20,672.0,669.0,UEFA
 2001-11-21,Italy,ITA,6,4,735.0,739.0,UEFA
 2001-11-21,Croatia,CRO,19,16,671.0,685.0,UEFA
 2001-11-21,United States,USA,21,19,666.0,670.0,CONCACAF
@@ -17296,7 +17296,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2001-12-19,Czechia,CZE,14,13,689.0,699.0,UEFA
 2001-12-19,Romania,ROU,15,15,688.0,687.0,UEFA
 2001-12-19,Sweden,SWE,16,16,676.0,676.0,UEFA
-2001-12-19,Republic of Ireland,IRL,17,18,672.0,672.0,UEFA
+2001-12-19,Ireland,IRL,17,18,672.0,672.0,UEFA
 2001-12-19,Denmark,DEN,18,17,672.0,675.0,UEFA
 2001-12-19,England,ENG,10,10,712.0,712.0,UEFA
 2001-12-19,The Gambia,GAM,148,150,248.0,249.0,CAF
@@ -17465,7 +17465,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2002-01-16,Russia,RUS,21,21,665.0,665.0,UEFA
 2002-01-16,Belgium,BEL,20,20,666.0,666.0,UEFA
 2002-01-16,Croatia,CRO,19,19,668.0,668.0,UEFA
-2002-01-16,Republic of Ireland,IRL,18,17,672.0,672.0,UEFA
+2002-01-16,Ireland,IRL,18,17,672.0,672.0,UEFA
 2002-01-16,Bolivia,BOL,70,70,522.0,522.0,CONMEBOL
 2002-01-16,Sweden,SWE,16,16,676.0,676.0,UEFA
 2002-01-16,Romania,ROU,15,15,686.0,688.0,UEFA
@@ -17739,7 +17739,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2002-02-13,Ivory Coast,CIV,46,44,594.0,596.0,CAF
 2002-02-13,Senegal,SEN,45,68,595.0,536.0,CAF
 2002-02-13,Peru,PER,44,43,597.0,598.0,CONMEBOL
-2002-02-13,Republic of Ireland,IRL,19,18,670.0,672.0,UEFA
+2002-02-13,Ireland,IRL,19,18,670.0,672.0,UEFA
 2002-02-13,Cameroon,CMR,18,37,673.0,614.0,CAF
 2002-02-13,Sweden,SWE,17,16,679.0,676.0,UEFA
 2002-02-13,Romania,ROU,16,15,684.0,686.0,UEFA
@@ -17856,7 +17856,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2002-03-20,France,FRA,1,1,807.0,809.0,UEFA
 2002-03-20,Mexico,MEX,8,9,719.0,720.0,CONCACAF
 2002-03-20,Morocco,MAR,39,39,618.0,618.0,CAF
-2002-03-20,Republic of Ireland,IRL,18,19,673.0,670.0,UEFA
+2002-03-20,Ireland,IRL,18,19,673.0,670.0,UEFA
 2002-03-20,Denmark,DEN,20,20,672.0,670.0,UEFA
 2002-03-20,Ecuador,ECU,37,37,625.0,626.0,CONMEBOL
 2002-03-20,South Africa,RSA,36,33,626.0,631.0,CAF
@@ -18037,7 +18037,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2002-04-17,Belgium,BEL,22,21,657.0,665.0,UEFA
 2002-04-17,Portugal,POR,5,6,726.0,733.0,UEFA
 2002-04-17,Uruguay,URU,21,22,660.0,661.0,CONMEBOL
-2002-04-17,Republic of Ireland,IRL,19,18,670.0,673.0,UEFA
+2002-04-17,Ireland,IRL,19,18,670.0,673.0,UEFA
 2002-04-17,Cameroon,CMR,18,19,670.0,672.0,CAF
 2002-04-17,Sweden,SWE,17,16,671.0,683.0,UEFA
 2002-04-17,Romania,ROU,16,17,673.0,678.0,UEFA
@@ -18265,7 +18265,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2002-05-15,Paraguay,PAR,18,15,671.0,678.0,CONMEBOL
 2002-05-15,Cameroon,CMR,17,18,672.0,670.0,CAF
 2002-05-15,Czechia,CZE,16,14,674.0,678.0,UEFA
-2002-05-15,Republic of Ireland,IRL,15,19,674.0,670.0,UEFA
+2002-05-15,Ireland,IRL,15,19,674.0,670.0,UEFA
 2002-05-15,Romania,ROU,14,16,675.0,673.0,UEFA
 2002-05-15,United States,USA,13,13,690.0,694.0,CONCACAF
 2002-05-15,England,ENG,12,11,694.0,698.0,UEFA
@@ -18515,7 +18515,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2002-07-03,Somalia,SOM,193,195,66.0,66.0,CAF
 2002-07-03,Niger,NIG,194,193,65.0,68.0,CAF
 2002-07-03,Rwanda,RWA,132,133,317.0,319.0,CAF
-2002-07-03,Republic of Ireland,IRL,14,15,699.0,674.0,UEFA
+2002-07-03,Ireland,IRL,14,15,699.0,674.0,UEFA
 2002-07-03,Netherlands,NED,15,9,697.0,703.0,UEFA
 2002-07-03,Yugoslavia,YUG,16,10,689.0,702.0,UEFA
 2002-07-03,Samoa,SAM,161,165,195.0,195.0,OFC
@@ -18622,7 +18622,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2002-07-03,Bulgaria,BUL,54,54,542.0,557.0,UEFA
 2002-07-03,Turkmenistan,TKM,115,114,367.0,377.0,AFC
 2002-07-03,Azerbaijan,AZE,116,115,366.0,377.0,UEFA
-2002-08-14,Republic of Ireland,IRL,13,14,699.0,699.0,UEFA
+2002-08-14,Ireland,IRL,13,14,699.0,699.0,UEFA
 2002-08-14,Denmark,DEN,12,13,703.0,704.0,UEFA
 2002-08-14,Turkey,TUR,11,12,707.0,707.0,UEFA
 2002-08-14,United States,USA,10,11,714.0,712.0,CONCACAF
@@ -18844,7 +18844,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2002-09-18,Portugal,POR,11,8,712.0,728.0,UEFA
 2002-09-18,Netherlands,NED,12,14,708.0,693.0,UEFA
 2002-09-18,Denmark,DEN,13,12,703.0,703.0,UEFA
-2002-09-18,Republic of Ireland,IRL,14,13,701.0,699.0,UEFA
+2002-09-18,Ireland,IRL,14,13,701.0,699.0,UEFA
 2002-09-18,Cameroon,CMR,15,17,682.0,682.0,CAF
 2002-09-18,Paraguay,PAR,16,19,680.0,674.0,CONMEBOL
 2002-09-18,Czechia,CZE,17,21,676.0,664.0,UEFA
@@ -19226,7 +19226,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2002-10-23,Belgium,BEL,17,19,688.0,672.0,UEFA
 2002-10-23,Yugoslavia,YUG,16,20,690.0,672.0,UEFA
 2002-10-23,Czechia,CZE,15,17,690.0,676.0,UEFA
-2002-10-23,Republic of Ireland,IRL,14,14,695.0,701.0,UEFA
+2002-10-23,Ireland,IRL,14,14,695.0,701.0,UEFA
 2002-10-23,Paraguay,PAR,18,16,683.0,680.0,CONMEBOL
 2002-11-20,Tahiti,TAH,115,114,383.0,383.0,OFC
 2002-11-20,Singapore,SGP,119,120,361.0,365.0,AFC
@@ -19282,7 +19282,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2002-11-20,Italy,ITA,11,11,710.0,713.0,UEFA
 2002-11-20,Portugal,POR,12,12,709.0,713.0,UEFA
 2002-11-20,Denmark,DEN,13,13,705.0,703.0,UEFA
-2002-11-20,Republic of Ireland,IRL,14,14,699.0,695.0,UEFA
+2002-11-20,Ireland,IRL,14,14,699.0,695.0,UEFA
 2002-11-20,Czechia,CZE,15,15,694.0,690.0,UEFA
 2002-11-20,Yugoslavia,YUG,16,16,687.0,690.0,UEFA
 2002-11-20,Cameroon,CMR,17,19,685.0,682.0,CAF
@@ -19597,7 +19597,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2002-12-18,Belgium,BEL,17,18,682.0,682.0,UEFA
 2002-12-18,Cameroon,CMR,16,17,685.0,685.0,CAF
 2002-12-18,Czechia,CZE,15,15,687.0,694.0,UEFA
-2002-12-18,Republic of Ireland,IRL,14,14,697.0,699.0,UEFA
+2002-12-18,Ireland,IRL,14,14,697.0,699.0,UEFA
 2002-12-18,Italy,ITA,13,11,705.0,710.0,UEFA
 2002-12-18,Costa Rica,CRC,21,26,652.0,650.0,CONCACAF
 2002-12-18,Denmark,DEN,12,13,707.0,705.0,UEFA
@@ -19796,7 +19796,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2003-01-15,United States,USA,10,10,723.0,723.0,CONCACAF
 2003-01-15,Denmark,DEN,12,12,707.0,707.0,UEFA
 2003-01-15,Italy,ITA,13,13,705.0,705.0,UEFA
-2003-01-15,Republic of Ireland,IRL,14,14,697.0,697.0,UEFA
+2003-01-15,Ireland,IRL,14,14,697.0,697.0,UEFA
 2003-01-15,Czechia,CZE,15,15,687.0,687.0,UEFA
 2003-01-15,Belgium,BEL,16,17,686.0,682.0,UEFA
 2003-01-15,Cameroon,CMR,17,16,684.0,685.0,CAF
@@ -19851,7 +19851,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2003-02-19,Serbia and Montenegro,SCG,19,19,674.0,677.0,UEFA
 2003-02-19,South Korea,KOR,20,20,668.0,669.0,AFC
 2003-02-19,Russia,RUS,21,23,664.0,650.0,UEFA
-2003-02-19,Republic of Ireland,IRL,14,14,697.0,697.0,UEFA
+2003-02-19,Ireland,IRL,14,14,697.0,697.0,UEFA
 2003-02-19,Denmark,DEN,11,12,707.0,707.0,UEFA
 2003-02-19,Seychelles,SEY,186,185,104.0,104.0,CAF
 2003-02-19,Macau,MAC,188,188,89.0,90.0,AFC
@@ -20161,7 +20161,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2003-03-26,Cameroon,CMR,17,17,678.0,682.0,CAF
 2003-03-26,Belgium,BEL,16,16,683.0,684.0,UEFA
 2003-03-26,Czechia,CZE,15,15,685.0,686.0,UEFA
-2003-03-26,Republic of Ireland,IRL,14,14,696.0,697.0,UEFA
+2003-03-26,Ireland,IRL,14,14,696.0,697.0,UEFA
 2003-03-26,Serbia and Montenegro,SCG,20,19,667.0,674.0,UEFA
 2003-03-26,Ukraine,UKR,47,46,576.0,576.0,UEFA
 2003-03-26,Ecuador,ECU,29,31,630.0,632.0,CONMEBOL
@@ -20367,7 +20367,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2003-04-23,Portugal,POR,12,12,709.0,700.0,UEFA
 2003-04-23,Czechia,CZE,13,15,705.0,685.0,UEFA
 2003-04-23,Italy,ITA,14,13,702.0,699.0,UEFA
-2003-04-23,Republic of Ireland,IRL,15,14,698.0,696.0,UEFA
+2003-04-23,Ireland,IRL,15,14,698.0,696.0,UEFA
 2003-04-23,Belgium,BEL,16,16,682.0,683.0,UEFA
 2003-04-23,Zimbabwe,ZIM,60,60,529.0,527.0,CAF
 2003-04-23,Cameroon,CMR,17,17,673.0,678.0,CAF
@@ -20505,7 +20505,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2003-05-21,Paraguay,PAR,19,19,664.0,670.0,CONMEBOL
 2003-05-21,Cameroon,CMR,18,17,666.0,673.0,CAF
 2003-05-21,Belgium,BEL,16,16,681.0,682.0,UEFA
-2003-05-21,Republic of Ireland,IRL,15,15,704.0,698.0,UEFA
+2003-05-21,Ireland,IRL,15,15,704.0,698.0,UEFA
 2003-05-21,Portugal,POR,14,12,706.0,709.0,UEFA
 2003-05-21,Czechia,CZE,13,13,707.0,705.0,UEFA
 2003-05-21,Italy,ITA,12,14,709.0,702.0,UEFA
@@ -20708,7 +20708,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2003-06-25,Costa Rica,CRC,18,17,663.0,671.0,CONCACAF
 2003-06-25,Belgium,BEL,17,16,672.0,681.0,UEFA
 2003-06-25,Cameroon,CMR,16,18,691.0,666.0,CAF
-2003-06-25,Republic of Ireland,IRL,14,15,703.0,704.0,UEFA
+2003-06-25,Ireland,IRL,14,15,703.0,704.0,UEFA
 2003-06-25,Denmark,DEN,13,10,710.0,715.0,UEFA
 2003-06-25,Mexico,MEX,11,9,711.0,720.0,CONCACAF
 2003-06-25,Italy,ITA,11,12,711.0,709.0,UEFA
@@ -20991,7 +20991,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2003-07-30,Cameroon,CMR,12,16,709.0,691.0,CAF
 2003-07-30,Wales,WAL,51,51,556.0,558.0,UEFA
 2003-07-30,Denmark,DEN,12,13,709.0,710.0,UEFA
-2003-07-30,Republic of Ireland,IRL,15,14,702.0,703.0,UEFA
+2003-07-30,Ireland,IRL,15,14,702.0,703.0,UEFA
 2003-07-30,Portugal,POR,16,15,686.0,692.0,UEFA
 2003-07-30,Costa Rica,CRC,17,18,684.0,663.0,CONCACAF
 2003-07-30,Belgium,BEL,18,17,670.0,672.0,UEFA
@@ -21211,7 +21211,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2003-08-27,Colombia,COL,24,22,640.0,647.0,CONMEBOL
 2003-08-27,Uruguay,URU,24,26,640.0,633.0,CONMEBOL
 2003-08-27,Croatia,CRO,26,25,636.0,638.0,UEFA
-2003-08-27,Republic of Ireland,IRL,13,15,710.0,702.0,UEFA
+2003-08-27,Ireland,IRL,13,15,710.0,702.0,UEFA
 2003-08-27,Slovakia,SVK,57,55,543.0,541.0,UEFA
 2003-08-27,Paraguay,PAR,21,20,649.0,651.0,CONMEBOL
 2003-08-27,Bosnia and Herzegovina,BIH,77,80,491.0,490.0,UEFA
@@ -21419,7 +21419,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2003-09-24,United States,USA,11,9,731.0,731.0,CONCACAF
 2003-09-24,Cameroon,CMR,13,13,710.0,710.0,CAF
 2003-09-24,Denmark,DEN,14,15,708.0,707.0,UEFA
-2003-09-24,Republic of Ireland,IRL,14,13,708.0,710.0,UEFA
+2003-09-24,Ireland,IRL,14,13,708.0,710.0,UEFA
 2003-09-24,Portugal,POR,17,16,687.0,686.0,UEFA
 2003-09-24,Morocco,MAR,36,36,616.0,614.0,CAF
 2003-09-24,Italy,ITA,12,11,726.0,721.0,UEFA
@@ -21519,7 +21519,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2003-10-22,Sweden,SWE,18,18,681.0,684.0,UEFA
 2003-10-22,Moldova,MDA,102,97,430.0,431.0,UEFA
 2003-10-22,Belgium,BEL,16,16,696.0,692.0,UEFA
-2003-10-22,Republic of Ireland,IRL,15,14,705.0,708.0,UEFA
+2003-10-22,Ireland,IRL,15,14,705.0,708.0,UEFA
 2003-10-22,Denmark,DEN,14,14,707.0,708.0,UEFA
 2003-10-22,Cameroon,CMR,13,13,711.0,710.0,CAF
 2003-10-22,United States,USA,12,11,731.0,731.0,CONCACAF
@@ -21802,7 +21802,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2003-11-19,United States,USA,12,12,732.0,731.0,CONCACAF
 2003-11-19,Zimbabwe,ZIM,51,48,555.0,562.0,CAF
 2003-11-19,Denmark,DEN,13,14,714.0,707.0,UEFA
-2003-11-19,Republic of Ireland,IRL,15,15,706.0,705.0,UEFA
+2003-11-19,Ireland,IRL,15,15,706.0,705.0,UEFA
 2003-11-19,Belgium,BEL,16,16,696.0,696.0,UEFA
 2003-11-19,Sweden,SWE,17,18,681.0,681.0,UEFA
 2003-11-19,Portugal,POR,18,17,680.0,686.0,UEFA
@@ -21927,7 +21927,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2003-12-15,Portugal,POR,17,18,682.0,680.0,UEFA
 2003-12-15,Costa Rica,CRC,17,19,682.0,679.0,CONCACAF
 2003-12-15,Belgium,BEL,16,16,696.0,696.0,UEFA
-2003-12-15,Republic of Ireland,IRL,14,15,712.0,706.0,UEFA
+2003-12-15,Ireland,IRL,14,15,712.0,706.0,UEFA
 2003-12-15,Cameroon,CMR,14,14,712.0,712.0,CAF
 2003-12-15,Denmark,DEN,13,13,715.0,714.0,UEFA
 2003-12-15,Germany,GER,12,9,729.0,736.0,UEFA
@@ -22130,7 +22130,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2004-01-14,Portugal,POR,17,17,682.0,682.0,UEFA
 2004-01-14,Costa Rica,CRC,17,17,682.0,682.0,CONCACAF
 2004-01-14,Belgium,BEL,16,16,696.0,696.0,UEFA
-2004-01-14,Republic of Ireland,IRL,14,14,712.0,712.0,UEFA
+2004-01-14,Ireland,IRL,14,14,712.0,712.0,UEFA
 2004-01-14,Cameroon,CMR,14,14,712.0,712.0,CAF
 2004-01-14,Denmark,DEN,13,13,714.0,715.0,UEFA
 2004-01-14,Germany,GER,12,12,729.0,729.0,UEFA
@@ -22332,7 +22332,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2004-02-18,Costa Rica,CRC,18,17,679.0,682.0,CONCACAF
 2004-02-18,Portugal,POR,17,17,681.0,682.0,UEFA
 2004-02-18,Belgium,BEL,16,16,693.0,696.0,UEFA
-2004-02-18,Republic of Ireland,IRL,15,14,709.0,712.0,UEFA
+2004-02-18,Ireland,IRL,15,14,709.0,712.0,UEFA
 2004-02-18,Denmark,DEN,14,13,712.0,714.0,UEFA
 2004-02-18,Cameroon,CMR,13,14,720.0,712.0,CAF
 2004-02-18,Germany,GER,12,12,727.0,729.0,UEFA
@@ -22532,7 +22532,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2004-03-17,Costa Rica,CRC,18,18,674.0,679.0,CONCACAF
 2004-03-17,Portugal,POR,17,17,676.0,681.0,UEFA
 2004-03-17,Belgium,BEL,16,16,688.0,693.0,UEFA
-2004-03-17,Republic of Ireland,IRL,15,15,705.0,709.0,UEFA
+2004-03-17,Ireland,IRL,15,15,705.0,709.0,UEFA
 2004-03-17,Denmark,DEN,14,14,711.0,712.0,UEFA
 2004-03-17,Cameroon,CMR,13,13,718.0,720.0,CAF
 2004-03-17,United States,USA,12,11,725.0,729.0,CONCACAF
@@ -22737,7 +22737,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2004-04-14,United States,USA,11,12,722.0,725.0,CONCACAF
 2004-04-14,Cameroon,CMR,13,13,721.0,718.0,CAF
 2004-04-14,Denmark,DEN,14,14,704.0,711.0,UEFA
-2004-04-14,Republic of Ireland,IRL,15,15,702.0,705.0,UEFA
+2004-04-14,Ireland,IRL,15,15,702.0,705.0,UEFA
 2004-04-14,Montserrat,MSR,204,204,7.0,7.0,CONCACAF
 2004-04-14,Belgium,BEL,16,16,682.0,688.0,UEFA
 2004-04-14,Portugal,POR,17,17,669.0,676.0,UEFA
@@ -23031,7 +23031,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2004-05-12,Romania,ROU,23,28,658.0,655.0,UEFA
 2004-05-12,Saudi Arabia,KSA,23,26,658.0,657.0,AFC
 2004-05-12,Croatia,CRO,25,24,655.0,660.0,UEFA
-2004-05-12,Republic of Ireland,IRL,15,15,697.0,702.0,UEFA
+2004-05-12,Ireland,IRL,15,15,697.0,702.0,UEFA
 2004-05-12,Bolivia,BOL,103,103,439.0,442.0,CONMEBOL
 2004-05-12,Latvia,LVA,52,52,551.0,556.0,UEFA
 2004-05-12,Kuwait,KUW,54,56,548.0,550.0,AFC
@@ -23223,7 +23223,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2004-06-09,Cameroon,CMR,12,12,717.0,714.0,CAF
 2004-06-09,England,ENG,13,12,711.0,714.0,UEFA
 2004-06-09,Jamaica,JAM,51,50,553.0,560.0,CONCACAF
-2004-06-09,Republic of Ireland,IRL,14,15,705.0,697.0,UEFA
+2004-06-09,Ireland,IRL,14,15,705.0,697.0,UEFA
 2004-06-09,Nigeria,NGA,16,16,691.0,683.0,CAF
 2004-06-09,Belgium,BEL,17,17,670.0,674.0,UEFA
 2004-06-09,Sweden,SWE,18,21,667.0,660.0,UEFA
@@ -23399,7 +23399,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2004-07-07,Greece,GRE,14,35,710.0,627.0,UEFA
 2004-07-07,Denmark,DEN,15,15,706.0,696.0,UEFA
 2004-07-07,Cameroon,CMR,16,12,702.0,717.0,CAF
-2004-07-07,Republic of Ireland,IRL,16,14,702.0,705.0,UEFA
+2004-07-07,Ireland,IRL,16,14,702.0,705.0,UEFA
 2004-07-07,Nigeria,NGA,18,16,697.0,691.0,CAF
 2004-07-07,Argentina,ARG,11,5,722.0,733.0,CONMEBOL
 2004-07-07,Liechtenstein,LIE,153,152,273.0,277.0,UEFA
@@ -23547,7 +23547,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2004-08-04,France,FRA,2,2,809.0,813.0,UEFA
 2004-08-04,Brazil,BRA,1,1,849.0,835.0,CONMEBOL
 2004-08-04,Cameroon,CMR,16,16,700.0,702.0,CAF
-2004-08-04,Republic of Ireland,IRL,16,16,700.0,702.0,UEFA
+2004-08-04,Ireland,IRL,16,16,700.0,702.0,UEFA
 2004-08-04,Nigeria,NGA,18,18,696.0,697.0,CAF
 2004-08-04,Uruguay,URU,19,32,691.0,638.0,CONMEBOL
 2004-08-04,Romania,ROU,35,32,636.0,638.0,UEFA
@@ -23838,7 +23838,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2004-09-01,Germany,GER,11,13,714.0,712.0,UEFA
 2004-09-01,Greece,GRE,14,14,709.0,710.0,UEFA
 2004-09-01,Denmark,DEN,15,15,707.0,703.0,UEFA
-2004-09-01,Republic of Ireland,IRL,16,16,697.0,700.0,UEFA
+2004-09-01,Ireland,IRL,16,16,697.0,700.0,UEFA
 2004-09-01,Cameroon,CMR,16,16,697.0,700.0,CAF
 2004-09-01,Japan,JPN,18,20,695.0,685.0,AFC
 2004-09-01,Uruguay,URU,19,19,693.0,691.0,CONMEBOL
@@ -24094,7 +24094,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2004-10-06,Turkey,TUR,12,13,711.0,711.0,UEFA
 2004-10-06,Italy,ITA,8,9,735.0,722.0,UEFA
 2004-10-06,Sweden,SWE,22,22,687.0,686.0,UEFA
-2004-10-06,Republic of Ireland,IRL,14,16,705.0,697.0,UEFA
+2004-10-06,Ireland,IRL,14,16,705.0,697.0,UEFA
 2004-10-06,Denmark,DEN,15,15,704.0,707.0,UEFA
 2004-10-06,Greece,GRE,16,14,703.0,709.0,UEFA
 2004-10-06,Uruguay,URU,17,19,702.0,693.0,CONMEBOL
@@ -24164,7 +24164,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2004-11-10,Greece,GRE,17,16,703.0,703.0,UEFA
 2004-11-10,Germany,GER,16,13,706.0,706.0,UEFA
 2004-11-10,Sweden,SWE,15,22,710.0,687.0,UEFA
-2004-11-10,Republic of Ireland,IRL,14,14,713.0,705.0,UEFA
+2004-11-10,Ireland,IRL,14,14,713.0,705.0,UEFA
 2004-11-10,Denmark,DEN,13,15,715.0,704.0,UEFA
 2004-11-10,Croatia,CRO,23,23,683.0,686.0,UEFA
 2004-11-10,Turkey,TUR,12,12,721.0,711.0,UEFA
@@ -24454,7 +24454,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2004-12-20,Czechia,CZE,4,5,777.0,768.0,UEFA
 2004-12-20,Argentina,ARG,3,3,785.0,784.0,CONMEBOL
 2004-12-20,France,FRA,2,2,792.0,802.0,UEFA
-2004-12-20,Republic of Ireland,IRL,12,14,716.0,713.0,UEFA
+2004-12-20,Ireland,IRL,12,14,716.0,713.0,UEFA
 2004-12-20,Poland,POL,25,26,672.0,673.0,UEFA
 2004-12-20,Colombia,COL,26,28,669.0,662.0,CONMEBOL
 2004-12-20,Costa Rica,CRC,27,27,668.0,669.0,CONCACAF
@@ -24677,7 +24677,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2005-01-19,Denmark,DEN,14,14,711.0,711.0,UEFA
 2005-01-19,Sweden,SWE,13,13,715.0,715.0,UEFA
 2005-01-19,Cameroon,CMR,23,23,676.0,677.0,CAF
-2005-01-19,Republic of Ireland,IRL,12,12,716.0,716.0,UEFA
+2005-01-19,Ireland,IRL,12,12,716.0,716.0,UEFA
 2005-01-19,Italy,ITA,10,10,738.0,738.0,UEFA
 2005-01-19,Portugal,POR,9,9,747.0,747.0,UEFA
 2005-01-19,England,ENG,8,8,751.0,752.0,UEFA
@@ -24777,7 +24777,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2005-02-16,Sweden,SWE,13,13,714.0,715.0,UEFA
 2005-02-16,Greece,GRE,13,18,714.0,706.0,UEFA
 2005-02-16,Cameroon,CMR,23,23,675.0,676.0,CAF
-2005-02-16,Republic of Ireland,IRL,12,12,715.0,716.0,UEFA
+2005-02-16,Ireland,IRL,12,12,715.0,716.0,UEFA
 2005-02-16,Italy,ITA,10,10,738.0,738.0,UEFA
 2005-02-16,Portugal,POR,9,9,745.0,747.0,UEFA
 2005-02-16,England,ENG,8,8,749.0,751.0,UEFA
@@ -25062,7 +25062,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2005-03-23,Norway,NOR,35,35,629.0,632.0,UEFA
 2005-03-23,Greece,GRE,14,13,711.0,714.0,UEFA
 2005-03-23,Sweden,SWE,13,13,713.0,714.0,UEFA
-2005-03-23,Republic of Ireland,IRL,12,12,714.0,715.0,UEFA
+2005-03-23,Ireland,IRL,12,12,714.0,715.0,UEFA
 2005-03-23,United States,USA,10,11,736.0,731.0,CONCACAF
 2005-03-23,Italy,ITA,10,10,736.0,738.0,UEFA
 2005-03-23,Portugal,POR,9,9,740.0,745.0,UEFA
@@ -25222,7 +25222,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2005-04-20,South Korea,KOR,22,22,687.0,684.0,AFC
 2005-04-20,Nigeria,NGA,24,23,678.0,682.0,CAF
 2005-04-20,Poland,POL,25,27,677.0,663.0,UEFA
-2005-04-20,Republic of Ireland,IRL,15,12,710.0,714.0,UEFA
+2005-04-20,Ireland,IRL,15,12,710.0,714.0,UEFA
 2005-04-20,Rwanda,RWA,101,100,471.0,474.0,CAF
 2005-04-20,Turks and Caicos Islands,TCA,203,203,27.0,27.0,CONCACAF
 2005-04-20,Sudan,SDN,103,107,464.0,458.0,CAF
@@ -25469,7 +25469,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2005-05-18,Greece,GRE,12,12,727.0,726.0,UEFA
 2005-05-18,Cameroon,CMR,26,26,666.0,666.0,CAF
 2005-05-18,Sweden,SWE,13,13,722.0,723.0,UEFA
-2005-05-18,Republic of Ireland,IRL,15,15,709.0,710.0,UEFA
+2005-05-18,Ireland,IRL,15,15,709.0,710.0,UEFA
 2005-05-18,Uruguay,URU,16,16,706.0,709.0,CONMEBOL
 2005-05-18,Japan,JPN,17,17,703.0,703.0,AFC
 2005-05-18,Iran,IRN,18,19,699.0,701.0,AFC
@@ -25589,7 +25589,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2005-06-15,Japan,JPN,18,17,710.0,703.0,AFC
 2005-06-15,Iran,IRN,17,18,711.0,699.0,AFC
 2005-06-15,Denmark,DEN,16,19,713.0,697.0,UEFA
-2005-06-15,Republic of Ireland,IRL,15,15,714.0,709.0,UEFA
+2005-06-15,Ireland,IRL,15,15,714.0,709.0,UEFA
 2005-06-15,Turkey,TUR,14,14,719.0,712.0,UEFA
 2005-06-15,Greece,GRE,13,12,720.0,727.0,UEFA
 2005-06-15,Sweden,SWE,12,13,722.0,722.0,UEFA
@@ -25879,7 +25879,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2005-07-20,Turkey,TUR,12,14,716.0,719.0,UEFA
 2005-07-20,Italy,ITA,14,11,713.0,725.0,UEFA
 2005-07-20,Iran,IRN,15,17,711.0,711.0,AFC
-2005-07-20,Republic of Ireland,IRL,15,15,711.0,714.0,UEFA
+2005-07-20,Ireland,IRL,15,15,711.0,714.0,UEFA
 2005-07-20,Sweden,SWE,17,12,710.0,722.0,UEFA
 2005-07-20,Uruguay,URU,18,18,703.0,710.0,CONMEBOL
 2005-07-20,Denmark,DEN,19,16,698.0,713.0,UEFA
@@ -26080,7 +26080,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2005-08-17,Portugal,POR,9,10,737.0,739.0,UEFA
 2005-08-17,Turkey,TUR,12,12,712.0,716.0,UEFA
 2005-08-17,Italy,ITA,13,14,711.0,713.0,UEFA
-2005-08-17,Republic of Ireland,IRL,14,15,709.0,711.0,UEFA
+2005-08-17,Ireland,IRL,14,15,709.0,711.0,UEFA
 2005-08-17,Iran,IRN,15,15,708.0,711.0,AFC
 2005-08-17,Sweden,SWE,15,17,708.0,710.0,UEFA
 2005-08-17,Japan,JPN,17,13,706.0,715.0,AFC
@@ -26268,7 +26268,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2005-09-12,Croatia,CRO,24,20,686.0,693.0,UEFA
 2005-09-12,Tunisia,TUN,23,31,687.0,649.0,CAF
 2005-09-12,Cameroon,CMR,22,28,688.0,663.0,CAF
-2005-09-12,Republic of Ireland,IRL,21,14,694.0,709.0,UEFA
+2005-09-12,Ireland,IRL,21,14,694.0,709.0,UEFA
 2005-09-12,Greece,GRE,20,18,699.0,696.0,UEFA
 2005-09-12,Costa Rica,CRC,19,21,700.0,692.0,CONCACAF
 2005-09-12,Senegal,SEN,35,40,652.0,628.0,CAF
@@ -26400,7 +26400,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2005-10-17,Jamaica,JAM,40,41,626.0,623.0,CONCACAF
 2005-10-17,Ghana,GHA,51,62,599.0,566.0,CAF
 2005-10-17,Cameroon,CMR,23,22,691.0,688.0,CAF
-2005-10-17,Republic of Ireland,IRL,21,21,699.0,694.0,UEFA
+2005-10-17,Ireland,IRL,21,21,699.0,694.0,UEFA
 2005-10-17,Iran,IRN,21,18,699.0,702.0,AFC
 2005-10-17,Costa Rica,CRC,20,19,700.0,700.0,CONCACAF
 2005-10-17,Croatia,CRO,19,24,702.0,686.0,UEFA
@@ -26677,7 +26677,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2005-11-21,South Korea,KOR,29,29,682.0,680.0,AFC
 2005-11-21,Senegal,SEN,30,34,672.0,663.0,CAF
 2005-11-21,Paraguay,PAR,30,33,672.0,664.0,CONMEBOL
-2005-11-21,Republic of Ireland,IRL,23,21,696.0,699.0,UEFA
+2005-11-21,Ireland,IRL,23,21,696.0,699.0,UEFA
 2005-11-21,Saudi Arabia,KSA,32,31,669.0,670.0,AFC
 2005-11-21,Russia,RUS,34,30,662.0,671.0,UEFA
 2005-11-21,Morocco,MAR,35,35,655.0,659.0,CAF
@@ -26957,7 +26957,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2005-12-16,Poland,POL,22,23,696.0,696.0,UEFA
 2005-12-16,Cameroon,CMR,23,22,695.0,697.0,CAF
 2005-12-16,Nigeria,NGA,24,25,692.0,692.0,CAF
-2005-12-16,Republic of Ireland,IRL,24,23,692.0,696.0,UEFA
+2005-12-16,Ireland,IRL,24,23,692.0,696.0,UEFA
 2005-12-16,Japan,JPN,15,15,715.0,713.0,AFC
 2005-12-16,Chinese Taipei,TPE,156,156,237.0,241.0,AFC
 2006-01-18,Syria,SYR,100,98,465.0,465.0,AFC
@@ -27150,7 +27150,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2006-01-18,South Korea,KOR,29,29,680.0,680.0,AFC
 2006-01-18,Tunisia,TUN,28,28,685.0,685.0,CAF
 2006-01-18,Romania,ROU,27,27,686.0,686.0,UEFA
-2006-01-18,Republic of Ireland,IRL,26,24,691.0,692.0,UEFA
+2006-01-18,Ireland,IRL,26,24,691.0,692.0,UEFA
 2006-01-18,Nigeria,NGA,24,24,692.0,692.0,CAF
 2006-01-18,Colombia,COL,24,24,692.0,692.0,CONMEBOL
 2006-01-18,Senegal,SEN,30,30,672.0,672.0,CAF
@@ -27274,7 +27274,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2006-02-15,Scotland,SCO,61,60,571.0,572.0,UEFA
 2006-02-15,Uzbekistan,UZB,61,59,571.0,573.0,AFC
 2006-02-15,Angola,ANG,60,63,582.0,568.0,CAF
-2006-02-15,Republic of Ireland,IRL,27,26,689.0,691.0,UEFA
+2006-02-15,Ireland,IRL,27,26,689.0,691.0,UEFA
 2006-02-15,Colombia,COL,27,24,689.0,692.0,CONMEBOL
 2006-02-15,Poland,POL,26,22,697.0,695.0,UEFA
 2006-02-15,Costa Rica,CRC,25,21,700.0,700.0,CONCACAF
@@ -27408,7 +27408,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2006-03-15,Brazil,BRA,1,1,835.0,837.0,CONMEBOL
 2006-03-15,Romania,ROU,26,30,691.0,685.0,UEFA
 2006-03-15,Senegal,SEN,28,29,689.0,686.0,CAF
-2006-03-15,Republic of Ireland,IRL,29,27,687.0,689.0,UEFA
+2006-03-15,Ireland,IRL,29,27,687.0,689.0,UEFA
 2006-03-15,Colombia,COL,30,27,686.0,689.0,CONMEBOL
 2006-03-15,South Korea,KOR,31,31,683.0,679.0,AFC
 2006-03-15,Ivory Coast,CIV,32,32,671.0,674.0,CAF
@@ -27708,7 +27708,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2006-04-19,Colombia,COL,27,30,684.0,686.0,CONMEBOL
 2006-04-19,Poland,POL,28,26,682.0,691.0,UEFA
 2006-04-19,Senegal,SEN,29,28,681.0,689.0,CAF
-2006-04-19,Republic of Ireland,IRL,30,29,678.0,687.0,UEFA
+2006-04-19,Ireland,IRL,30,29,678.0,687.0,UEFA
 2006-04-19,St Kitts and Nevis,SKN,132,131,330.0,334.0,CONCACAF
 2006-04-19,Belarus,BLR,64,63,559.0,565.0,UEFA
 2006-04-19,China PR,CHN,66,71,549.0,549.0,AFC
@@ -27886,7 +27886,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2006-05-17,Sudan,SDN,97,95,468.0,473.0,CAF
 2006-05-17,Ethiopia,ETH,112,113,392.0,393.0,CAF
 2006-05-17,Northern Ireland,NIR,96,96,469.0,471.0,UEFA
-2006-05-17,Republic of Ireland,IRL,31,30,671.0,678.0,UEFA
+2006-05-17,Ireland,IRL,31,30,671.0,678.0,UEFA
 2006-05-17,Ivory Coast,CIV,32,32,669.0,668.0,CAF
 2006-05-17,Paraguay,PAR,33,33,653.0,657.0,CONMEBOL
 2006-05-17,Saudi Arabia,KSA,34,34,651.0,655.0,AFC
@@ -27992,7 +27992,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2006-07-12,Serbia,SRB,36,36,724.0,724.0,UEFA
 2006-07-12,Scotland,SCO,41,59,677.0,576.0,UEFA
 2006-07-12,Morocco,MAR,40,36,681.0,646.0,CAF
-2006-07-12,Republic of Ireland,IRL,39,31,694.0,671.0,UEFA
+2006-07-12,Ireland,IRL,39,31,694.0,671.0,UEFA
 2006-07-12,Honduras,HON,38,42,695.0,612.0,CONCACAF
 2006-07-12,Bulgaria,BUL,37,37,716.0,645.0,UEFA
 2006-07-12,Serbia and Montenegro,SCG,36,44,724.0,610.0,UEFA
@@ -28223,7 +28223,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2006-08-16,Peru,PER,41,42,662.0,661.0,CONMEBOL
 2006-08-16,Scotland,SCO,40,41,677.0,677.0,UEFA
 2006-08-16,Morocco,MAR,39,40,681.0,681.0,CAF
-2006-08-16,Republic of Ireland,IRL,38,39,694.0,694.0,UEFA
+2006-08-16,Ireland,IRL,38,39,694.0,694.0,UEFA
 2006-08-16,Portugal,POR,8,8,1301.0,1301.0,UEFA
 2006-08-16,Bulgaria,BUL,36,37,716.0,716.0,UEFA
 2006-08-16,Senegal,SEN,35,35,726.0,726.0,CAF
@@ -28434,7 +28434,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2006-09-13,Peru,PER,46,41,611.0,662.0,CONMEBOL
 2006-09-13,Chile,CHI,45,44,637.0,642.0,CONMEBOL
 2006-09-13,Iran,IRN,43,45,658.0,639.0,AFC
-2006-09-13,Republic of Ireland,IRL,43,38,658.0,694.0,UEFA
+2006-09-13,Ireland,IRL,43,38,658.0,694.0,UEFA
 2006-09-13,Slovakia,SVK,42,43,685.0,659.0,UEFA
 2006-09-13,Morocco,MAR,41,39,694.0,681.0,CAF
 2006-09-13,North Macedonia,MKD,51,67,554.0,456.0,UEFA
@@ -28712,7 +28712,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2006-10-18,Romania,ROU,23,25,870.0,817.0,UEFA
 2006-10-18,Denmark,DEN,22,16,872.0,940.0,UEFA
 2006-10-18,Ecuador,ECU,34,30,760.0,785.0,CONMEBOL
-2006-10-18,Republic of Ireland,IRL,49,43,568.0,658.0,UEFA
+2006-10-18,Ireland,IRL,49,43,568.0,658.0,UEFA
 2006-10-18,North Macedonia,MKD,50,51,563.0,554.0,UEFA
 2006-10-18,Norway,NOR,51,40,562.0,698.0,UEFA
 2006-10-18,Macau,MAC,185,185,31.0,31.0,AFC
@@ -28952,7 +28952,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2006-11-22,Malaysia,MAS,153,153,107.0,107.0,AFC
 2006-11-22,Norway,NOR,50,51,587.0,562.0,UEFA
 2006-11-22,Australia,AUS,39,37,703.0,710.0,AFC
-2006-11-22,Republic of Ireland,IRL,49,49,596.0,568.0,UEFA
+2006-11-22,Ireland,IRL,49,49,596.0,568.0,UEFA
 2006-11-22,Japan,JPN,47,46,630.0,597.0,AFC
 2006-11-22,Cuba,CUB,46,68,643.0,458.0,CONCACAF
 2006-11-22,Uzbekistan,UZB,45,59,645.0,494.0,AFC
@@ -29079,7 +29079,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2006-12-18,Serbia,SRB,33,33,765.0,765.0,UEFA
 2006-12-18,Mali,MLI,36,36,732.0,732.0,CAF
 2006-12-18,Myanmar,MYA,154,150,100.0,109.0,AFC
-2006-12-18,Republic of Ireland,IRL,49,49,596.0,596.0,UEFA
+2006-12-18,Ireland,IRL,49,49,596.0,596.0,UEFA
 2006-12-18,Russia,RUS,22,23,858.0,858.0,UEFA
 2006-12-18,Comoros,COM,207,207,0.0,0.0,CAF
 2006-12-18,Brazil,BRA,1,1,1588.0,1588.0,CONMEBOL
@@ -29260,7 +29260,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2007-01-17,Congo,CGO,89,89,370.0,370.0,CAF
 2007-01-17,South Korea,KOR,51,51,574.0,575.0,AFC
 2007-01-17,Norway,NOR,50,50,587.0,587.0,UEFA
-2007-01-17,Republic of Ireland,IRL,49,49,596.0,596.0,UEFA
+2007-01-17,Ireland,IRL,49,49,596.0,596.0,UEFA
 2007-01-17,American Samoa,ASA,199,198,0.0,0.0,OFC
 2007-01-17,Mexico,MEX,21,20,883.0,883.0,CONCACAF
 2007-01-17,Romania,ROU,20,19,912.0,912.0,UEFA
@@ -29501,7 +29501,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2007-02-14,Finland,FIN,48,52,608.0,569.0,UEFA
 2007-02-14,Norway,NOR,47,50,610.0,587.0,UEFA
 2007-02-14,Austria,AUT,61,65,501.0,473.0,UEFA
-2007-02-14,Republic of Ireland,IRL,46,49,611.0,596.0,UEFA
+2007-02-14,Ireland,IRL,46,49,611.0,596.0,UEFA
 2007-02-14,South Korea,KOR,44,51,618.0,574.0,AFC
 2007-02-14,Morocco,MAR,43,42,639.0,684.0,CAF
 2007-02-14,Egypt,EGY,42,19,645.0,918.0,CAF
@@ -29634,7 +29634,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2007-03-14,Israel,ISR,38,40,689.0,650.0,UEFA
 2007-03-14,Slovakia,SVK,37,33,693.0,707.0,UEFA
 2007-03-14,Norway,NOR,43,47,637.0,610.0,UEFA
-2007-03-14,Republic of Ireland,IRL,51,46,577.0,611.0,UEFA
+2007-03-14,Ireland,IRL,51,46,577.0,611.0,UEFA
 2007-03-14,Guinea,GUI,62,62,495.0,495.0,CAF
 2007-03-14,Uzbekistan,UZB,53,50,558.0,596.0,AFC
 2007-03-14,Panama,PAN,54,74,557.0,423.0,CONCACAF
@@ -29957,7 +29957,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2007-04-18,Scotland,SCO,19,16,885.0,911.0,UEFA
 2007-04-18,Ghana,GHA,28,19,813.0,881.0,CAF
 2007-04-18,Ecuador,ECU,30,24,780.0,850.0,CONMEBOL
-2007-04-18,Republic of Ireland,IRL,31,51,766.0,577.0,UEFA
+2007-04-18,Ireland,IRL,31,51,766.0,577.0,UEFA
 2007-04-18,Serbia,SRB,32,28,757.0,768.0,UEFA
 2007-04-18,Northern Ireland,NIR,33,47,742.0,615.0,UEFA
 2007-04-18,Austria,AUT,75,63,422.0,488.0,UEFA
@@ -30162,7 +30162,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2007-05-16,United States,USA,29,29,785.0,782.0,CONCACAF
 2007-05-16,Ecuador,ECU,30,30,782.0,780.0,CONMEBOL
 2007-05-16,Serbia,SRB,31,32,769.0,757.0,UEFA
-2007-05-16,Republic of Ireland,IRL,32,31,765.0,766.0,UEFA
+2007-05-16,Ireland,IRL,32,31,765.0,766.0,UEFA
 2007-05-16,Northern Ireland,NIR,33,33,742.0,742.0,UEFA
 2007-05-16,Israel,ISR,34,33,736.0,742.0,UEFA
 2007-05-16,Paraguay,PAR,35,35,729.0,711.0,CONMEBOL
@@ -30428,7 +30428,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2007-06-13,Myanmar,MYA,153,156,98.0,98.0,AFC
 2007-06-13,New Zealand,NZL,154,127,96.0,183.0,OFC
 2007-06-13,Paraguay,PAR,37,35,731.0,729.0,CONMEBOL
-2007-06-13,Republic of Ireland,IRL,38,32,707.0,765.0,UEFA
+2007-06-13,Ireland,IRL,38,32,707.0,765.0,UEFA
 2007-06-13,Egypt,EGY,39,38,705.0,694.0,CAF
 2007-06-13,Slovakia,SVK,40,37,703.0,702.0,UEFA
 2007-06-13,Japan,JPN,40,44,703.0,656.0,AFC
@@ -30566,7 +30566,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2007-07-18,Japan,JPN,36,40,722.0,703.0,AFC
 2007-07-18,Ghana,GHA,37,19,721.0,917.0,CAF
 2007-07-18,Slovakia,SVK,38,40,710.0,703.0,UEFA
-2007-07-18,Republic of Ireland,IRL,39,38,707.0,707.0,UEFA
+2007-07-18,Ireland,IRL,39,38,707.0,707.0,UEFA
 2007-07-18,Tunisia,TUN,40,45,699.0,664.0,CAF
 2007-07-18,Finland,FIN,41,42,696.0,696.0,UEFA
 2007-07-18,Egypt,EGY,42,39,687.0,705.0,CAF
@@ -30792,7 +30792,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2007-08-22,Morocco,MAR,34,34,791.0,780.0,CAF
 2007-08-22,Norway,NOR,35,35,768.0,737.0,UEFA
 2007-08-22,Tunisia,TUN,36,40,739.0,699.0,CAF
-2007-08-22,Republic of Ireland,IRL,37,39,737.0,707.0,UEFA
+2007-08-22,Ireland,IRL,37,39,737.0,707.0,UEFA
 2007-08-22,Finland,FIN,38,41,732.0,696.0,UEFA
 2007-08-22,Slovakia,SVK,39,38,728.0,710.0,UEFA
 2007-08-22,Paraguay,PAR,31,29,843.0,834.0,CONMEBOL
@@ -30935,7 +30935,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2007-09-19,Portugal,POR,8,10,1169.0,1157.0,UEFA
 2007-09-19,Guinea,GUI,30,42,752.0,703.0,CAF
 2007-09-19,Paraguay,PAR,31,31,750.0,843.0,CONMEBOL
-2007-09-19,Republic of Ireland,IRL,32,37,733.0,737.0,UEFA
+2007-09-19,Ireland,IRL,32,37,733.0,737.0,UEFA
 2007-09-19,Israel,ISR,33,33,732.0,812.0,UEFA
 2007-09-19,Hungary,HUN,55,65,544.0,464.0,UEFA
 2007-09-19,Canada,CAN,54,53,547.0,565.0,CONCACAF
@@ -31163,7 +31163,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2007-10-24,Northern Ireland,NIR,36,36,716.0,707.0,UEFA
 2007-10-24,Senegal,SEN,34,40,717.0,685.0,CAF
 2007-10-24,Bulgaria,BUL,34,35,717.0,727.0,UEFA
-2007-10-24,Republic of Ireland,IRL,32,32,722.0,733.0,UEFA
+2007-10-24,Ireland,IRL,32,32,722.0,733.0,UEFA
 2007-10-24,Ivory Coast,CIV,32,27,722.0,806.0,CAF
 2007-10-24,Guinea,GUI,31,30,727.0,752.0,CAF
 2007-10-24,Japan,JPN,30,34,758.0,731.0,AFC
@@ -31346,7 +31346,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2007-11-22,Paraguay,PAR,21,26,873.0,799.0,CONMEBOL
 2007-11-22,Nigeria,NGA,20,19,875.0,841.0,CAF
 2007-11-22,United States,USA,19,18,876.0,886.0,CONCACAF
-2007-11-22,Republic of Ireland,IRL,35,32,731.0,722.0,UEFA
+2007-11-22,Ireland,IRL,35,32,731.0,722.0,UEFA
 2007-11-22,Cuba,CUB,70,64,453.0,485.0,CONCACAF
 2007-11-22,North Macedonia,MKD,59,75,556.0,423.0,UEFA
 2007-11-22,Angola,ANG,73,73,443.0,428.0,CAF
@@ -31582,7 +31582,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2007-12-17,Senegal,SEN,38,38,687.0,687.0,CAF
 2007-12-17,Ivory Coast,CIV,37,37,688.0,688.0,CAF
 2007-12-17,Finland,FIN,36,36,697.0,695.0,UEFA
-2007-12-17,Republic of Ireland,IRL,35,35,731.0,731.0,UEFA
+2007-12-17,Ireland,IRL,35,35,731.0,731.0,UEFA
 2007-12-17,Japan,JPN,34,33,748.0,740.0,AFC
 2007-12-17,Guinea,GUI,33,33,758.0,740.0,CAF
 2007-12-17,Northern Ireland,NIR,32,32,780.0,780.0,UEFA
@@ -31801,7 +31801,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2008-01-16,Guinea,GUI,33,33,765.0,758.0,CAF
 2008-01-16,Japan,JPN,34,34,748.0,748.0,AFC
 2008-01-16,Egypt,EGY,35,39,733.0,686.0,CAF
-2008-01-16,Republic of Ireland,IRL,36,35,731.0,731.0,UEFA
+2008-01-16,Ireland,IRL,36,35,731.0,731.0,UEFA
 2008-01-16,Finland,FIN,37,36,697.0,697.0,UEFA
 2008-01-16,Ivory Coast,CIV,38,37,688.0,688.0,CAF
 2008-01-16,Morocco,MAR,39,39,676.0,686.0,CAF
@@ -31998,7 +31998,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2008-02-13,Iran,IRN,39,41,656.0,663.0,AFC
 2008-02-13,Australia,AUS,38,48,663.0,607.0,AFC
 2008-02-13,Finland,FIN,37,37,682.0,697.0,UEFA
-2008-02-13,Republic of Ireland,IRL,36,36,703.0,731.0,UEFA
+2008-02-13,Ireland,IRL,36,36,703.0,731.0,UEFA
 2008-02-13,Japan,JPN,35,34,747.0,748.0,AFC
 2008-02-13,Northern Ireland,NIR,34,32,754.0,780.0,UEFA
 2008-02-13,Denmark,DEN,33,31,795.0,797.0,UEFA
@@ -32222,7 +32222,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2008-03-12,Northern Ireland,NIR,34,34,763.0,754.0,UEFA
 2008-03-12,Finland,FIN,35,37,730.0,682.0,UEFA
 2008-03-12,Japan,JPN,36,35,702.0,747.0,AFC
-2008-03-12,Republic of Ireland,IRL,37,36,690.0,703.0,UEFA
+2008-03-12,Ireland,IRL,37,36,690.0,703.0,UEFA
 2008-03-12,Australia,AUS,38,38,666.0,663.0,AFC
 2008-03-12,Chile,CHI,39,40,658.0,654.0,CONMEBOL
 2008-03-12,Uruguay,URU,29,30,829.0,820.0,CONMEBOL
@@ -32433,7 +32433,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2008-04-09,Nigeria,NGA,39,46,659.0,618.0,CAF
 2008-04-09,Chile,CHI,40,39,653.0,658.0,CONMEBOL
 2008-04-09,Guinea,GUI,41,48,649.0,611.0,CAF
-2008-04-09,Republic of Ireland,IRL,42,37,637.0,690.0,UEFA
+2008-04-09,Ireland,IRL,42,37,637.0,690.0,UEFA
 2008-04-09,Australia,AUS,43,38,634.0,666.0,AFC
 2008-04-09,Mali,MLI,44,45,629.0,621.0,CAF
 2008-04-09,Senegal,SEN,45,44,627.0,622.0,CAF
@@ -32635,7 +32635,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2008-05-07,Nigeria,NGA,39,39,660.0,659.0,CAF
 2008-05-07,Guinea,GUI,40,41,656.0,649.0,CAF
 2008-05-07,Chile,CHI,41,40,641.0,653.0,CONMEBOL
-2008-05-07,Republic of Ireland,IRL,41,42,641.0,637.0,UEFA
+2008-05-07,Ireland,IRL,41,42,641.0,637.0,UEFA
 2008-05-07,Australia,AUS,43,43,634.0,634.0,AFC
 2008-05-07,Mali,MLI,44,44,632.0,629.0,CAF
 2008-05-07,Morocco,MAR,45,46,630.0,621.0,CAF
@@ -32919,7 +32919,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2008-06-04,United States,USA,21,21,874.0,889.0,CONCACAF
 2008-06-04,Turkey,TUR,20,25,877.0,856.0,UEFA
 2008-06-04,Switzerland,SUI,44,48,644.0,617.0,UEFA
-2008-06-04,Republic of Ireland,IRL,42,41,674.0,641.0,UEFA
+2008-06-04,Ireland,IRL,42,41,674.0,641.0,UEFA
 2008-06-04,Guinea,GUI,41,40,679.0,656.0,CAF
 2008-06-04,Morocco,MAR,40,45,690.0,630.0,CAF
 2008-06-04,Serbia,SRB,39,31,694.0,813.0,UEFA
@@ -32949,7 +32949,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2008-07-02,Morocco,MAR,37,40,689.0,690.0,CAF
 2008-07-02,Guinea,GUI,39,41,670.0,679.0,CAF
 2008-07-02,Australia,AUS,40,35,668.0,708.0,AFC
-2008-07-02,Republic of Ireland,IRL,41,42,666.0,674.0,UEFA
+2008-07-02,Ireland,IRL,41,42,666.0,674.0,UEFA
 2008-07-02,Senegal,SEN,42,43,658.0,667.0,CAF
 2008-07-02,Chile,CHI,43,47,654.0,623.0,CONMEBOL
 2008-07-02,Switzerland,SUI,45,44,645.0,644.0,UEFA
@@ -33272,7 +33272,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2008-08-06,Hungary,HUN,50,52,591.0,591.0,UEFA
 2008-08-06,Wales,WAL,51,54,578.0,578.0,UEFA
 2008-08-06,Saudi Arabia,KSA,52,49,575.0,623.0,AFC
-2008-08-06,Republic of Ireland,IRL,41,41,666.0,666.0,UEFA
+2008-08-06,Ireland,IRL,41,41,666.0,666.0,UEFA
 2008-08-06,South Korea,KOR,53,53,556.0,590.0,AFC
 2008-08-06,Nigeria,NGA,27,26,788.0,801.0,CAF
 2008-08-06,Ivory Coast,CIV,25,28,802.0,790.0,CAF
@@ -33432,7 +33432,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2008-09-03,Guinea,GUI,41,40,650.0,670.0,CAF
 2008-09-03,Chile,CHI,40,39,654.0,680.0,CONMEBOL
 2008-09-03,Australia,AUS,39,38,655.0,685.0,AFC
-2008-09-03,Republic of Ireland,IRL,38,41,662.0,666.0,UEFA
+2008-09-03,Ireland,IRL,38,41,662.0,666.0,UEFA
 2008-09-03,Morocco,MAR,37,37,671.0,690.0,CAF
 2008-09-03,Mali,MLI,47,48,604.0,624.0,CAF
 2008-09-03,Honduras,HON,60,61,502.0,506.0,CONCACAF
@@ -33657,7 +33657,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2008-10-08,Czechia,CZE,8,8,1111.0,1134.0,UEFA
 2008-10-08,Guinea,GUI,41,41,670.0,650.0,CAF
 2008-10-08,Norway,NOR,39,34,680.0,733.0,UEFA
-2008-10-08,Republic of Ireland,IRL,38,38,701.0,662.0,UEFA
+2008-10-08,Ireland,IRL,38,38,701.0,662.0,UEFA
 2008-10-08,Lithuania,LTU,37,54,706.0,545.0,UEFA
 2008-10-08,Chile,CHI,36,40,714.0,654.0,CONMEBOL
 2008-10-08,Northern Ireland,NIR,35,32,721.0,761.0,UEFA
@@ -33781,7 +33781,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2008-11-12,Guinea,GUI,39,41,691.0,670.0,CAF
 2008-11-12,Japan,JPN,38,32,722.0,747.0,AFC
 2008-11-12,Australia,AUS,37,34,739.0,737.0,AFC
-2008-11-12,Republic of Ireland,IRL,36,38,751.0,701.0,UEFA
+2008-11-12,Ireland,IRL,36,38,751.0,701.0,UEFA
 2008-11-12,Chile,CHI,35,36,753.0,714.0,CONMEBOL
 2008-11-12,Denmark,DEN,34,31,757.0,760.0,UEFA
 2008-11-12,Scotland,SCO,33,26,761.0,820.0,UEFA
@@ -34085,7 +34085,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2008-12-17,Serbia,SRB,30,30,761.0,775.0,UEFA
 2008-12-17,Ivory Coast,CIV,29,28,771.0,780.0,CAF
 2008-12-17,Australia,AUS,28,37,777.0,739.0,AFC
-2008-12-17,Republic of Ireland,IRL,38,36,711.0,751.0,UEFA
+2008-12-17,Ireland,IRL,38,36,711.0,751.0,UEFA
 2008-12-17,Malawi,MWI,104,103,342.0,346.0,CAF
 2008-12-17,Senegal,SEN,50,51,587.0,593.0,CAF
 2008-12-17,Fiji,FIJ,106,137,333.0,200.0,OFC
@@ -34257,7 +34257,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2009-01-14,Serbia,SRB,35,30,731.0,761.0,UEFA
 2009-01-14,Denmark,DEN,36,37,716.0,716.0,UEFA
 2009-01-14,Ghana,GHA,25,25,813.0,815.0,CAF
-2009-01-14,Republic of Ireland,IRL,37,38,711.0,711.0,UEFA
+2009-01-14,Ireland,IRL,37,38,711.0,711.0,UEFA
 2009-01-14,Ecuador,ECU,39,36,697.0,729.0,CONMEBOL
 2009-01-14,Honduras,HON,40,40,689.0,689.0,CONCACAF
 2009-01-14,Morocco,MAR,41,41,640.0,649.0,CAF
@@ -34421,7 +34421,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2009-02-11,Senegal,SEN,60,50,534.0,583.0,CAF
 2009-02-11,Northern Ireland,NIR,49,52,593.0,580.0,UEFA
 2009-02-11,Japan,JPN,37,34,697.0,734.0,AFC
-2009-02-11,Republic of Ireland,IRL,29,37,747.0,711.0,UEFA
+2009-02-11,Ireland,IRL,29,37,747.0,711.0,UEFA
 2009-02-11,Ghana,GHA,35,25,714.0,813.0,CAF
 2009-02-11,Finland,FIN,61,55,523.0,535.0,UEFA
 2009-02-11,Portugal,POR,12,11,1020.0,1007.0,UEFA
@@ -34791,7 +34791,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2009-03-11,Poland,POL,29,28,747.0,754.0,UEFA
 2009-03-11,Scotland,SCO,28,32,755.0,739.0,UEFA
 2009-03-11,Netherlands,NED,3,3,1317.0,1357.0,UEFA
-2009-03-11,Republic of Ireland,IRL,26,29,773.0,747.0,UEFA
+2009-03-11,Ireland,IRL,26,29,773.0,747.0,UEFA
 2009-03-11,Sweden,SWE,25,25,782.0,780.0,UEFA
 2009-03-11,Nigeria,NGA,24,23,783.0,827.0,CAF
 2009-03-11,Mexico,MEX,23,24,784.0,791.0,CONCACAF
@@ -34826,7 +34826,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2009-04-08,Nigeria,NGA,30,24,781.0,783.0,CAF
 2009-04-08,Ghana,GHA,31,34,779.0,717.0,CAF
 2009-04-08,Australia,AUS,32,32,776.0,725.0,AFC
-2009-04-08,Republic of Ireland,IRL,34,26,761.0,773.0,UEFA
+2009-04-08,Ireland,IRL,34,26,761.0,773.0,UEFA
 2009-04-08,Chile,CHI,26,30,806.0,739.0,CONMEBOL
 2009-04-08,Sweden,SWE,33,25,769.0,782.0,UEFA
 2009-04-08,Latvia,LVA,61,71,541.0,472.0,UEFA
@@ -35131,7 +35131,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2009-05-06,Ghana,GHA,31,31,779.0,779.0,CAF
 2009-05-06,Australia,AUS,32,32,776.0,776.0,AFC
 2009-05-06,Sweden,SWE,33,33,769.0,769.0,UEFA
-2009-05-06,Republic of Ireland,IRL,34,34,761.0,761.0,UEFA
+2009-05-06,Ireland,IRL,34,34,761.0,761.0,UEFA
 2009-05-06,Japan,JPN,35,35,749.0,749.0,AFC
 2009-05-06,Cape Verde,CPV,105,103,335.0,335.0,CAF
 2009-05-06,Egypt,EGY,37,37,742.0,742.0,CAF
@@ -35371,7 +35371,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2009-06-03,Czechia,CZE,15,12,943.0,968.0,UEFA
 2009-06-03,Bulgaria,BUL,23,20,838.0,840.0,UEFA
 2009-06-03,United States,USA,14,15,947.0,919.0,CONCACAF
-2009-06-03,Republic of Ireland,IRL,34,34,762.0,761.0,UEFA
+2009-06-03,Ireland,IRL,34,34,762.0,761.0,UEFA
 2009-06-03,Ghana,GHA,36,31,750.0,779.0,CAF
 2009-06-03,Ecuador,ECU,44,42,686.0,695.0,CONMEBOL
 2009-06-03,Colombia,COL,45,44,678.0,660.0,CONMEBOL
@@ -35553,7 +35553,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2009-07-01,Nigeria,NGA,34,30,773.0,770.0,CAF
 2009-07-01,Ghana,GHA,35,36,772.0,750.0,CAF
 2009-07-01,Ecuador,ECU,36,44,760.0,686.0,CONMEBOL
-2009-07-01,Republic of Ireland,IRL,37,34,758.0,762.0,UEFA
+2009-07-01,Ireland,IRL,37,34,758.0,762.0,UEFA
 2009-07-01,Egypt,EGY,38,40,754.0,719.0,CAF
 2009-07-01,Honduras,HON,39,35,753.0,761.0,CONCACAF
 2009-07-01,Japan,JPN,40,31,722.0,766.0,AFC
@@ -35680,7 +35680,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2009-08-05,North Macedonia,MKD,53,53,589.0,589.0,UEFA
 2009-08-05,Finland,FIN,52,52,593.0,593.0,UEFA
 2009-08-05,Burkina Faso,BFA,51,51,598.0,598.0,CAF
-2009-08-05,Republic of Ireland,IRL,37,37,758.0,758.0,UEFA
+2009-08-05,Ireland,IRL,37,37,758.0,758.0,UEFA
 2009-08-05,Norway,NOR,50,50,606.0,606.0,UEFA
 2009-08-05,South Korea,KOR,48,48,626.0,634.0,AFC
 2009-08-05,Algeria,ALG,47,47,661.0,661.0,CAF
@@ -35949,7 +35949,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2009-09-02,Gabon,GAB,35,31,759.0,789.0,CAF
 2009-09-02,Poland,POL,36,40,749.0,706.0,UEFA
 2009-09-02,Ecuador,ECU,36,36,749.0,768.0,CONMEBOL
-2009-09-02,Republic of Ireland,IRL,38,37,743.0,758.0,UEFA
+2009-09-02,Ireland,IRL,38,37,743.0,758.0,UEFA
 2009-09-02,Costa Rica,CRC,39,38,735.0,742.0,CONCACAF
 2009-09-02,Israel,ISR,22,25,844.0,822.0,UEFA
 2009-09-02,Chile,CHI,21,26,846.0,817.0,CONMEBOL
@@ -36136,7 +36136,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2009-10-16,Norway,NOR,37,43,751.0,709.0,UEFA
 2009-10-16,Romania,ROU,36,26,752.0,827.0,UEFA
 2009-10-16,Honduras,HON,35,42,754.0,712.0,CONCACAF
-2009-10-16,Republic of Ireland,IRL,34,38,755.0,743.0,UEFA
+2009-10-16,Ireland,IRL,34,38,755.0,743.0,UEFA
 2009-10-16,Slovakia,SVK,33,45,758.0,687.0,UEFA
 2009-10-16,Nigeria,NGA,32,34,763.0,773.0,CAF
 2009-10-16,Scotland,SCO,46,30,687.0,804.0,UEFA
@@ -36434,7 +36434,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2009-11-20,Argentina,ARG,8,6,1085.0,1103.0,CONMEBOL
 2009-11-20,United States,USA,14,11,980.0,1025.0,CONCACAF
 2009-11-20,Ecuador,ECU,35,44,750.0,697.0,CONMEBOL
-2009-11-20,Republic of Ireland,IRL,36,34,746.0,755.0,UEFA
+2009-11-20,Ireland,IRL,36,34,746.0,755.0,UEFA
 2009-11-20,Ghana,GHA,37,38,739.0,746.0,CAF
 2009-11-20,Poland,POL,56,56,575.0,609.0,UEFA
 2009-11-20,Canada,CAN,57,53,573.0,631.0,CONCACAF
@@ -36619,7 +36619,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2009-12-16,Norway,NOR,32,31,760.0,780.0,UEFA
 2009-12-16,Slovakia,SVK,33,34,752.0,755.0,UEFA
 2009-12-16,Ghana,GHA,34,37,747.0,739.0,CAF
-2009-12-16,Republic of Ireland,IRL,35,36,746.0,746.0,UEFA
+2009-12-16,Ireland,IRL,35,36,746.0,746.0,UEFA
 2009-12-16,Romania,ROU,36,32,745.0,763.0,UEFA
 2009-12-16,Honduras,HON,37,38,738.0,738.0,CONCACAF
 2009-12-16,Ecuador,ECU,37,35,738.0,750.0,CONMEBOL
@@ -36693,7 +36693,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2010-02-03,Northern Ireland,NIR,40,40,729.0,729.0,UEFA
 2010-02-03,Colombia,COL,39,39,736.0,736.0,CONMEBOL
 2010-02-03,Romania,ROU,38,36,745.0,745.0,UEFA
-2010-02-03,Republic of Ireland,IRL,37,35,746.0,746.0,UEFA
+2010-02-03,Ireland,IRL,37,35,746.0,746.0,UEFA
 2010-02-03,Australia,AUS,23,21,857.0,863.0,AFC
 2010-02-03,Ecuador,ECU,35,37,753.0,738.0,CONMEBOL
 2010-02-03,Honduras,HON,34,37,759.0,738.0,CONCACAF
@@ -36952,7 +36952,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2010-03-03,Slovenia,SVN,27,33,819.0,767.0,UEFA
 2010-03-03,Saudi Arabia,KSA,57,59,555.0,538.0,AFC
 2010-03-03,Ecuador,ECU,37,35,761.0,753.0,CONMEBOL
-2010-03-03,Republic of Ireland,IRL,39,37,748.0,746.0,UEFA
+2010-03-03,Ireland,IRL,39,37,748.0,746.0,UEFA
 2010-03-03,Tunisia,TUN,55,55,587.0,573.0,CAF
 2010-03-03,Mali,MLI,54,53,595.0,598.0,CAF
 2010-03-03,South Korea,KOR,53,49,616.0,634.0,AFC
@@ -37214,7 +37214,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2010-03-31,Scotland,SCO,41,45,732.0,681.0,UEFA
 2010-03-31,Costa Rica,CRC,42,44,717.0,701.0,CONCACAF
 2010-03-31,Gabon,GAB,43,43,707.0,706.0,CAF
-2010-03-31,Republic of Ireland,IRL,44,39,704.0,748.0,UEFA
+2010-03-31,Ireland,IRL,44,39,704.0,748.0,UEFA
 2010-03-31,Japan,JPN,45,46,692.0,672.0,AFC
 2010-03-31,Latvia,LVA,46,47,666.0,662.0,UEFA
 2010-03-31,Bosnia and Herzegovina,BIH,47,49,642.0,644.0,UEFA
@@ -37384,7 +37384,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2010-04-28,Latvia,LVA,46,46,652.0,666.0,UEFA
 2010-04-28,Japan,JPN,45,45,674.0,692.0,AFC
 2010-04-28,Scotland,SCO,44,41,684.0,732.0,UEFA
-2010-04-28,Republic of Ireland,IRL,43,44,690.0,704.0,UEFA
+2010-04-28,Ireland,IRL,43,44,690.0,704.0,UEFA
 2010-04-28,Costa Rica,CRC,42,42,706.0,717.0,CONCACAF
 2010-04-28,Gabon,GAB,41,43,707.0,707.0,CAF
 2010-04-28,Ivory Coast,CIV,27,25,846.0,846.0,CAF
@@ -37637,7 +37637,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2010-05-26,Honduras,HON,38,40,734.0,727.0,CONCACAF
 2010-05-26,Bulgaria,BUL,39,39,711.0,740.0,UEFA
 2010-05-26,Costa Rica,CRC,40,42,710.0,706.0,CONCACAF
-2010-05-26,Republic of Ireland,IRL,41,43,709.0,690.0,UEFA
+2010-05-26,Ireland,IRL,41,43,709.0,690.0,UEFA
 2010-05-26,Gabon,GAB,42,41,700.0,707.0,CAF
 2010-05-26,Finland,FIN,52,49,584.0,605.0,UEFA
 2010-05-26,Scotland,SCO,43,44,699.0,684.0,UEFA
@@ -37863,7 +37863,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2010-07-14,Colombia,COL,39,35,725.0,776.0,CONMEBOL
 2010-07-14,Peru,PER,38,53,726.0,578.0,CONMEBOL
 2010-07-14,Israel,ISR,37,26,733.0,857.0,UEFA
-2010-07-14,Republic of Ireland,IRL,36,41,734.0,709.0,UEFA
+2010-07-14,Ireland,IRL,36,41,734.0,709.0,UEFA
 2010-07-14,Sweden,SWE,35,37,747.0,761.0,UEFA
 2010-07-14,Gabon,GAB,34,42,755.0,700.0,CAF
 2010-07-14,South Korea,KOR,44,47,660.0,632.0,AFC
@@ -38091,7 +38091,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2010-08-11,Equatorial Guinea,EQG,145,147,110.0,110.0,CAF
 2010-08-11,American Samoa,ASA,202,202,0.0,0.0,OFC
 2010-08-11,Israel,ISR,38,37,733.0,733.0,UEFA
-2010-08-11,Republic of Ireland,IRL,36,36,734.0,734.0,UEFA
+2010-08-11,Ireland,IRL,36,36,734.0,734.0,UEFA
 2010-08-11,Colombia,COL,36,39,734.0,725.0,CONMEBOL
 2010-08-11,Paraguay,PAR,15,16,961.0,961.0,CONMEBOL
 2010-08-11,Croatia,CRO,14,15,968.0,968.0,UEFA
@@ -38185,7 +38185,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2010-09-15,Mexico,MEX,28,25,795.0,853.0,CONCACAF
 2010-09-15,France,FRA,27,21,835.0,890.0,UEFA
 2010-09-15,Finland,FIN,64,51,521.0,576.0,UEFA
-2010-09-15,Republic of Ireland,IRL,33,36,745.0,734.0,UEFA
+2010-09-15,Ireland,IRL,33,36,745.0,734.0,UEFA
 2010-09-15,Russia,RUS,25,16,868.0,956.0,UEFA
 2010-09-15,Ivory Coast,CIV,23,26,877.0,843.0,CAF
 2010-09-15,Turkey,TUR,21,28,882.0,810.0,UEFA
@@ -38392,7 +38392,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2010-10-20,Ivory Coast,CIV,19,23,871.0,877.0,CAF
 2010-10-20,Nigeria,NGA,34,34,708.0,733.0,CAF
 2010-10-20,Algeria,ALG,33,35,709.0,732.0,CAF
-2010-10-20,Republic of Ireland,IRL,32,33,710.0,745.0,UEFA
+2010-10-20,Ireland,IRL,32,33,710.0,745.0,UEFA
 2010-10-20,Czechia,CZE,31,37,739.0,717.0,UEFA
 2010-10-20,Japan,JPN,30,30,779.0,773.0,AFC
 2010-10-20,Turkey,TUR,29,21,780.0,882.0,UEFA
@@ -38674,7 +38674,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2010-11-17,Sweden,SWE,35,36,703.0,696.0,UEFA
 2010-11-17,Algeria,ALG,34,33,706.0,709.0,CAF
 2010-11-17,Nigeria,NGA,33,34,711.0,708.0,CAF
-2010-11-17,Republic of Ireland,IRL,32,32,730.0,710.0,UEFA
+2010-11-17,Ireland,IRL,32,32,730.0,710.0,UEFA
 2010-11-17,Czechia,CZE,31,31,756.0,739.0,UEFA
 2010-11-17,Japan,JPN,30,30,782.0,779.0,AFC
 2010-11-17,Ukraine,UKR,36,35,698.0,706.0,UEFA
@@ -38853,7 +38853,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2010-12-15,Uzbekistan,UZB,109,106,275.0,303.0,AFC
 2010-12-15,Iceland,ISL,112,110,261.0,275.0,UEFA
 2010-12-15,Korea DPR,PRK,108,107,292.0,299.0,AFC
-2010-12-15,Republic of Ireland,IRL,36,32,681.0,730.0,UEFA
+2010-12-15,Ireland,IRL,36,32,681.0,730.0,UEFA
 2010-12-15,Cameroon,CMR,37,38,670.0,656.0,CAF
 2010-12-15,Belarus,BLR,38,40,660.0,648.0,UEFA
 2010-12-15,Spain,ESP,1,1,1887.0,1920.0,UEFA
@@ -39100,7 +39100,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2011-01-12,Nigeria,NGA,32,32,730.0,725.0,CAF
 2011-01-12,Greece,GRE,11,11,1016.0,1016.0,UEFA
 2011-01-12,Sweden,SWE,33,33,712.0,712.0,UEFA
-2011-01-12,Republic of Ireland,IRL,35,36,681.0,681.0,UEFA
+2011-01-12,Ireland,IRL,35,36,681.0,681.0,UEFA
 2011-01-12,Lithuania,LTU,55,55,532.0,532.0,UEFA
 2011-01-12,Botswana,BOT,54,53,535.0,535.0,CAF
 2011-01-12,Ecuador,ECU,52,53,542.0,535.0,CONMEBOL
@@ -39190,7 +39190,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2011-02-02,Turkey,TUR,31,31,741.0,741.0,UEFA
 2011-02-02,South Korea,KOR,32,39,735.0,649.0,AFC
 2011-02-02,Egypt,EGY,33,10,709.0,1036.0,CAF
-2011-02-02,Republic of Ireland,IRL,35,35,681.0,681.0,UEFA
+2011-02-02,Ireland,IRL,35,35,681.0,681.0,UEFA
 2011-02-02,Norway,NOR,11,12,995.0,995.0,UEFA
 2011-02-02,Belarus,BLR,36,37,655.0,660.0,UEFA
 2011-02-02,Paraguay,PAR,24,24,832.0,832.0,CONMEBOL
@@ -39494,7 +39494,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2011-03-09,Czechia,CZE,31,30,739.0,751.0,UEFA
 2011-03-09,Turkey,TUR,32,31,728.0,741.0,UEFA
 2011-03-09,Ukraine,UKR,33,34,707.0,702.0,UEFA
-2011-03-09,Republic of Ireland,IRL,34,35,699.0,681.0,UEFA
+2011-03-09,Ireland,IRL,34,35,699.0,681.0,UEFA
 2011-03-09,Egypt,EGY,35,33,685.0,709.0,CAF
 2011-03-09,Hungary,HUN,36,37,654.0,632.0,UEFA
 2011-03-09,Belarus,BLR,37,36,634.0,655.0,UEFA
@@ -39682,7 +39682,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2011-04-13,Belgium,BEL,37,62,654.0,512.0,UEFA
 2011-04-13,Egypt,EGY,36,35,676.0,685.0,CAF
 2011-04-13,Ukraine,UKR,35,33,678.0,707.0,UEFA
-2011-04-13,Republic of Ireland,IRL,34,34,681.0,699.0,UEFA
+2011-04-13,Ireland,IRL,34,34,681.0,699.0,UEFA
 2011-04-13,Israel,ISR,33,58,709.0,532.0,UEFA
 2011-04-13,Czechia,CZE,32,31,722.0,739.0,UEFA
 2011-04-13,Turkey,TUR,30,32,795.0,728.0,UEFA
@@ -39863,7 +39863,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2011-05-18,Belgium,BEL,37,37,654.0,654.0,UEFA
 2011-05-18,Egypt,EGY,36,36,676.0,676.0,CAF
 2011-05-18,Ukraine,UKR,35,35,678.0,678.0,UEFA
-2011-05-18,Republic of Ireland,IRL,34,34,681.0,681.0,UEFA
+2011-05-18,Ireland,IRL,34,34,681.0,681.0,UEFA
 2011-05-18,Israel,ISR,33,33,709.0,709.0,UEFA
 2011-05-18,Senegal,SEN,40,51,613.0,561.0,CAF
 2011-05-18,Czechia,CZE,32,32,722.0,722.0,UEFA
@@ -40003,7 +40003,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2011-06-29,United States,USA,24,22,798.0,855.0,CONCACAF
 2011-06-29,Serbia,SRB,25,16,797.0,907.0,UEFA
 2011-06-29,South Korea,KOR,26,31,787.0,754.0,AFC
-2011-06-29,Republic of Ireland,IRL,31,34,752.0,681.0,UEFA
+2011-06-29,Ireland,IRL,31,34,752.0,681.0,UEFA
 2011-06-29,Slovakia,SVK,28,26,779.0,809.0,UEFA
 2011-06-29,Switzerland,SUI,29,25,777.0,819.0,UEFA
 2011-06-29,Israel,ISR,30,33,771.0,709.0,UEFA
@@ -40281,7 +40281,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2011-07-27,Ghana,GHA,36,33,696.0,735.0,CAF
 2011-07-27,Colombia,COL,35,54,706.0,564.0,CONMEBOL
 2011-07-27,Egypt,EGY,34,34,735.0,727.0,CAF
-2011-07-27,Republic of Ireland,IRL,33,31,752.0,752.0,UEFA
+2011-07-27,Ireland,IRL,33,31,752.0,752.0,UEFA
 2011-07-27,Israel,ISR,32,30,771.0,771.0,UEFA
 2011-07-27,Algeria,ALG,52,51,575.0,575.0,CAF
 2011-07-27,Romania,ROU,53,53,571.0,571.0,UEFA
@@ -40519,7 +40519,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2011-08-24,Central African Republic,CTA,104,90,309.0,370.0,CAF
 2011-08-24,United States,USA,28,30,791.0,777.0,CONCACAF
 2011-08-24,Serbia,SRB,29,27,784.0,797.0,UEFA
-2011-08-24,Republic of Ireland,IRL,31,33,754.0,752.0,UEFA
+2011-08-24,Ireland,IRL,31,33,754.0,752.0,UEFA
 2011-08-24,Israel,ISR,32,32,746.0,771.0,UEFA
 2011-08-24,South Korea,KOR,33,28,745.0,781.0,AFC
 2011-08-24,Egypt,EGY,34,34,739.0,735.0,CAF
@@ -40827,7 +40827,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2011-09-21,Ghana,GHA,37,36,700.0,726.0,CAF
 2011-09-21,Israel,ISR,38,32,677.0,746.0,UEFA
 2011-09-21,Slovakia,SVK,39,26,662.0,806.0,UEFA
-2011-09-21,Republic of Ireland,IRL,29,31,749.0,754.0,UEFA
+2011-09-21,Ireland,IRL,29,31,749.0,754.0,UEFA
 2011-10-19,Uzbekistan,UZB,73,79,452.0,421.0,AFC
 2011-10-19,Zimbabwe,ZIM,74,66,448.0,490.0,CAF
 2011-10-19,Bulgaria,BUL,75,55,447.0,558.0,UEFA
@@ -40896,7 +40896,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2011-10-19,Chile,CHI,16,14,941.0,932.0,CONMEBOL
 2011-10-19,France,FRA,15,12,953.0,956.0,UEFA
 2011-10-19,Sweden,SWE,14,25,955.0,792.0,UEFA
-2011-10-19,Republic of Ireland,IRL,25,29,812.0,749.0,UEFA
+2011-10-19,Ireland,IRL,25,29,812.0,749.0,UEFA
 2011-10-19,Russia,RUS,13,13,975.0,954.0,UEFA
 2011-10-19,Denmark,DEN,10,17,1030.0,893.0,UEFA
 2011-10-19,Argentina,ARG,10,10,1030.0,1024.0,CONMEBOL
@@ -41105,7 +41105,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2011-11-23,Japan,JPN,19,17,884.0,924.0,AFC
 2011-11-23,Qatar,QAT,95,92,375.0,371.0,AFC
 2011-11-23,Denmark,DEN,11,10,1035.0,1030.0,UEFA
-2011-11-23,Republic of Ireland,IRL,21,25,864.0,812.0,UEFA
+2011-11-23,Ireland,IRL,21,25,864.0,812.0,UEFA
 2011-11-23,Australia,AUS,22,20,851.0,868.0,AFC
 2011-11-23,Bosnia and Herzegovina,BIH,23,21,838.0,864.0,UEFA
 2011-11-23,Iran,IRN,45,42,616.0,626.0,AFC
@@ -41376,7 +41376,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2011-12-21,Japan,JPN,19,19,884.0,884.0,AFC
 2011-12-21,Bosnia and Herzegovina,BIH,20,23,869.0,838.0,UEFA
 2011-12-21,Mexico,MEX,21,20,866.0,866.0,CONCACAF
-2011-12-21,Republic of Ireland,IRL,22,21,864.0,864.0,UEFA
+2011-12-21,Ireland,IRL,22,21,864.0,864.0,UEFA
 2011-12-21,Australia,AUS,23,22,851.0,851.0,AFC
 2011-12-21,Paraguay,PAR,24,24,795.0,795.0,CONMEBOL
 2011-12-21,Norway,NOR,25,25,788.0,788.0,UEFA
@@ -41598,7 +41598,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2012-01-18,Japan,JPN,19,19,869.0,884.0,AFC
 2012-01-18,Australia,AUS,21,23,866.0,851.0,AFC
 2012-01-18,Mexico,MEX,21,21,866.0,866.0,CONCACAF
-2012-01-18,Republic of Ireland,IRL,23,22,864.0,864.0,UEFA
+2012-01-18,Ireland,IRL,23,22,864.0,864.0,UEFA
 2012-01-18,Norway,NOR,24,25,788.0,788.0,UEFA
 2012-01-18,Slovenia,SVN,25,26,780.0,780.0,UEFA
 2012-01-18,Ghana,GHA,26,29,779.0,761.0,CAF
@@ -41716,7 +41716,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2012-02-15,Ghana,GHA,23,26,819.0,779.0,CAF
 2012-02-15,Australia,AUS,22,21,832.0,866.0,AFC
 2012-02-15,Mexico,MEX,21,21,882.0,866.0,CONCACAF
-2012-02-15,Republic of Ireland,IRL,20,23,893.0,864.0,UEFA
+2012-02-15,Ireland,IRL,20,23,893.0,864.0,UEFA
 2012-02-15,Bosnia and Herzegovina,BIH,19,19,920.0,869.0,UEFA
 2012-02-15,Sweden,SWE,18,17,924.0,891.0,UEFA
 2012-02-15,France,FRA,17,15,930.0,915.0,UEFA
@@ -41960,7 +41960,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2012-03-07,France,FRA,16,17,938.0,930.0,UEFA
 2012-03-07,Sweden,SWE,17,18,926.0,924.0,UEFA
 2012-03-07,Switzerland,SUI,18,16,891.0,950.0,UEFA
-2012-03-07,Republic of Ireland,IRL,19,20,872.0,893.0,UEFA
+2012-03-07,Ireland,IRL,19,20,872.0,893.0,UEFA
 2012-03-07,Australia,AUS,20,22,868.0,832.0,AFC
 2012-03-07,Bosnia and Herzegovina,BIH,21,19,850.0,920.0,UEFA
 2012-03-07,Mexico,MEX,22,21,849.0,882.0,CONCACAF
@@ -42210,7 +42210,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2012-04-11,Ivory Coast,CIV,15,15,951.0,944.0,CAF
 2012-04-11,France,FRA,16,16,938.0,938.0,UEFA
 2012-04-11,Sweden,SWE,17,17,931.0,926.0,UEFA
-2012-04-11,Republic of Ireland,IRL,18,19,891.0,872.0,UEFA
+2012-04-11,Ireland,IRL,18,19,891.0,872.0,UEFA
 2012-04-11,Switzerland,SUI,18,18,891.0,891.0,UEFA
 2012-04-11,Mexico,MEX,20,22,868.0,849.0,CONCACAF
 2012-04-11,Australia,AUS,21,20,862.0,868.0,AFC
@@ -42339,7 +42339,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2012-05-09,Australia,AUS,21,21,862.0,862.0,AFC
 2012-05-09,Mexico,MEX,20,20,867.0,868.0,CONCACAF
 2012-05-09,Switzerland,SUI,18,18,891.0,891.0,UEFA
-2012-05-09,Republic of Ireland,IRL,18,18,891.0,891.0,UEFA
+2012-05-09,Ireland,IRL,18,18,891.0,891.0,UEFA
 2012-05-09,Sweden,SWE,17,17,931.0,931.0,UEFA
 2012-05-09,France,FRA,16,16,938.0,938.0,UEFA
 2012-05-09,Ivory Coast,CIV,15,15,951.0,951.0,CAF
@@ -42651,7 +42651,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2012-06-06,Greece,GRE,15,14,953.0,961.0,UEFA
 2012-06-06,Ivory Coast,CIV,16,15,943.0,951.0,CAF
 2012-06-06,Sweden,SWE,17,17,910.0,931.0,UEFA
-2012-06-06,Republic of Ireland,IRL,18,18,907.0,891.0,UEFA
+2012-06-06,Ireland,IRL,18,18,907.0,891.0,UEFA
 2012-06-06,Mexico,MEX,19,20,889.0,867.0,CONCACAF
 2012-06-06,Spain,ESP,1,1,1456.0,1442.0,UEFA
 2012-06-06,Italy,ITA,12,12,977.0,1041.0,UEFA
@@ -42824,7 +42824,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2012-07-04,Moldova,MDA,139,140,213.0,212.0,UEFA
 2012-07-04,Burkina Faso,BFA,87,86,405.0,407.0,CAF
 2012-07-04,Paraguay,PAR,25,22,772.0,833.0,CONMEBOL
-2012-07-04,Republic of Ireland,IRL,26,18,762.0,907.0,UEFA
+2012-07-04,Ireland,IRL,26,18,762.0,907.0,UEFA
 2012-07-04,Ecuador,ECU,27,36,752.0,693.0,CONMEBOL
 2012-07-04,South Korea,KOR,28,35,740.0,719.0,AFC
 2012-07-04,Turkey,TUR,29,33,735.0,732.0,UEFA
@@ -43036,7 +43036,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2012-08-08,Iran,IRN,48,50,590.0,581.0,AFC
 2012-08-08,Estonia,EST,49,56,587.0,554.0,UEFA
 2012-08-08,Mali,MLI,39,40,650.0,650.0,CAF
-2012-08-08,Republic of Ireland,IRL,26,26,779.0,762.0,UEFA
+2012-08-08,Ireland,IRL,26,26,779.0,762.0,UEFA
 2012-08-08,Norway,NOR,25,24,780.0,780.0,UEFA
 2012-08-08,Australia,AUS,24,23,807.0,807.0,AFC
 2012-08-08,Sudan,SDN,104,105,329.0,329.0,CAF
@@ -43245,7 +43245,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2012-09-05,Montenegro,MNE,48,50,606.0,581.0,UEFA
 2012-09-05,Austria,AUT,49,60,598.0,517.0,UEFA
 2012-09-05,Ukraine,UKR,39,45,628.0,621.0,UEFA
-2012-09-05,Republic of Ireland,IRL,26,26,768.0,779.0,UEFA
+2012-09-05,Ireland,IRL,26,26,768.0,779.0,UEFA
 2012-09-05,Australia,AUS,25,24,778.0,807.0,AFC
 2012-09-05,Slovenia,SVN,24,33,784.0,706.0,UEFA
 2012-09-05,Spain,ESP,1,1,1617.0,1605.0,UEFA
@@ -43428,7 +43428,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2012-10-03,Ghana,GHA,31,31,722.0,714.0,CAF
 2012-10-03,Belgium,BEL,30,40,723.0,626.0,UEFA
 2012-10-03,Bosnia and Herzegovina,BIH,29,30,740.0,717.0,UEFA
-2012-10-03,Republic of Ireland,IRL,28,26,757.0,768.0,UEFA
+2012-10-03,Ireland,IRL,28,26,757.0,768.0,UEFA
 2012-10-03,Equatorial Guinea,EQG,105,107,328.0,324.0,CAF
 2012-10-03,Antigua and Barbuda,ATG,106,101,324.0,340.0,CONCACAF
 2012-10-03,Poland,POL,54,56,573.0,547.0,UEFA
@@ -43649,7 +43649,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2012-11-07,Australia,AUS,33,34,719.0,702.0,AFC
 2012-11-07,Montenegro,MNE,34,44,691.0,623.0,UEFA
 2012-11-07,Paraguay,PAR,35,38,690.0,665.0,CONMEBOL
-2012-11-07,Republic of Ireland,IRL,36,28,682.0,757.0,UEFA
+2012-11-07,Ireland,IRL,36,28,682.0,757.0,UEFA
 2012-11-07,Norway,NOR,26,26,778.0,764.0,UEFA
 2012-11-07,Romania,ROU,37,46,669.0,619.0,UEFA
 2012-11-07,Zambia,ZAM,39,41,633.0,631.0,CAF
@@ -43830,7 +43830,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2012-12-19,Slovakia,SVK,47,43,595.0,619.0,UEFA
 2012-12-19,Peru,PER,46,44,603.0,611.0,CONMEBOL
 2012-12-19,Tunisia,TUN,45,46,606.0,609.0,CAF
-2012-12-19,Republic of Ireland,IRL,42,36,609.0,682.0,UEFA
+2012-12-19,Ireland,IRL,42,36,609.0,682.0,UEFA
 2012-12-19,Gabon,GAB,42,52,609.0,581.0,CAF
 2012-12-19,Bolivia,BOL,42,51,609.0,585.0,CONMEBOL
 2012-12-19,Egypt,EGY,41,40,615.0,627.0,CAF
@@ -44072,7 +44072,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2013-01-17,Haiti,HAI,38,39,650.0,650.0,CONCACAF
 2013-01-17,Turkey,TUR,40,40,627.0,627.0,UEFA
 2013-01-17,Bolivia,BOL,41,42,609.0,609.0,CONMEBOL
-2013-01-17,Republic of Ireland,IRL,41,42,609.0,609.0,UEFA
+2013-01-17,Ireland,IRL,41,42,609.0,609.0,UEFA
 2013-01-17,Peru,PER,43,46,603.0,603.0,CONMEBOL
 2013-01-17,Slovakia,SVK,44,47,595.0,595.0,UEFA
 2013-01-17,Ukraine,UKR,44,47,595.0,595.0,UEFA
@@ -44244,7 +44244,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2013-02-14,Ghana,GHA,19,26,865.0,788.0,CAF
 2013-02-14,Panama,PAN,42,46,612.0,594.0,CONCACAF
 2013-02-14,Turkey,TUR,41,40,616.0,627.0,UEFA
-2013-02-14,Republic of Ireland,IRL,39,41,634.0,609.0,UEFA
+2013-02-14,Ireland,IRL,39,41,634.0,609.0,UEFA
 2013-02-14,Peru,PER,39,43,634.0,603.0,CONMEBOL
 2013-02-14,South Korea,KOR,38,34,643.0,687.0,AFC
 2013-02-14,Australia,AUS,37,36,649.0,674.0,AFC
@@ -44492,7 +44492,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2013-03-14,Zambia,ZAM,36,47,643.0,591.0,CAF
 2013-03-14,Paraguay,PAR,38,35,640.0,681.0,CONMEBOL
 2013-03-14,Australia,AUS,39,37,634.0,649.0,AFC
-2013-03-14,Republic of Ireland,IRL,40,39,627.0,634.0,UEFA
+2013-03-14,Ireland,IRL,40,39,627.0,634.0,UEFA
 2013-03-14,Panama,PAN,41,42,624.0,612.0,CONCACAF
 2013-03-14,Peru,PER,41,39,624.0,634.0,CONMEBOL
 2013-03-14,Venezuela,VEN,43,45,622.0,599.0,CONMEBOL
@@ -44679,7 +44679,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2013-04-11,Venezuela,VEN,36,43,708.0,622.0,CONMEBOL
 2013-04-11,Ukraine,UKR,37,48,675.0,598.0,UEFA
 2013-04-11,Panama,PAN,38,41,663.0,624.0,CONCACAF
-2013-04-11,Republic of Ireland,IRL,39,40,662.0,627.0,UEFA
+2013-04-11,Ireland,IRL,39,40,662.0,627.0,UEFA
 2013-04-11,Serbia,SRB,40,35,659.0,657.0,UEFA
 2013-04-11,Tunisia,TUN,41,44,647.0,619.0,CAF
 2013-04-11,South Korea,KOR,42,47,644.0,601.0,AFC
@@ -44878,7 +44878,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2013-05-09,South Korea,KOR,42,42,644.0,644.0,AFC
 2013-05-09,Tunisia,TUN,41,41,647.0,647.0,CAF
 2013-05-09,Serbia,SRB,40,40,659.0,659.0,UEFA
-2013-05-09,Republic of Ireland,IRL,39,39,662.0,662.0,UEFA
+2013-05-09,Ireland,IRL,39,39,662.0,662.0,UEFA
 2013-05-09,Panama,PAN,38,38,663.0,663.0,CONCACAF
 2013-05-09,Ukraine,UKR,37,37,675.0,675.0,UEFA
 2013-05-09,Venezuela,VEN,36,36,703.0,708.0,CONMEBOL
@@ -45107,7 +45107,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2013-06-06,Paraguay,PAR,44,44,640.0,634.0,CONMEBOL
 2013-06-06,Panama,PAN,43,38,649.0,663.0,CONCACAF
 2013-06-06,Tunisia,TUN,42,41,652.0,647.0,CAF
-2013-06-06,Republic of Ireland,IRL,41,39,659.0,662.0,UEFA
+2013-06-06,Ireland,IRL,41,39,659.0,662.0,UEFA
 2013-06-06,South Korea,KOR,40,42,666.0,644.0,AFC
 2013-06-06,Ukraine,UKR,39,37,687.0,675.0,UEFA
 2013-06-06,Albania,ALB,38,43,690.0,640.0,UEFA
@@ -45307,7 +45307,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2013-07-04,Tunisia,TUN,47,42,627.0,652.0,CAF
 2013-07-04,Wales,WAL,46,45,630.0,638.0,UEFA
 2013-07-04,Slovenia,SVN,45,55,634.0,568.0,UEFA
-2013-07-04,Republic of Ireland,IRL,44,41,639.0,659.0,UEFA
+2013-07-04,Ireland,IRL,44,41,639.0,659.0,UEFA
 2013-07-04,South Korea,KOR,43,40,642.0,666.0,AFC
 2013-07-04,Burkina Faso,BFA,42,51,656.0,594.0,CAF
 2013-07-04,Serbia,SRB,41,36,661.0,723.0,UEFA
@@ -45533,7 +45533,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2013-08-08,Serbia,SRB,41,41,661.0,661.0,UEFA
 2013-08-08,Costa Rica,CRC,42,39,651.0,688.0,CONCACAF
 2013-08-08,Honduras,HON,43,55,640.0,582.0,CONCACAF
-2013-08-08,Republic of Ireland,IRL,44,44,639.0,639.0,UEFA
+2013-08-08,Ireland,IRL,44,44,639.0,639.0,UEFA
 2013-08-08,Slovenia,SVN,45,45,634.0,634.0,UEFA
 2013-08-08,Wales,WAL,46,46,630.0,630.0,UEFA
 2013-08-08,Australia,AUS,46,40,630.0,671.0,AFC
@@ -45648,7 +45648,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2013-09-12,Bolivia,BOL,62,64,555.0,538.0,CONMEBOL
 2013-09-12,Cameroon,CMR,61,51,558.0,604.0,CAF
 2013-09-12,Slovakia,SVK,60,62,562.0,542.0,UEFA
-2013-09-12,Republic of Ireland,IRL,59,44,570.0,639.0,UEFA
+2013-09-12,Ireland,IRL,59,44,570.0,639.0,UEFA
 2013-09-12,South Korea,KOR,58,56,574.0,594.0,AFC
 2013-09-12,United Arab Emirates,UAE,82,84,456.0,429.0,AFC
 2013-09-12,Uzbekistan,UZB,57,59,579.0,566.0,AFC
@@ -45849,7 +45849,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2013-10-17,Finland,FIN,63,56,538.0,591.0,UEFA
 2013-10-17,Cameroon,CMR,59,61,554.0,558.0,CAF
 2013-10-17,Libya,LBY,61,70,540.0,520.0,CAF
-2013-10-17,Republic of Ireland,IRL,60,59,550.0,570.0,UEFA
+2013-10-17,Ireland,IRL,60,59,550.0,570.0,UEFA
 2013-10-17,Austria,AUT,53,47,596.0,639.0,UEFA
 2013-10-17,Togo,TOG,75,77,488.0,486.0,CAF
 2013-10-17,Montenegro,MNE,54,27,584.0,766.0,UEFA
@@ -46056,7 +46056,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2013-11-28,Jordan,JOR,70,70,511.0,502.0,AFC
 2013-11-28,Slovakia,SVK,60,65,557.0,528.0,UEFA
 2013-11-28,Uzbekistan,UZB,68,55,526.0,582.0,AFC
-2013-11-28,Republic of Ireland,IRL,67,60,528.0,550.0,UEFA
+2013-11-28,Ireland,IRL,67,60,528.0,550.0,UEFA
 2013-11-28,Guinea,GUI,66,68,534.0,512.0,CAF
 2013-11-28,Senegal,SEN,65,64,536.0,530.0,CAF
 2013-11-28,Finland,FIN,64,63,539.0,538.0,UEFA
@@ -46259,7 +46259,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2013-12-19,Togo,TOG,72,77,504.0,480.0,CAF
 2013-12-19,Morocco,MAR,73,75,490.0,490.0,CAF
 2013-12-19,Sierra Leone,SLE,75,74,471.0,493.0,CAF
-2013-12-19,Republic of Ireland,IRL,67,67,528.0,528.0,UEFA
+2013-12-19,Ireland,IRL,67,67,528.0,528.0,UEFA
 2013-12-19,United Arab Emirates,UAE,71,71,507.0,508.0,AFC
 2013-12-19,Jordan,JOR,65,70,536.0,511.0,AFC
 2013-12-19,South Korea,KOR,54,54,577.0,577.0,AFC
@@ -46466,7 +46466,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2014-01-16,Zambia,ZAM,69,69,519.0,523.0,CAF
 2014-01-16,Togo,TOG,71,72,509.0,504.0,CAF
 2014-01-16,South Africa,RSA,54,62,576.0,554.0,CAF
-2014-01-16,Republic of Ireland,IRL,67,67,528.0,528.0,UEFA
+2014-01-16,Ireland,IRL,67,67,528.0,528.0,UEFA
 2014-01-16,Saudi Arabia,KSA,73,87,487.0,391.0,AFC
 2014-01-16,Morocco,MAR,74,73,486.0,490.0,CAF
 2014-01-16,Bulgaria,BUL,74,74,486.0,486.0,UEFA
@@ -46862,7 +46862,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2014-02-13,Guinea,GUI,62,61,554.0,555.0,CAF
 2014-02-13,Finland,FIN,65,66,540.0,539.0,UEFA
 2014-02-13,Senegal,SEN,66,68,529.0,526.0,CAF
-2014-02-13,Republic of Ireland,IRL,67,67,528.0,528.0,UEFA
+2014-02-13,Ireland,IRL,67,67,528.0,528.0,UEFA
 2014-02-13,Libya,LBY,68,62,523.0,552.0,CAF
 2014-02-13,Jordan,JOR,69,72,514.0,504.0,AFC
 2014-02-13,Poland,POL,70,77,494.0,461.0,UEFA
@@ -46880,7 +46880,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2014-02-13,Turks and Caicos Islands,TCA,207,207,0.0,0.0,CONCACAF
 2014-02-13,Djibouti,DJI,204,204,6.0,6.0,CAF
 2014-03-13,Bulgaria,BUL,67,72,518.0,486.0,UEFA
-2014-03-13,Republic of Ireland,IRL,68,67,513.0,528.0,UEFA
+2014-03-13,Ireland,IRL,68,67,513.0,528.0,UEFA
 2014-03-13,Senegal,SEN,69,66,512.0,529.0,CAF
 2014-03-13,Bolivia,BOL,70,70,511.0,494.0,CONMEBOL
 2014-03-13,Sierra Leone,SLE,72,73,481.0,484.0,CAF
@@ -47092,7 +47092,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2014-04-10,United Arab Emirates,UAE,67,61,499.0,550.0,AFC
 2014-04-10,Bolivia,BOL,68,70,497.0,511.0,CONMEBOL
 2014-04-10,El Salvador,SLV,69,78,488.0,438.0,CONCACAF
-2014-04-10,Republic of Ireland,IRL,65,68,504.0,513.0,UEFA
+2014-04-10,Ireland,IRL,65,68,504.0,513.0,UEFA
 2014-04-10,Sierra Leone,SLE,71,72,484.0,481.0,CAF
 2014-04-10,Poland,POL,72,73,479.0,475.0,UEFA
 2014-04-10,Bulgaria,BUL,73,67,460.0,518.0,UEFA
@@ -47492,7 +47492,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2014-05-08,Senegal,SEN,63,63,511.0,511.0,CAF
 2014-05-08,Jordan,JOR,64,64,510.0,510.0,AFC
 2014-05-08,South Africa,RSA,65,66,507.0,500.0,CAF
-2014-05-08,Republic of Ireland,IRL,66,65,504.0,504.0,UEFA
+2014-05-08,Ireland,IRL,66,65,504.0,504.0,UEFA
 2014-05-08,United Arab Emirates,UAE,67,67,499.0,499.0,AFC
 2014-05-08,Bolivia,BOL,68,68,497.0,497.0,CONMEBOL
 2014-05-08,El Salvador,SLV,69,69,488.0,488.0,CONCACAF
@@ -47707,7 +47707,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2014-06-05,Bolivia,BOL,67,68,483.0,497.0,CONMEBOL
 2014-06-05,El Salvador,SLV,68,69,481.0,488.0,CONCACAF
 2014-06-05,Poland,POL,69,72,474.0,479.0,UEFA
-2014-06-05,Republic of Ireland,IRL,70,66,473.0,504.0,UEFA
+2014-06-05,Ireland,IRL,70,66,473.0,504.0,UEFA
 2014-06-05,Trinidad and Tobago,TRI,71,74,470.0,457.0,CONCACAF
 2014-06-05,United Arab Emirates,UAE,72,67,460.0,499.0,AFC
 2014-06-05,Haiti,HAI,73,77,452.0,452.0,CONCACAF
@@ -47902,7 +47902,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2014-07-17,Uganda,UGA,87,86,358.0,390.0,CAF
 2014-07-17,Qatar,QAT,86,100,361.0,339.0,AFC
 2014-07-17,DR Congo,COD,96,84,338.0,395.0,CAF
-2014-07-17,Republic of Ireland,IRL,70,70,440.0,473.0,UEFA
+2014-07-17,Ireland,IRL,70,70,440.0,473.0,UEFA
 2014-07-17,United Arab Emirates,UAE,65,72,466.0,460.0,AFC
 2014-07-17,Palestine,PLE,85,94,362.0,358.0,AFC
 2014-07-17,South Africa,RSA,66,65,450.0,496.0,CAF
@@ -48125,7 +48125,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2014-08-14,Benin,BEN,77,91,405.0,354.0,CAF
 2014-08-14,North Macedonia,MKD,76,74,407.0,406.0,UEFA
 2014-08-14,Angola,ANG,75,79,408.0,377.0,CAF
-2014-08-14,Republic of Ireland,IRL,66,70,448.0,440.0,UEFA
+2014-08-14,Ireland,IRL,66,70,448.0,440.0,UEFA
 2014-08-14,Azerbaijan,AZE,73,73,413.0,410.0,UEFA
 2014-08-14,Cape Verde,CPV,74,75,411.0,401.0,CAF
 2014-08-14,Bolivia,BOL,71,71,434.0,429.0,CONMEBOL
@@ -48321,7 +48321,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2014-09-18,Moldova,MDA,105,99,302.0,325.0,UEFA
 2014-09-18,Venezuela,VEN,66,29,476.0,724.0,CONMEBOL
 2014-09-18,Egypt,EGY,61,38,513.0,645.0,CAF
-2014-09-18,Republic of Ireland,IRL,62,66,506.0,448.0,UEFA
+2014-09-18,Ireland,IRL,62,66,506.0,448.0,UEFA
 2014-09-18,South Korea,KOR,63,57,501.0,499.0,AFC
 2014-09-18,Israel,ISR,64,68,498.0,439.0,UEFA
 2014-09-18,Finland,FIN,65,55,491.0,502.0,UEFA
@@ -48533,7 +48533,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2014-10-23,Mali,MLI,58,59,533.0,526.0,CAF
 2014-10-23,Bulgaria,BUL,59,46,532.0,570.0,UEFA
 2014-10-23,DR Congo,COD,60,73,521.0,430.0,CAF
-2014-10-23,Republic of Ireland,IRL,61,62,519.0,506.0,UEFA
+2014-10-23,Ireland,IRL,61,62,519.0,506.0,UEFA
 2014-10-23,Congo,CGO,62,48,512.0,557.0,CAF
 2014-10-23,Finland,FIN,63,65,510.0,491.0,UEFA
 2014-10-23,United Arab Emirates,UAE,79,73,413.0,430.0,AFC
@@ -48577,7 +48577,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2014-11-27,Gabon,GAB,64,67,511.0,487.0,CAF
 2014-11-27,Togo,TOG,62,52,516.0,559.0,CAF
 2014-11-27,Zambia,ZAM,62,78,516.0,418.0,CAF
-2014-11-27,Republic of Ireland,IRL,61,61,519.0,519.0,UEFA
+2014-11-27,Ireland,IRL,61,61,519.0,519.0,UEFA
 2014-11-27,Finland,FIN,70,63,468.0,510.0,UEFA
 2014-11-27,Morocco,MAR,82,88,393.0,369.0,CAF
 2014-11-27,Estonia,EST,83,88,390.0,369.0,UEFA
@@ -48771,7 +48771,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2014-12-18,Norway,NOR,67,67,500.0,500.0,UEFA
 2014-12-18,Bulgaria,BUL,66,66,506.0,506.0,UEFA
 2014-12-18,Burkina Faso,BFA,63,65,523.0,510.0,CAF
-2014-12-18,Republic of Ireland,IRL,64,61,519.0,519.0,UEFA
+2014-12-18,Ireland,IRL,64,61,519.0,519.0,UEFA
 2014-12-18,Uganda,UGA,76,78,438.0,425.0,CAF
 2014-12-18,Togo,TOG,62,62,524.0,516.0,CAF
 2014-12-18,Congo,CGO,61,59,529.0,529.0,CAF
@@ -49172,7 +49172,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2015-01-08,Burkina Faso,BFA,64,63,523.0,523.0,CAF
 2015-01-08,Togo,TOG,62,62,527.0,524.0,CAF
 2015-01-08,Gabon,GAB,62,65,527.0,511.0,CAF
-2015-01-08,Republic of Ireland,IRL,65,64,519.0,519.0,UEFA
+2015-01-08,Ireland,IRL,65,64,519.0,519.0,UEFA
 2015-01-08,Egypt,EGY,60,60,531.0,531.0,CAF
 2015-01-08,Montenegro,MNE,59,59,537.0,537.0,UEFA
 2015-01-08,Albania,ALB,58,58,543.0,543.0,UEFA
@@ -49369,7 +49369,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2015-02-12,Albania,ALB,63,58,548.0,543.0,UEFA
 2015-02-12,Montenegro,MNE,65,59,537.0,537.0,UEFA
 2015-02-12,United Arab Emirates,UAE,66,80,529.0,408.0,AFC
-2015-02-12,Republic of Ireland,IRL,67,65,521.0,519.0,UEFA
+2015-02-12,Ireland,IRL,67,65,521.0,519.0,UEFA
 2015-02-12,Burkina Faso,BFA,68,64,513.0,523.0,CAF
 2015-02-12,Norway,NOR,69,67,512.0,500.0,UEFA
 2015-02-12,Bulgaria,BUL,70,66,506.0,506.0,UEFA
@@ -49582,7 +49582,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2015-03-12,Trinidad and Tobago,TRI,63,62,553.0,551.0,CONCACAF
 2015-03-12,Rwanda,RWA,64,72,550.0,492.0,CAF
 2015-03-12,Australia,AUS,65,63,549.0,548.0,AFC
-2015-03-12,Republic of Ireland,IRL,66,67,537.0,521.0,UEFA
+2015-03-12,Ireland,IRL,66,67,537.0,521.0,UEFA
 2015-03-12,Montenegro,MNE,67,65,531.0,537.0,UEFA
 2015-03-12,Burkina Faso,BFA,68,68,529.0,513.0,CAF
 2015-03-12,United Arab Emirates,UAE,69,66,523.0,529.0,AFC
@@ -49724,7 +49724,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2015-04-09,Zambia,ZAM,59,60,556.0,560.0,CAF
 2015-04-09,South Africa,RSA,60,55,553.0,608.0,CAF
 2015-04-09,Equatorial Guinea,EQG,61,50,549.0,630.0,CAF
-2015-04-09,Republic of Ireland,IRL,62,66,546.0,537.0,UEFA
+2015-04-09,Ireland,IRL,62,66,546.0,537.0,UEFA
 2015-04-09,Turkey,TUR,52,56,603.0,594.0,UEFA
 2015-04-09,Sweden,SWE,39,45,704.0,663.0,UEFA
 2015-04-09,Iceland,ISL,38,35,728.0,776.0,UEFA
@@ -49808,7 +49808,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2015-05-07,Equatorial Guinea,EQG,61,61,549.0,549.0,CAF
 2015-05-07,Zambia,ZAM,60,59,552.0,556.0,CAF
 2015-05-07,DR Congo,COD,54,54,584.0,584.0,CAF
-2015-05-07,Republic of Ireland,IRL,62,62,546.0,546.0,UEFA
+2015-05-07,Ireland,IRL,62,62,546.0,546.0,UEFA
 2015-05-07,South Africa,RSA,59,60,553.0,553.0,CAF
 2015-05-07,South Korea,KOR,57,57,575.0,575.0,AFC
 2015-05-07,Albania,ALB,57,57,575.0,575.0,UEFA
@@ -50016,7 +50016,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2015-05-07,Zimbabwe,ZIM,123,123,235.0,237.0,CAF
 2015-06-04,Venezuela,VEN,72,69,497.0,495.0,CONMEBOL
 2015-06-04,Peru,PER,61,63,546.0,532.0,CONMEBOL
-2015-06-04,Republic of Ireland,IRL,60,62,581.0,546.0,UEFA
+2015-06-04,Ireland,IRL,60,62,581.0,546.0,UEFA
 2015-06-04,Gabon,GAB,59,55,583.0,583.0,CAF
 2015-06-04,South Korea,KOR,58,57,587.0,575.0,AFC
 2015-06-04,Turkey,TUR,57,52,590.0,603.0,UEFA
@@ -50374,7 +50374,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2015-07-09,Japan,JPN,50,52,621.0,623.0,AFC
 2015-07-09,Israel,ISR,51,40,620.0,725.0,UEFA
 2015-07-09,Cape Verde,CPV,52,38,608.0,746.0,CAF
-2015-07-09,Republic of Ireland,IRL,52,60,608.0,581.0,UEFA
+2015-07-09,Ireland,IRL,52,60,608.0,581.0,UEFA
 2015-07-09,Serbia,SRB,43,45,662.0,673.0,UEFA
 2015-07-09,Estonia,EST,82,91,420.0,370.0,UEFA
 2015-07-09,Togo,TOG,83,77,415.0,438.0,CAF
@@ -50536,7 +50536,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2015-08-06,Venezuela,VEN,48,45,617.0,643.0,CONMEBOL
 2015-08-06,Peru,PER,49,46,612.0,635.0,CONMEBOL
 2015-08-06,Cape Verde,CPV,50,52,608.0,608.0,CAF
-2015-08-06,Republic of Ireland,IRL,50,52,608.0,608.0,UEFA
+2015-08-06,Ireland,IRL,50,52,608.0,608.0,UEFA
 2015-08-06,Moldova,MDA,127,124,236.0,236.0,UEFA
 2015-08-06,Kuwait,KUW,126,123,237.0,242.0,AFC
 2015-08-06,Philippines,PHI,125,124,239.0,236.0,AFC
@@ -50720,7 +50720,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2015-09-03,Nigeria,NGA,53,53,599.0,601.0,CAF
 2015-09-03,Ghana,GHA,27,27,827.0,827.0,CAF
 2015-09-03,Ukraine,UKR,29,30,812.0,791.0,UEFA
-2015-09-03,Republic of Ireland,IRL,51,50,605.0,608.0,UEFA
+2015-09-03,Ireland,IRL,51,50,605.0,608.0,UEFA
 2015-09-03,Venezuela,VEN,50,48,613.0,617.0,CONMEBOL
 2015-09-03,Egypt,EGY,49,52,619.0,606.0,CAF
 2015-09-03,Peru,PER,48,49,628.0,612.0,CONMEBOL
@@ -50917,7 +50917,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2015-10-01,Australia,AUS,58,61,567.0,548.0,AFC
 2015-10-01,Japan,JPN,55,58,582.0,570.0,AFC
 2015-10-01,Guinea,GUI,55,63,582.0,535.0,CAF
-2015-10-01,Republic of Ireland,IRL,54,51,587.0,605.0,UEFA
+2015-10-01,Ireland,IRL,54,51,587.0,605.0,UEFA
 2015-10-01,South Korea,KOR,53,57,590.0,574.0,AFC
 2015-10-01,Nigeria,NGA,52,53,600.0,599.0,CAF
 2015-10-01,Egypt,EGY,51,49,620.0,619.0,CAF
@@ -51134,7 +51134,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2015-11-05,Sweden,SWE,45,45,647.0,672.0,UEFA
 2015-11-05,Scotland,SCO,44,40,649.0,702.0,UEFA
 2015-11-05,Iran,IRN,43,39,651.0,703.0,AFC
-2015-11-05,Republic of Ireland,IRL,42,54,659.0,587.0,UEFA
+2015-11-05,Ireland,IRL,42,54,659.0,587.0,UEFA
 2015-11-05,Tunisia,TUN,41,36,668.0,722.0,CAF
 2015-11-05,Costa Rica,CRC,40,42,671.0,691.0,CONCACAF
 2015-11-05,Senegal,SEN,39,38,678.0,713.0,CAF
@@ -51307,7 +51307,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2015-12-03,Sweden,SWE,35,45,771.0,647.0,UEFA
 2015-12-03,Ghana,GHA,33,30,778.0,793.0,CAF
 2015-12-03,United States,USA,32,33,784.0,759.0,CONCACAF
-2015-12-03,Republic of Ireland,IRL,31,42,810.0,659.0,UEFA
+2015-12-03,Ireland,IRL,31,42,810.0,659.0,UEFA
 2015-12-03,Northern Ireland,NIR,30,29,825.0,797.0,UEFA
 2015-12-03,Ukraine,UKR,29,28,842.0,806.0,UEFA
 2015-12-03,Algeria,ALG,28,26,845.0,872.0,CAF
@@ -51586,7 +51586,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2016-01-07,Liberia,LBR,103,107,337.0,329.0,CAF
 2016-01-07,Ukraine,UKR,29,29,842.0,842.0,UEFA
 2016-01-07,Northern Ireland,NIR,30,30,825.0,825.0,UEFA
-2016-01-07,Republic of Ireland,IRL,31,31,810.0,810.0,UEFA
+2016-01-07,Ireland,IRL,31,31,810.0,810.0,UEFA
 2016-01-07,United States,USA,32,32,784.0,784.0,CONCACAF
 2016-01-07,Ghana,GHA,33,33,776.0,778.0,CAF
 2016-01-07,Sweden,SWE,34,35,771.0,771.0,UEFA
@@ -51889,7 +51889,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2016-02-04,Cape Verde,CPV,33,39,790.0,745.0,CAF
 2016-02-04,United States,USA,32,32,793.0,784.0,CONCACAF
 2016-02-04,Costa Rica,CRC,31,37,799.0,759.0,CONCACAF
-2016-02-04,Republic of Ireland,IRL,30,31,810.0,810.0,UEFA
+2016-02-04,Ireland,IRL,30,31,810.0,810.0,UEFA
 2016-02-04,Northern Ireland,NIR,29,30,825.0,825.0,UEFA
 2016-02-04,Norway,NOR,50,54,597.0,591.0,UEFA
 2016-02-04,Jamaica,JAM,51,55,590.0,590.0,CONCACAF
@@ -51958,7 +51958,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2016-03-03,Slovakia,SVK,26,25,858.0,860.0,UEFA
 2016-03-03,Ukraine,UKR,27,27,845.0,842.0,UEFA
 2016-03-03,Northern Ireland,NIR,28,29,833.0,825.0,UEFA
-2016-03-03,Republic of Ireland,IRL,29,30,809.0,810.0,UEFA
+2016-03-03,Ireland,IRL,29,30,809.0,810.0,UEFA
 2016-03-03,Japan,JPN,56,58,575.0,569.0,AFC
 2016-03-03,Panama,PAN,55,60,576.0,564.0,CONCACAF
 2016-03-03,Slovenia,SVN,54,59,577.0,565.0,UEFA
@@ -52249,7 +52249,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2016-04-07,Madagascar,MAD,138,130,257.0,272.0,CAF
 2016-04-07,Equatorial Guinea,EQG,83,76,416.0,479.0,CAF
 2016-04-07,Slovakia,SVK,32,26,784.0,858.0,UEFA
-2016-04-07,Republic of Ireland,IRL,31,29,792.0,809.0,UEFA
+2016-04-07,Ireland,IRL,31,29,792.0,809.0,UEFA
 2016-04-07,Sweden,SWE,36,34,713.0,769.0,UEFA
 2016-04-07,Greece,GRE,37,39,695.0,718.0,UEFA
 2016-04-07,Ghana,GHA,38,41,693.0,656.0,CAF
@@ -52458,7 +52458,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2016-05-05,France,FRA,21,21,907.0,907.0,UEFA
 2016-05-05,Bosnia and Herzegovina,BIH,20,20,913.0,913.0,UEFA
 2016-05-05,Romania,ROU,19,19,920.0,922.0,UEFA
-2016-05-05,Republic of Ireland,IRL,31,31,792.0,792.0,UEFA
+2016-05-05,Ireland,IRL,31,31,792.0,792.0,UEFA
 2016-05-05,Saudi Arabia,KSA,60,60,559.0,559.0,AFC
 2016-05-05,Slovenia,SVN,61,61,558.0,558.0,UEFA
 2016-05-05,Finland,FIN,61,61,558.0,558.0,UEFA
@@ -52587,7 +52587,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2016-06-02,Ecuador,ECU,13,12,978.0,1019.0,CONMEBOL
 2016-06-02,Costa Rica,CRC,23,25,853.0,829.0,CONCACAF
 2016-06-02,Italy,ITA,12,15,982.0,959.0,UEFA
-2016-06-02,Republic of Ireland,IRL,33,31,768.0,792.0,UEFA
+2016-06-02,Ireland,IRL,33,31,768.0,792.0,UEFA
 2016-06-02,Uruguay,URU,9,9,1150.0,1158.0,CONMEBOL
 2016-06-02,Portugal,POR,8,8,1181.0,1184.0,UEFA
 2016-06-02,Brazil,BRA,7,7,1257.0,1261.0,CONMEBOL
@@ -52731,7 +52731,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2016-06-02,Syria,SYR,101,110,336.0,316.0,AFC
 2016-06-02,Botswana,BOT,87,91,391.0,379.0,CAF
 2016-06-02,Canada,CAN,93,95,363.0,357.0,CONCACAF
-2016-07-14,Republic of Ireland,IRL,31,33,800.0,768.0,UEFA
+2016-07-14,Ireland,IRL,31,33,800.0,768.0,UEFA
 2016-07-14,Poland,POL,16,27,1011.0,842.0,UEFA
 2016-07-14,Ecuador,ECU,17,13,1002.0,978.0,CONMEBOL
 2016-07-14,Switzerland,SUI,18,15,957.0,948.0,UEFA
@@ -52944,7 +52944,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2016-08-11,United States,USA,26,25,848.0,855.0,CONCACAF
 2016-08-11,Peru,PER,33,34,777.0,765.0,CONMEBOL
 2016-08-11,Algeria,ALG,32,32,781.0,781.0,CAF
-2016-08-11,Republic of Ireland,IRL,31,31,800.0,800.0,UEFA
+2016-08-11,Ireland,IRL,31,31,800.0,800.0,UEFA
 2016-08-11,Ukraine,UKR,30,30,801.0,801.0,UEFA
 2016-08-11,Bosnia and Herzegovina,BIH,29,29,813.0,813.0,UEFA
 2016-08-11,Northern Ireland,NIR,28,28,822.0,822.0,UEFA
@@ -53272,7 +53272,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2016-09-15,Slovakia,SVK,28,24,820.0,867.0,UEFA
 2016-09-15,Ukraine,UKR,29,30,799.0,801.0,UEFA
 2016-09-15,Northern Ireland,NIR,30,28,798.0,822.0,UEFA
-2016-09-15,Republic of Ireland,IRL,31,31,774.0,800.0,UEFA
+2016-09-15,Ireland,IRL,31,31,774.0,800.0,UEFA
 2016-09-15,Romania,ROU,32,25,773.0,856.0,UEFA
 2016-09-15,Czechia,CZE,33,34,762.0,768.0,UEFA
 2016-09-15,Ivory Coast,CIV,34,36,752.0,748.0,CAF
@@ -53483,7 +53483,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2016-10-20,Austria,AUT,30,26,792.0,839.0,UEFA
 2016-10-20,Ivory Coast,CIV,31,34,790.0,752.0,CAF
 2016-10-20,Senegal,SEN,32,39,783.0,684.0,CAF
-2016-10-20,Republic of Ireland,IRL,33,31,776.0,774.0,UEFA
+2016-10-20,Ireland,IRL,33,31,776.0,774.0,UEFA
 2016-10-20,Romania,ROU,34,32,746.0,773.0,UEFA
 2016-10-20,Algeria,ALG,35,35,741.0,749.0,CAF
 2016-10-20,Northern Ireland,NIR,36,30,739.0,798.0,UEFA
@@ -53636,7 +53636,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2016-11-24,Hungary,HUN,26,22,826.0,891.0,UEFA
 2016-11-24,Slovakia,SVK,25,26,837.0,840.0,UEFA
 2016-11-24,Turkey,TUR,24,25,851.0,843.0,UEFA
-2016-11-24,Republic of Ireland,IRL,23,33,858.0,776.0,UEFA
+2016-11-24,Ireland,IRL,23,33,858.0,776.0,UEFA
 2016-11-24,Netherlands,NED,22,20,887.0,901.0,UEFA
 2016-11-24,Iceland,ISL,21,21,889.0,898.0,UEFA
 2016-11-24,Ecuador,ECU,20,19,890.0,932.0,CONMEBOL
@@ -53921,7 +53921,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2016-12-22,Hungary,HUN,26,26,826.0,826.0,UEFA
 2016-12-22,Slovakia,SVK,25,25,837.0,837.0,UEFA
 2016-12-22,Turkey,TUR,24,24,851.0,851.0,UEFA
-2016-12-22,Republic of Ireland,IRL,23,23,858.0,858.0,UEFA
+2016-12-22,Ireland,IRL,23,23,858.0,858.0,UEFA
 2016-12-22,Netherlands,NED,22,22,887.0,887.0,UEFA
 2016-12-22,Iceland,ISL,21,21,889.0,889.0,UEFA
 2016-12-22,Ecuador,ECU,20,20,890.0,890.0,CONMEBOL
@@ -54096,7 +54096,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2017-01-12,Ecuador,ECU,20,20,890.0,890.0,CONMEBOL
 2017-01-12,Iceland,ISL,21,21,889.0,889.0,UEFA
 2017-01-12,Netherlands,NED,22,22,887.0,887.0,UEFA
-2017-01-12,Republic of Ireland,IRL,23,23,858.0,858.0,UEFA
+2017-01-12,Ireland,IRL,23,23,858.0,858.0,UEFA
 2017-01-12,Turkey,TUR,24,24,851.0,851.0,UEFA
 2017-01-12,Central African Republic,CTA,104,104,325.0,325.0,CAF
 2017-01-12,Lithuania,LTU,105,105,324.0,324.0,UEFA
@@ -54342,7 +54342,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2017-02-09,Ivory Coast,CIV,47,34,662.0,733.0,CAF
 2017-02-09,Slovakia,SVK,26,25,843.0,837.0,UEFA
 2017-02-09,Morocco,MAR,48,57,660.0,587.0,CAF
-2017-02-09,Republic of Ireland,IRL,25,23,854.0,858.0,UEFA
+2017-02-09,Ireland,IRL,25,23,854.0,858.0,UEFA
 2017-02-09,Egypt,EGY,23,35,881.0,726.0,CAF
 2017-02-09,Argentina,ARG,1,1,1635.0,1634.0,CONMEBOL
 2017-02-09,Brazil,BRA,2,2,1529.0,1544.0,CONMEBOL
@@ -54424,7 +54424,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2017-03-09,Egypt,EGY,20,23,904.0,881.0,CAF
 2017-03-09,Iceland,ISL,23,20,875.0,899.0,UEFA
 2017-03-09,Ecuador,ECU,22,22,887.0,887.0,CONMEBOL
-2017-03-09,Republic of Ireland,IRL,24,25,860.0,854.0,UEFA
+2017-03-09,Ireland,IRL,24,25,860.0,854.0,UEFA
 2017-03-09,Slovakia,SVK,25,26,853.0,843.0,UEFA
 2017-03-09,Hungary,HUN,27,27,834.0,830.0,UEFA
 2017-03-09,Netherlands,NED,21,21,900.0,893.0,UEFA
@@ -54757,7 +54757,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2017-04-06,Ivory Coast,CIV,48,47,672.0,663.0,CAF
 2017-04-06,Serbia,SRB,49,52,671.0,629.0,UEFA
 2017-04-06,Greece,GRE,39,46,730.0,679.0,UEFA
-2017-04-06,Republic of Ireland,IRL,26,24,823.0,860.0,UEFA
+2017-04-06,Ireland,IRL,26,24,823.0,860.0,UEFA
 2017-04-06,Ecuador,ECU,25,22,839.0,887.0,CONMEBOL
 2017-04-06,United States,USA,23,30,846.0,818.0,CONCACAF
 2017-04-06,Brazil,BRA,1,2,1661.0,1534.0,CONMEBOL
@@ -54941,7 +54941,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2017-05-04,Senegal,SEN,30,30,805.0,805.0,CAF
 2017-05-04,Bosnia and Herzegovina,BIH,29,29,815.0,815.0,UEFA
 2017-05-04,Iran,IRN,28,28,820.0,820.0,AFC
-2017-05-04,Republic of Ireland,IRL,26,26,823.0,823.0,UEFA
+2017-05-04,Ireland,IRL,26,26,823.0,823.0,UEFA
 2017-05-04,Denmark,DEN,51,51,657.0,657.0,UEFA
 2017-05-04,Kazakhstan,KAZ,104,105,325.0,325.0,UEFA
 2017-05-04,Portugal,POR,8,8,1259.0,1259.0,UEFA
@@ -55134,7 +55134,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2017-06-01,Bosnia and Herzegovina,BIH,29,29,835.0,815.0,UEFA
 2017-06-01,Northern Ireland,NIR,28,26,837.0,823.0,UEFA
 2017-06-01,Senegal,SEN,27,30,839.0,805.0,CAF
-2017-06-01,Republic of Ireland,IRL,26,26,854.0,823.0,UEFA
+2017-06-01,Ireland,IRL,26,26,854.0,823.0,UEFA
 2017-06-01,Turkey,TUR,25,22,855.0,863.0,UEFA
 2017-06-01,Ecuador,ECU,24,25,858.0,839.0,CONMEBOL
 2017-06-01,United States,USA,23,23,861.0,847.0,CONCACAF
@@ -55277,7 +55277,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2017-07-06,Netherlands,NED,32,31,782.0,820.0,UEFA
 2017-07-06,Ecuador,ECU,31,24,791.0,858.0,CONMEBOL
 2017-07-06,Bosnia and Herzegovina,BIH,30,29,815.0,835.0,UEFA
-2017-07-06,Republic of Ireland,IRL,29,26,816.0,854.0,UEFA
+2017-07-06,Ireland,IRL,29,26,816.0,854.0,UEFA
 2017-07-06,Japan,JPN,46,45,684.0,689.0,AFC
 2017-07-06,Senegal,SEN,27,27,831.0,839.0,CAF
 2017-07-06,Costa Rica,CRC,26,19,839.0,913.0,CONCACAF
@@ -55617,7 +55617,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2017-08-10,United States,USA,26,35,865.0,752.0,CONCACAF
 2017-08-10,Ukraine,UKR,27,25,843.0,843.0,UEFA
 2017-08-10,DR Congo,COD,28,28,822.0,823.0,CAF
-2017-08-10,Republic of Ireland,IRL,29,29,816.0,816.0,UEFA
+2017-08-10,Ireland,IRL,29,29,816.0,816.0,UEFA
 2017-08-10,Croatia,CRO,16,15,1007.0,1007.0,UEFA
 2017-08-10,Panama,PAN,61,52,592.0,653.0,CONCACAF
 2017-08-10,Russia,RUS,62,62,590.0,590.0,UEFA
@@ -55793,7 +55793,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2017-09-14,Tunisia,TUN,31,34,810.0,776.0,CAF
 2017-09-14,Serbia,SRB,32,42,789.0,713.0,UEFA
 2017-09-14,Senegal,SEN,33,31,774.0,794.0,CAF
-2017-09-14,Republic of Ireland,IRL,34,29,769.0,816.0,UEFA
+2017-09-14,Ireland,IRL,34,29,769.0,816.0,UEFA
 2017-09-14,Ecuador,ECU,35,32,767.0,791.0,CONMEBOL
 2017-09-14,Bosnia and Herzegovina,BIH,36,30,761.0,815.0,UEFA
 2017-09-14,Montenegro,MNE,37,52,749.0,643.0,UEFA
@@ -56026,7 +56026,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2017-10-16,Nigeria,NGA,41,44,721.0,696.0,CAF
 2017-10-16,Tunisia,TUN,28,31,834.0,810.0,CAF
 2017-10-16,United States,USA,27,28,843.0,828.0,CONCACAF
-2017-10-16,Republic of Ireland,IRL,26,34,866.0,769.0,UEFA
+2017-10-16,Ireland,IRL,26,34,866.0,769.0,UEFA
 2017-10-16,Portugal,POR,3,3,1446.0,1386.0,UEFA
 2017-10-16,Argentina,ARG,4,4,1445.0,1325.0,CONMEBOL
 2017-10-16,Belgium,BEL,5,5,1333.0,1265.0,UEFA
@@ -56217,7 +56217,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2017-11-23,Austria,AUT,29,39,815.0,745.0,UEFA
 2017-11-23,Paraguay,PAR,30,36,812.0,750.0,CONMEBOL
 2017-11-23,Egypt,EGY,31,30,805.0,818.0,CAF
-2017-11-23,Republic of Ireland,IRL,32,26,798.0,866.0,UEFA
+2017-11-23,Ireland,IRL,32,26,798.0,866.0,UEFA
 2017-11-23,Iran,IRN,32,34,798.0,784.0,AFC
 2017-11-23,Scotland,SCO,32,29,798.0,821.0,UEFA
 2017-11-23,Ukraine,UKR,35,30,781.0,818.0,UEFA
@@ -56427,7 +56427,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2017-12-21,Austria,AUT,29,29,815.0,815.0,UEFA
 2017-12-21,Paraguay,PAR,30,30,812.0,812.0,CONMEBOL
 2017-12-21,Egypt,EGY,31,31,805.0,805.0,CAF
-2017-12-21,Republic of Ireland,IRL,32,32,798.0,798.0,UEFA
+2017-12-21,Ireland,IRL,32,32,798.0,798.0,UEFA
 2017-12-21,Iran,IRN,32,32,798.0,798.0,AFC
 2017-12-21,Scotland,SCO,32,32,798.0,798.0,UEFA
 2017-12-21,Ukraine,UKR,35,35,781.0,781.0,UEFA
@@ -56616,7 +56616,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2018-01-18,Ukraine,UKR,35,35,781.0,781.0,UEFA
 2018-01-18,Iran,IRN,34,32,797.0,798.0,AFC
 2018-01-18,Scotland,SCO,32,32,798.0,798.0,UEFA
-2018-01-18,Republic of Ireland,IRL,32,32,798.0,798.0,UEFA
+2018-01-18,Ireland,IRL,32,32,798.0,798.0,UEFA
 2018-01-18,Paraguay,PAR,31,30,812.0,812.0,CONMEBOL
 2018-01-18,Egypt,EGY,30,31,814.0,805.0,CAF
 2018-01-18,Austria,AUT,29,29,815.0,815.0,UEFA
@@ -56839,7 +56839,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2018-02-15,Serbia,SRB,34,37,784.0,756.0,UEFA
 2018-02-15,Iran,IRN,33,34,790.0,797.0,AFC
 2018-02-15,Scotland,SCO,31,32,798.0,798.0,UEFA
-2018-02-15,Republic of Ireland,IRL,31,32,798.0,798.0,UEFA
+2018-02-15,Ireland,IRL,31,32,798.0,798.0,UEFA
 2018-02-15,Japan,JPN,55,56,593.0,598.0,AFC
 2018-02-15,Namibia,NAM,109,111,305.0,300.0,CAF
 2018-02-15,Portugal,POR,3,3,1358.0,1358.0,UEFA
@@ -57102,7 +57102,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2018-03-15,Austria,AUT,28,29,826.0,815.0,UEFA
 2018-03-15,Slovakia,SVK,29,28,822.0,817.0,UEFA
 2018-03-15,Paraguay,PAR,30,30,816.0,812.0,CONMEBOL
-2018-03-15,Republic of Ireland,IRL,31,31,804.0,798.0,UEFA
+2018-03-15,Ireland,IRL,31,31,804.0,798.0,UEFA
 2018-03-15,Scotland,SCO,32,31,797.0,798.0,UEFA
 2018-03-15,Iran,IRN,33,33,792.0,790.0,AFC
 2018-03-15,Serbia,SRB,34,34,780.0,784.0,UEFA
@@ -57280,7 +57280,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2018-04-12,Uruguay,URU,17,22,976.0,931.0,CONMEBOL
 2018-04-12,Senegal,SEN,28,27,825.0,862.0,CAF
 2018-04-12,Ukraine,UKR,30,35,777.0,778.0,UEFA
-2018-04-12,Republic of Ireland,IRL,31,31,776.0,804.0,UEFA
+2018-04-12,Ireland,IRL,31,31,776.0,804.0,UEFA
 2018-04-12,Romania,ROU,32,36,737.0,749.0,UEFA
 2018-04-12,Paraguay,PAR,32,30,737.0,816.0,CONMEBOL
 2018-04-12,Scotland,SCO,34,32,735.0,797.0,UEFA
@@ -57483,7 +57483,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2018-05-17,Senegal,SEN,28,28,825.0,825.0,CAF
 2018-05-17,Slovakia,SVK,29,29,786.0,786.0,UEFA
 2018-05-17,Ukraine,UKR,30,30,777.0,777.0,UEFA
-2018-05-17,Republic of Ireland,IRL,31,31,776.0,776.0,UEFA
+2018-05-17,Ireland,IRL,31,31,776.0,776.0,UEFA
 2018-05-17,Romania,ROU,32,32,737.0,737.0,UEFA
 2018-05-17,Paraguay,PAR,32,32,737.0,737.0,CONMEBOL
 2018-05-17,Scotland,SCO,34,34,735.0,735.0,UEFA
@@ -57682,7 +57682,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2018-06-07,Serbia,SRB,34,35,751.0,732.0,UEFA
 2018-06-07,Venezuela,VEN,33,39,755.0,709.0,CONMEBOL
 2018-06-07,Paraguay,PAR,32,32,773.0,737.0,CONMEBOL
-2018-06-07,Republic of Ireland,IRL,31,31,777.0,776.0,UEFA
+2018-06-07,Ireland,IRL,31,31,777.0,776.0,UEFA
 2018-06-07,Romania,ROU,30,32,782.0,737.0,UEFA
 2018-06-07,Northern Ireland,NIR,29,27,803.0,837.0,UEFA
 2018-06-07,Slovakia,SVK,28,29,804.0,786.0,UEFA
@@ -57895,7 +57895,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2018-07-01,Serbia,SRB,30,33,1875.0,1866.0,UEFA
 2018-07-01,Northern Ireland,NIR,29,29,1887.0,1887.0,UEFA
 2018-07-01,Iran,IRN,28,28,1896.0,1890.0,AFC
-2018-07-01,Republic of Ireland,IRL,26,26,1901.0,1901.0,UEFA
+2018-07-01,Ireland,IRL,26,26,1901.0,1901.0,UEFA
 2018-07-01,Madagascar,MAD,104,103,1414.0,1420.0,CAF
 2018-07-01,Suriname,SUR,153,153,1112.0,1112.0,CONCACAF
 2018-07-01,Korea DPR,PRK,106,106,1406.0,1406.0,AFC
@@ -58116,7 +58116,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2018-08-16,Slovakia,SVK,26,28,1493.0,1496.0,UEFA
 2018-08-16,Northern Ireland,NIR,27,29,1492.0,1492.0,UEFA
 2018-08-16,Romania,ROU,28,30,1490.0,1488.0,UEFA
-2018-08-16,Republic of Ireland,IRL,29,31,1484.0,1484.0,UEFA
+2018-08-16,Ireland,IRL,29,31,1484.0,1484.0,UEFA
 2018-08-16,Paraguay,PAR,30,32,1477.0,1480.0,CONMEBOL
 2018-08-16,Venezuela,VEN,31,33,1476.0,1476.0,CONMEBOL
 2018-08-16,Costa Rica,CRC,32,23,1471.0,1516.0,CONCACAF
@@ -58361,7 +58361,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2018-09-20,Colombia,COL,14,14,1567.0,1563.0,CONMEBOL
 2018-09-20,Sweden,SWE,15,13,1550.0,1565.0,UEFA
 2018-09-20,Mexico,MEX,15,16,1550.0,1560.0,CONCACAF
-2018-09-20,Republic of Ireland,IRL,30,29,1478.0,1484.0,UEFA
+2018-09-20,Ireland,IRL,30,29,1478.0,1484.0,UEFA
 2018-09-20,Netherlands,NED,17,17,1540.0,1540.0,UEFA
 2018-09-20,Wales,WAL,19,19,1536.0,1536.0,UEFA
 2018-09-20,Italy,ITA,20,21,1526.0,1532.0,UEFA
@@ -58527,7 +58527,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2018-10-25,Iran,IRN,30,33,1478.0,1474.0,AFC
 2018-10-25,Paraguay,PAR,31,31,1477.0,1477.0,CONMEBOL
 2018-10-25,Bosnia and Herzegovina,BIH,32,34,1476.0,1468.0,UEFA
-2018-10-25,Republic of Ireland,IRL,33,30,1473.0,1478.0,UEFA
+2018-10-25,Ireland,IRL,33,30,1473.0,1478.0,UEFA
 2018-10-25,Northern Ireland,NIR,34,28,1472.0,1487.0,UEFA
 2018-10-25,Serbia,SRB,35,35,1471.0,1463.0,UEFA
 2018-10-25,Iceland,ISL,36,36,1458.0,1461.0,UEFA
@@ -58732,7 +58732,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2018-11-29,Costa Rica,CRC,36,37,1464.0,1452.0,CONCACAF
 2018-11-29,Northern Ireland,NIR,35,34,1465.0,1472.0,UEFA
 2018-11-29,Bosnia and Herzegovina,BIH,34,32,1472.0,1476.0,UEFA
-2018-11-29,Republic of Ireland,IRL,33,33,1474.0,1473.0,UEFA
+2018-11-29,Ireland,IRL,33,33,1474.0,1473.0,UEFA
 2018-11-29,Paraguay,PAR,32,31,1476.0,1477.0,CONMEBOL
 2018-11-29,Venezuela,VEN,31,29,1478.0,1479.0,CONMEBOL
 2018-11-29,Serbia,SRB,29,35,1481.0,1471.0,UEFA
@@ -58956,7 +58956,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2018-12-20,Niger,NIG,108,108,1205.0,1205.0,CAF
 2018-12-20,Venezuela,VEN,31,31,1478.0,1478.0,CONMEBOL
 2018-12-20,Paraguay,PAR,32,32,1476.0,1476.0,CONMEBOL
-2018-12-20,Republic of Ireland,IRL,33,33,1474.0,1474.0,UEFA
+2018-12-20,Ireland,IRL,33,33,1474.0,1474.0,UEFA
 2018-12-20,Bosnia and Herzegovina,BIH,34,34,1472.0,1472.0,UEFA
 2018-12-20,Northern Ireland,NIR,35,35,1465.0,1465.0,UEFA
 2018-12-20,Costa Rica,CRC,36,36,1464.0,1464.0,CONCACAF
@@ -59168,7 +59168,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2019-02-07,Serbia,SRB,31,29,1481.0,1481.0,UEFA
 2019-02-07,Venezuela,VEN,32,31,1478.0,1478.0,CONMEBOL
 2019-02-07,Paraguay,PAR,33,32,1476.0,1476.0,CONMEBOL
-2019-02-07,Republic of Ireland,IRL,34,33,1474.0,1474.0,UEFA
+2019-02-07,Ireland,IRL,34,33,1474.0,1474.0,UEFA
 2019-02-07,Bosnia and Herzegovina,BIH,35,34,1472.0,1472.0,UEFA
 2019-02-07,Northern Ireland,NIR,36,35,1465.0,1465.0,UEFA
 2019-02-07,Costa Rica,CRC,37,36,1461.0,1464.0,CONCACAF
@@ -59369,7 +59369,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2019-04-04,Austria,AUT,34,23,1479.0,1509.0,UEFA
 2019-04-04,Northern Ireland,NIR,33,36,1481.0,1465.0,UEFA
 2019-04-04,Slovakia,SVK,32,29,1482.0,1483.0,UEFA
-2019-04-04,Republic of Ireland,IRL,29,34,1484.0,1474.0,UEFA
+2019-04-04,Ireland,IRL,29,34,1484.0,1474.0,UEFA
 2019-04-04,Venezuela,VEN,29,32,1484.0,1478.0,CONMEBOL
 2019-04-04,Libya,LBY,105,105,1207.0,1217.0,CAF
 2019-04-04,Cameroon,CMR,54,56,1399.0,1394.0,CAF
@@ -59589,7 +59589,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2019-06-14,Japan,JPN,28,26,1496.0,1494.0,AFC
 2019-06-14,United States,USA,30,24,1495.0,1506.0,CONCACAF
 2019-06-14,Slovakia,SVK,31,32,1491.0,1482.0,UEFA
-2019-06-14,Republic of Ireland,IRL,32,29,1489.0,1484.0,UEFA
+2019-06-14,Ireland,IRL,32,29,1489.0,1484.0,UEFA
 2019-06-14,Venezuela,VEN,33,29,1485.0,1484.0,CONMEBOL
 2019-06-14,Serbia,SRB,34,29,1477.0,1484.0,UEFA
 2019-06-14,Iceland,ISL,35,40,1473.0,1450.0,UEFA
@@ -59802,7 +59802,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2019-07-25,Tunisia,TUN,29,25,1496.0,1501.0,CAF
 2019-07-25,Northern Ireland,NIR,29,28,1496.0,1496.0,UEFA
 2019-07-25,Slovakia,SVK,31,31,1491.0,1491.0,UEFA
-2019-07-25,Republic of Ireland,IRL,32,32,1489.0,1489.0,UEFA
+2019-07-25,Ireland,IRL,32,32,1489.0,1489.0,UEFA
 2019-07-25,Nigeria,NGA,33,45,1481.0,1433.0,CAF
 2019-07-25,Japan,JPN,33,28,1481.0,1496.0,AFC
 2019-07-25,Serbia,SRB,35,34,1477.0,1477.0,UEFA
@@ -60011,7 +60011,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2019-09-19,India,IND,104,103,1207.0,1214.0,AFC
 2019-09-19,New Caledonia,NCL,154,154,1035.0,1035.0,OFC
 2019-09-19,Estonia,EST,102,100,1212.0,1228.0,UEFA
-2019-09-19,Republic of Ireland,IRL,28,32,1496.0,1489.0,UEFA
+2019-09-19,Ireland,IRL,28,32,1496.0,1489.0,UEFA
 2019-09-19,Tunisia,TUN,29,29,1493.0,1496.0,CAF
 2019-09-19,Slovakia,SVK,29,31,1493.0,1491.0,UEFA
 2019-09-19,Romania,ROU,31,28,1490.0,1497.0,UEFA
@@ -60205,7 +60205,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2019-10-24,South Korea,KOR,39,37,1466.0,1470.0,AFC
 2019-10-24,Algeria,ALG,38,38,1469.0,1466.0,CAF
 2019-10-24,Russia,RUS,37,42,1474.0,1455.0,UEFA
-2019-10-24,Republic of Ireland,IRL,36,28,1480.0,1496.0,UEFA
+2019-10-24,Ireland,IRL,36,28,1480.0,1496.0,UEFA
 2019-10-24,Nigeria,NGA,35,34,1481.0,1482.0,CAF
 2019-10-24,Northern Ireland,NIR,34,33,1483.0,1488.0,UEFA
 2019-10-24,Serbia,SRB,33,35,1485.0,1476.0,UEFA
@@ -60433,7 +60433,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2019-11-28,Nigeria,NGA,31,35,1493.0,1481.0,CAF
 2019-11-28,Slovakia,SVK,32,31,1490.0,1493.0,UEFA
 2019-11-28,Iran,IRN,33,27,1489.0,1505.0,AFC
-2019-11-28,Republic of Ireland,IRL,34,36,1486.0,1480.0,UEFA
+2019-11-28,Ireland,IRL,34,36,1486.0,1480.0,UEFA
 2019-11-28,Algeria,ALG,35,38,1482.0,1469.0,CAF
 2019-11-28,Northern Ireland,NIR,36,34,1476.0,1483.0,UEFA
 2019-11-28,Romania,ROU,37,29,1475.0,1495.0,UEFA
@@ -60640,7 +60640,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2019-12-19,Nigeria,NGA,31,31,1493.0,1493.0,CAF
 2019-12-19,Slovakia,SVK,32,32,1490.0,1490.0,UEFA
 2019-12-19,Iran,IRN,33,33,1489.0,1489.0,AFC
-2019-12-19,Republic of Ireland,IRL,34,34,1486.0,1486.0,UEFA
+2019-12-19,Ireland,IRL,34,34,1486.0,1486.0,UEFA
 2019-12-19,Algeria,ALG,35,35,1482.0,1482.0,CAF
 2019-12-19,Northern Ireland,NIR,36,36,1476.0,1476.0,UEFA
 2019-12-19,Romania,ROU,37,37,1475.0,1475.0,UEFA
@@ -60854,7 +60854,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2020-02-20,Nigeria,NGA,31,31,1493.0,1493.0,CAF
 2020-02-20,Slovakia,SVK,32,32,1490.0,1490.0,UEFA
 2020-02-20,Iran,IRN,33,33,1489.0,1489.0,AFC
-2020-02-20,Republic of Ireland,IRL,34,34,1486.0,1486.0,UEFA
+2020-02-20,Ireland,IRL,34,34,1486.0,1486.0,UEFA
 2020-02-20,Algeria,ALG,35,35,1482.0,1482.0,CAF
 2020-02-20,Northern Ireland,NIR,36,36,1476.0,1476.0,UEFA
 2020-02-20,Romania,ROU,37,37,1475.0,1475.0,UEFA
@@ -61055,7 +61055,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2020-04-09,Slovakia,SVK,32,32,1490.0,1490.0,UEFA
 2020-04-09,Iran,IRN,33,33,1489.0,1489.0,AFC
 2020-04-09,Ukraine,UKR,24,24,1537.0,1537.0,UEFA
-2020-04-09,Republic of Ireland,IRL,34,34,1486.0,1486.0,UEFA
+2020-04-09,Ireland,IRL,34,34,1486.0,1486.0,UEFA
 2020-04-09,Northern Ireland,NIR,36,36,1476.0,1476.0,UEFA
 2020-04-09,Romania,ROU,37,37,1475.0,1475.0,UEFA
 2020-04-09,Russia,RUS,38,38,1470.0,1470.0,UEFA
@@ -61277,7 +61277,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2020-06-11,Nigeria,NGA,31,31,1493.0,1493.0,CAF
 2020-06-11,Slovakia,SVK,32,32,1490.0,1490.0,UEFA
 2020-06-11,Iran,IRN,33,33,1489.0,1489.0,AFC
-2020-06-11,Republic of Ireland,IRL,34,34,1486.0,1486.0,UEFA
+2020-06-11,Ireland,IRL,34,34,1486.0,1486.0,UEFA
 2020-06-11,Algeria,ALG,35,35,1482.0,1482.0,CAF
 2020-06-11,Northern Ireland,NIR,36,36,1476.0,1476.0,UEFA
 2020-06-11,Romania,ROU,37,37,1475.0,1475.0,UEFA
@@ -61389,7 +61389,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2020-07-16,Belgium,BEL,1,1,1765.0,1765.0,UEFA
 2020-07-16,Turks and Caicos Islands,TCA,203,203,862.0,862.0,CONCACAF
 2020-07-16,Netherlands,NED,14,14,1604.0,1604.0,UEFA
-2020-07-16,Republic of Ireland,IRL,34,34,1486.0,1486.0,UEFA
+2020-07-16,Ireland,IRL,34,34,1486.0,1486.0,UEFA
 2020-07-16,Sri Lanka,SRI,206,206,853.0,853.0,AFC
 2020-07-16,Zimbabwe,ZIM,111,111,1180.0,1180.0,CAF
 2020-07-16,Andorra,AND,135,135,1082.0,1082.0,UEFA
@@ -61667,7 +61667,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2020-09-17,Romania,ROU,34,37,1483.0,1475.0,UEFA
 2020-09-17,Algeria,ALG,35,35,1482.0,1482.0,CAF
 2020-09-17,Slovakia,SVK,36,32,1479.0,1490.0,UEFA
-2020-09-17,Republic of Ireland,IRL,37,34,1475.0,1486.0,UEFA
+2020-09-17,Ireland,IRL,37,34,1475.0,1486.0,UEFA
 2020-09-17,Burkina Faso,BFA,59,59,1381.0,1381.0,CAF
 2020-09-17,DR Congo,COD,57,56,1389.0,1389.0,CAF
 2020-09-17,Mali,MLI,57,56,1389.0,1389.0,CAF
@@ -61909,7 +61909,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2020-10-22,Turkey,TUR,33,32,1486.0,1485.0,UEFA
 2020-10-22,Russia,RUS,34,32,1480.0,1485.0,UEFA
 2020-10-22,Paraguay,PAR,35,40,1476.0,1461.0,CONMEBOL
-2020-10-22,Republic of Ireland,IRL,36,37,1467.0,1475.0,UEFA
+2020-10-22,Ireland,IRL,36,37,1467.0,1475.0,UEFA
 2020-10-22,Slovakia,SVK,37,36,1466.0,1479.0,UEFA
 2020-10-22,Japan,JPN,27,28,1503.0,1500.0,AFC
 2020-10-22,South Korea,KOR,38,39,1464.0,1464.0,AFC
@@ -62121,7 +62121,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2020-11-26,Venezuela,VEN,28,28,1501.0,1493.0,CONMEBOL
 2020-11-26,Russia,RUS,39,34,1461.0,1480.0,UEFA
 2020-11-26,Australia,AUS,41,42,1457.0,1457.0,AFC
-2020-11-26,Republic of Ireland,IRL,42,36,1456.0,1467.0,UEFA
+2020-11-26,Ireland,IRL,42,36,1456.0,1467.0,UEFA
 2020-11-26,Czechia,CZE,42,45,1456.0,1446.0,UEFA
 2020-11-26,Norway,NOR,44,43,1450.0,1456.0,UEFA
 2020-11-26,Northern Ireland,NIR,45,41,1440.0,1458.0,UEFA
@@ -62299,7 +62299,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2020-12-10,Iceland,ISL,46,46,1438.0,1438.0,UEFA
 2020-12-10,Northern Ireland,NIR,45,45,1440.0,1440.0,UEFA
 2020-12-10,Norway,NOR,44,44,1450.0,1450.0,UEFA
-2020-12-10,Republic of Ireland,IRL,42,42,1456.0,1456.0,UEFA
+2020-12-10,Ireland,IRL,42,42,1456.0,1456.0,UEFA
 2020-12-10,Czechia,CZE,42,42,1456.0,1456.0,UEFA
 2020-12-10,Australia,AUS,41,41,1457.0,1457.0,AFC
 2020-12-10,Hungary,HUN,40,40,1460.0,1460.0,UEFA
@@ -62616,7 +62616,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2021-02-18,Russia,RUS,39,39,1461.0,1461.0,UEFA
 2021-02-18,Hungary,HUN,40,40,1460.0,1460.0,UEFA
 2021-02-18,Australia,AUS,41,41,1457.0,1457.0,AFC
-2021-02-18,Republic of Ireland,IRL,42,42,1456.0,1456.0,UEFA
+2021-02-18,Ireland,IRL,42,42,1456.0,1456.0,UEFA
 2021-02-18,Czechia,CZE,42,42,1456.0,1456.0,UEFA
 2021-02-18,Norway,NOR,44,44,1450.0,1450.0,UEFA
 2021-02-18,Northern Ireland,NIR,45,45,1440.0,1440.0,UEFA
@@ -62758,7 +62758,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2021-04-07,Scotland,SCO,44,48,1441.43,1436.0,UEFA
 2021-04-07,Jamaica,JAM,45,47,1432.65,1437.0,CONCACAF
 2021-04-07,Egypt,EGY,46,49,1432.63,1432.0,CAF
-2021-04-07,Republic of Ireland,IRL,47,42,1427.22,1456.0,UEFA
+2021-04-07,Ireland,IRL,47,42,1427.22,1456.0,UEFA
 2021-04-07,Northern Ireland,NIR,48,45,1425.74,1440.0,UEFA
 2021-04-07,Ghana,GHA,49,52,1425.26,1424.0,CAF
 2021-04-07,South Korea,KOR,39,38,1460.25,1465.0,AFC
@@ -62968,7 +62968,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2021-05-27,Scotland,SCO,44,44,1441.43,1441.43,UEFA
 2021-05-27,Jamaica,JAM,45,45,1432.65,1432.65,CONCACAF
 2021-05-27,Egypt,EGY,46,46,1432.63,1432.63,CAF
-2021-05-27,Republic of Ireland,IRL,47,47,1427.22,1427.22,UEFA
+2021-05-27,Ireland,IRL,47,47,1427.22,1427.22,UEFA
 2021-05-27,Northern Ireland,NIR,48,48,1425.74,1425.74,UEFA
 2021-05-27,Ghana,GHA,49,49,1425.26,1425.26,CAF
 2021-05-27,Costa Rica,CRC,50,50,1423.4,1423.4,CONCACAF
@@ -63114,7 +63114,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2021-08-12,Bulgaria,BUL,75,71,1334.83,1339.03,UEFA
 2021-08-12,Jamaica,JAM,50,45,1423.06,1432.65,CONCACAF
 2021-08-12,Greece,GRE,48,51,1427.04,1418.7,UEFA
-2021-08-12,Republic of Ireland,IRL,47,47,1429.44,1427.22,UEFA
+2021-08-12,Ireland,IRL,47,47,1429.44,1427.22,UEFA
 2021-08-12,Chile,CHI,20,19,1557.81,1569.52,CONMEBOL
 2021-08-12,Wales,WAL,19,17,1567.29,1570.36,UEFA
 2021-08-12,Croatia,CRO,18,14,1594.36,1605.75,UEFA
@@ -63342,7 +63342,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2021-09-16,Ukraine,UKR,27,25,1520.07,1522.7,UEFA
 2021-09-16,Serbia,SRB,28,29,1515.97,1507.19,UEFA
 2021-09-16,Canada,CAN,51,59,1416.23,1399.35,CONCACAF
-2021-09-16,Republic of Ireland,IRL,50,47,1418.7,1429.44,UEFA
+2021-09-16,Ireland,IRL,50,47,1418.7,1429.44,UEFA
 2021-09-16,Venezuela,VEN,49,40,1434.14,1463.3,CONMEBOL
 2021-09-16,Egypt,EGY,48,46,1434.62,1432.63,CAF
 2021-09-16,Northern Ireland,NIR,47,51,1435.06,1422.29,UEFA
@@ -63523,7 +63523,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2021-10-21,Armenia,ARM,89,89,1257.17,1262.4,UEFA
 2021-10-21,Ivory Coast,CIV,53,54,1424.12,1410.56,CAF
 2021-10-21,Japan,JPN,28,26,1517.69,1520.46,AFC
-2021-10-21,Republic of Ireland,IRL,51,50,1430.59,1418.7,UEFA
+2021-10-21,Ireland,IRL,51,50,1430.59,1418.7,UEFA
 2021-10-21,Poland,POL,23,24,1542.2,1531.82,UEFA
 2021-10-21,Iran,IRN,22,22,1545.02,1538.08,AFC
 2021-10-21,Chile,CHI,21,23,1546.26,1536.53,CONMEBOL
@@ -63709,7 +63709,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2021-11-19,Hungary,HUN,39,43,1465.62,1449.08,UEFA
 2021-11-19,Scotland,SCO,38,42,1471.82,1451.37,UEFA
 2021-11-19,Turkey,TUR,37,39,1472.72,1460.53,UEFA
-2021-11-19,Republic of Ireland,IRL,47,51,1444.29,1430.59,UEFA
+2021-11-19,Ireland,IRL,47,51,1444.29,1430.59,UEFA
 2021-11-19,Nigeria,NGA,36,36,1478.78,1478.18,CAF
 2021-11-19,Burkina Faso,BFA,60,61,1397.64,1400.56,CAF
 2021-11-19,Iceland,ISL,62,62,1385.21,1397.49,UEFA
@@ -63985,7 +63985,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2021-12-23,Cameroon,CMR,50,50,1437.35,1437.35,CAF
 2021-12-23,Costa Rica,CRC,49,49,1437.43,1437.43,CONCACAF
 2021-12-23,Qatar,QAT,48,51,1437.91,1431.01,AFC
-2021-12-23,Republic of Ireland,IRL,47,47,1444.29,1444.29,UEFA
+2021-12-23,Ireland,IRL,47,47,1444.29,1444.29,UEFA
 2021-12-23,Ecuador,ECU,46,46,1448.27,1448.74,CONMEBOL
 2021-12-23,Egypt,EGY,45,45,1451.77,1449.51,CAF
 2021-12-23,Romania,ROU,44,44,1453.18,1453.18,UEFA
@@ -64294,7 +64294,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2022-02-10,Ivory Coast,CIV,51,56,1439.62,1417.86,CAF
 2022-02-10,Paraguay,PAR,50,43,1440.53,1454.52,CONMEBOL
 2022-02-10,Bulgaria,BUL,71,71,1345.47,1345.47,UEFA
-2022-02-10,Republic of Ireland,IRL,49,47,1444.29,1444.29,UEFA
+2022-02-10,Ireland,IRL,49,47,1444.29,1444.29,UEFA
 2022-02-10,Qatar,QAT,52,48,1437.91,1437.91,AFC
 2022-02-10,Saudi Arabia,KSA,53,51,1433.95,1434.71,AFC
 2022-02-10,Northern Ireland,NIR,54,54,1424.97,1424.97,UEFA
@@ -64395,7 +64395,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2022-03-31,Paraguay,PAR,50,50,1443.3,1440.53,CONMEBOL
 2022-03-31,Saudi Arabia,KSA,49,53,1444.69,1433.95,AFC
 2022-03-31,Romania,ROU,48,47,1446.54,1453.18,UEFA
-2022-03-31,Republic of Ireland,IRL,47,49,1449.48,1444.29,UEFA
+2022-03-31,Ireland,IRL,47,49,1449.48,1444.29,UEFA
 2022-03-31,Ecuador,ECU,46,44,1452.63,1458.63,CONMEBOL
 2022-03-31,Slovakia,SVK,45,46,1454.98,1455.36,UEFA
 2022-03-31,Algeria,ALG,44,43,1461.26,1460.93,CAF
@@ -64610,7 +64610,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2022-06-23,Paraguay,PAR,50,50,1440.13,1443.3,CONMEBOL
 2022-06-23,Qatar,QAT,49,51,1441.41,1441.41,AFC
 2022-06-23,Greece,GRE,48,55,1441.45,1421.43,UEFA
-2022-06-23,Republic of Ireland,IRL,47,47,1442.48,1449.48,UEFA
+2022-06-23,Ireland,IRL,47,47,1442.48,1449.48,UEFA
 2022-06-23,Cyprus,CYP,107,105,1180.52,1186.09,UEFA
 2022-06-23,Mali,MLI,46,52,1447.74,1436.62,CAF
 2022-06-23,Ecuador,ECU,44,46,1463.74,1452.63,CONMEBOL
@@ -64891,7 +64891,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2022-08-25,Senegal,SEN,18,18,1584.59,1593.45,CAF
 2022-08-25,Wales,WAL,19,19,1582.13,1582.13,UEFA
 2022-08-25,Mali,MLI,46,46,1442.88,1447.74,CAF
-2022-08-25,Republic of Ireland,IRL,47,47,1442.48,1442.48,UEFA
+2022-08-25,Ireland,IRL,47,47,1442.48,1442.48,UEFA
 2022-08-25,Qatar,QAT,48,49,1441.97,1441.41,AFC
 2022-08-25,Greece,GRE,49,48,1441.45,1441.45,UEFA
 2022-08-25,Uzbekistan,UZB,77,77,1306.63,1306.63,AFC
@@ -65027,7 +65027,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2022-10-06,Japan,JPN,24,24,1559.54,1554.69,AFC
 2022-10-06,Sweden,SWE,25,20,1553.33,1563.44,UEFA
 2022-10-06,Poland,POL,26,26,1548.59,1546.18,UEFA
-2022-10-06,Republic of Ireland,IRL,49,47,1440.19,1442.48,UEFA
+2022-10-06,Ireland,IRL,49,47,1440.19,1442.48,UEFA
 2022-10-06,Ivory Coast,CIV,48,52,1443.06,1435.91,CAF
 2022-10-06,Paraguay,PAR,47,50,1448.77,1440.13,CONMEBOL
 2022-10-06,Mali,MLI,46,46,1448.85,1442.88,CAF
@@ -65243,7 +65243,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2022-12-22,Iran,IRN,24,20,1551.73,1564.61,AFC
 2022-12-22,South Korea,KOR,25,28,1539.49,1530.3,AFC
 2022-12-22,Ukraine,UKR,26,27,1536.99,1536.99,UEFA
-2022-12-22,Republic of Ireland,IRL,48,49,1438.59,1440.19,UEFA
+2022-12-22,Ireland,IRL,48,49,1438.59,1440.19,UEFA
 2022-12-22,Ivory Coast,CIV,47,48,1441.49,1443.06,CAF
 2022-12-22,Paraguay,PAR,46,47,1445.06,1448.77,CONMEBOL
 2022-12-22,Mali,MLI,45,46,1449.05,1448.85,CAF
@@ -65487,7 +65487,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2023-04-06,Korea DPR,PRK,115,112,1169.96,1169.96,AFC
 2023-04-06,Canada,CAN,47,53,1442.66,1431.64,CONCACAF
 2023-04-06,Paraguay,PAR,48,46,1440.65,1445.06,CONMEBOL
-2023-04-06,Republic of Ireland,IRL,49,48,1436.31,1438.59,UEFA
+2023-04-06,Ireland,IRL,49,48,1436.31,1438.59,UEFA
 2023-04-06,Burkina Faso,BFA,50,50,1433.91,1434.81,CAF
 2023-04-06,Slovakia,SVK,51,54,1433.77,1425.58,UEFA
 2023-04-06,Greece,GRE,52,51,1433.01,1433.59,UEFA
@@ -65703,7 +65703,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2023-06-29,Greece,GRE,49,52,1441.06,1433.01,UEFA
 2023-06-29,Mali,MLI,50,53,1438.01,1430.75,CAF
 2023-06-29,Ivory Coast,CIV,51,45,1433.38,1449.95,CAF
-2023-06-29,Republic of Ireland,IRL,52,49,1426.26,1436.31,UEFA
+2023-06-29,Ireland,IRL,52,49,1426.26,1436.31,UEFA
 2023-06-29,Saudi Arabia,KSA,53,54,1421.46,1421.46,AFC
 2023-06-29,Norway,NOR,44,44,1458.47,1463.77,UEFA
 2023-06-29,Finland,FIN,54,56,1419.47,1405.31,UEFA
@@ -65901,7 +65901,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2023-07-20,Australia,AUS,27,27,1530.45,1530.45,AFC
 2023-07-20,New Zealand,NZL,103,103,1199.04,1199.04,OFC
 2023-07-20,Kazakhstan,KAZ,104,104,1198.24,1198.24,UEFA
-2023-07-20,Republic of Ireland,IRL,53,52,1426.26,1426.26,UEFA
+2023-07-20,Ireland,IRL,53,52,1426.26,1426.26,UEFA
 2023-07-20,Congo,CGO,106,106,1190.63,1190.63,CAF
 2023-07-20,Nepal,NEP,175,175,958.05,959.36,AFC
 2023-07-20,Grenada,GRN,174,174,960.77,960.77,CONCACAF
@@ -66190,7 +66190,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2023-09-21,Paraguay,PAR,52,49,1432.08,1442.64,CONMEBOL
 2023-09-21,Venezuela,VEN,53,57,1422.83,1417.23,CONMEBOL
 2023-09-21,Finland,FIN,54,55,1418.43,1419.47,UEFA
-2023-09-21,Republic of Ireland,IRL,55,53,1416.32,1426.26,UEFA
+2023-09-21,Ireland,IRL,55,53,1416.32,1426.26,UEFA
 2023-09-21,Saudi Arabia,KSA,57,54,1412.82,1421.46,AFC
 2023-09-21,Burkina Faso,BFA,58,56,1408.87,1419.18,CAF
 2023-09-21,Slovenia,SVN,59,61,1404.72,1391.04,UEFA
@@ -66222,7 +66222,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2023-10-26,Qatar,QAT,61,61,1394.16,1395.57,AFC
 2023-10-26,Ghana,GHA,60,60,1394.74,1400.0,CAF
 2023-10-26,Albania,ALB,59,62,1396.83,1377.47,UEFA
-2023-10-26,Republic of Ireland,IRL,58,55,1406.94,1416.32,UEFA
+2023-10-26,Ireland,IRL,58,55,1406.94,1416.32,UEFA
 2023-10-26,Jamaica,JAM,55,56,1421.39,1413.73,CONCACAF
 2023-10-26,Burkina Faso,BFA,56,58,1410.59,1408.87,CAF
 2023-10-26,Georgia,GEO,76,79,1312.14,1299.32,UEFA
@@ -66434,7 +66434,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2023-11-30,Iraq,IRQ,63,68,1365.98,1349.73,AFC
 2023-11-30,Albania,ALB,62,59,1382.69,1396.83,UEFA
 2023-11-30,Ghana,GHA,61,60,1384.19,1394.74,CAF
-2023-11-30,Republic of Ireland,IRL,60,58,1399.6,1406.94,UEFA
+2023-11-30,Ireland,IRL,60,58,1399.6,1406.94,UEFA
 2023-11-30,Finland,FIN,59,62,1401.31,1388.46,UEFA
 2023-11-30,Qatar,QAT,58,61,1407.3,1394.16,AFC
 2023-11-30,Burkina Faso,BFA,57,56,1411.01,1410.59,CAF
@@ -66643,7 +66643,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2023-12-21,United Arab Emirates,UAE,64,64,1364.46,1364.46,AFC
 2023-12-21,Albania,ALB,62,62,1382.69,1382.69,UEFA
 2023-12-21,Ghana,GHA,61,61,1384.19,1384.19,CAF
-2023-12-21,Republic of Ireland,IRL,60,60,1399.6,1399.6,UEFA
+2023-12-21,Ireland,IRL,60,60,1399.6,1399.6,UEFA
 2023-12-21,Finland,FIN,59,59,1401.31,1401.31,UEFA
 2023-12-21,Qatar,QAT,58,58,1407.3,1407.3,AFC
 2023-12-21,Burkina Faso,BFA,57,57,1411.01,1411.01,CAF
@@ -67039,7 +67039,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2024-02-15,Burkina Faso,BFA,61,57,1399.92,1411.01,CAF
 2024-02-15,Slovenia,SVN,55,54,1431.4,1427.84,UEFA
 2024-02-15,DR Congo,COD,63,67,1388.25,1356.66,CAF
-2024-02-15,Republic of Ireland,IRL,62,60,1399.6,1399.6,UEFA
+2024-02-15,Ireland,IRL,62,60,1399.6,1399.6,UEFA
 2024-02-15,Montenegro,MNE,72,70,1342.64,1342.64,UEFA
 2024-02-15,Jordan,JOR,70,87,1343.6,1272.63,AFC
 2024-02-15,United Arab Emirates,UAE,69,64,1355.55,1364.46,AFC
@@ -67181,7 +67181,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2024-04-04,Slovenia,SVN,57,55,1427.84,1431.4,UEFA
 2024-04-04,Iraq,IRQ,58,59,1420.47,1409.44,AFC
 2024-04-04,South Africa,RSA,59,58,1407.67,1410.23,CAF
-2024-04-04,Republic of Ireland,IRL,60,62,1399.74,1399.6,UEFA
+2024-04-04,Ireland,IRL,60,62,1399.74,1399.6,UEFA
 2024-04-04,Finland,FIN,61,60,1394.44,1401.31,UEFA
 2024-04-04,Burkina Faso,BFA,62,61,1390.38,1399.92,CAF
 2024-04-04,Saudi Arabia,KSA,53,53,1443.53,1441.4,AFC
@@ -67276,7 +67276,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2024-06-20,Finland,FIN,63,61,1393.4,1394.44,UEFA
 2024-06-20,Uzbekistan,UZB,62,64,1397.41,1386.58,AFC
 2024-06-20,DR Congo,COD,61,63,1400.93,1388.25,CAF
-2024-06-20,Republic of Ireland,IRL,60,60,1403.84,1399.74,UEFA
+2024-06-20,Ireland,IRL,60,60,1403.84,1399.74,UEFA
 2024-06-20,Iraq,IRQ,55,58,1433.07,1420.47,AFC
 2024-06-20,South Africa,RSA,59,59,1416.66,1407.67,CAF
 2024-06-20,Saudi Arabia,KSA,56,53,1431.3,1443.53,AFC
@@ -67532,7 +67532,7 @@ date,country,abbreviation,rank,prev_rank,points,prev_points,confed
 2025-10-17,South Africa,RSA,59,55,1423.17,1416.66,CAF
 2025-10-17,DR Congo,COD,60,60,1421.32,1400.93,CAF
 2025-10-17,Albania,ALB,61,66,1401.34,1379.4,UEFA
-2025-10-17,Republic of Ireland,IRL,62,61,1401.18,1403.84,UEFA
+2025-10-17,Ireland,IRL,62,61,1401.18,1403.84,UEFA
 2025-10-17,Burkina Faso,BFA,63,64,1398.05,1375.16,CAF
 2025-10-17,Honduras,HON,64,65,1396.23,1313.05,CONCACAF
 2025-10-17,North Macedonia,MKD,65,63,1390.6,1348.63,UEFA
