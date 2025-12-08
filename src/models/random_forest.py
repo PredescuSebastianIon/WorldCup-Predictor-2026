@@ -25,15 +25,15 @@ label_encoders = {}
 # This list is based on your traceback error showing 'Korea Republic' missing.
 all_possible_teams = list(df["home_team"].unique()) + list(df["away_team"].unique())
 # Add 'Korea Republic' and ensure uniqueness, just in case:
-all_possible_teams = list(set(all_possible_teams + ['Korea Republic', 'South Korea', 
-                                                    'Serbia', 'Côte d\'Ivoire', 
+all_possible_teams = list(set(all_possible_teams + ['Korea Republic', 'South Korea',
+                                                    'Serbia', 'Côte d\'Ivoire',
                                                     'Cabo Verde', 'Chile', 'Iceland'])) # Add any other missing teams here!
 
 for col in team_cols:
     le = LabelEncoder()
     # Fit the LabelEncoder on the full, comprehensive list of teams.
-    le.fit(all_possible_teams) 
-    
+    le.fit(all_possible_teams)
+
     # Transform the DataFrame columns using the newly fitted encoder.
     df[col] = le.transform(df[col])
     label_encoders[col] = le
@@ -72,10 +72,10 @@ forest_model.fit(X_train, y_train)
 y_pred = forest_model.predict(X_test)
 
 print(f"Random Forest model Accuracy: {accuracy_score(y_test, y_pred) * 100:.2f}%")
-print(classification_report(y_test, y_pred))
+# print(classification_report(y_test, y_pred))
 
-importances = pd.Series(forest_model.feature_importances_, index=features)
-print(importances.sort_values(ascending=False))
+# importances = pd.Series(forest_model.feature_importances_, index=features)
+# print(importances.sort_values(ascending=False))
 
 def predict_match_with_random_forest(home_team, away_team, year):
     numeric_cols = [

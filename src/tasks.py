@@ -19,7 +19,7 @@ def see_app(c):
     """
     c.run('python -m webbrowser http://127.0.0.1:7860', pty=True)
 
-@task(name = "build", 
+@task(name = "build",
       help = {
           "background": "Add --background for background process (default is foreground)"
     })
@@ -60,10 +60,16 @@ def scrape(c):
 
 @task(name = "fifa-latest")
 def fifa_latest(c):
+    """
+    Fetch and save latest FIFA rankings (fifa_latest.csv)
+    """
     fetch_latest()
 
 @task(name = "merge")
 def merge_task(c):
+    """
+    Merge historical and latest FIFA ranking snapshots into merged_data.csv
+    """
     merge_data()
 
 @task(name = "model")
@@ -75,9 +81,15 @@ def create_models(c, model_name):
     """
     if model_name == "logistic":
         c.run(f"python {MODELS_DIR}/logistic_regression.py")
-    
+
     if model_name == "ridge":
         c.run(f"python {MODELS_DIR}/ridge_classifier_cv.py")
+
+    if model_name == "forest":
+        c.run(f"python {MODELS_DIR}/random_forest.py")
+
+    if model_name == "poisson":
+        c.run(f"python {MODELS_DIR}/poisson_regressor.py")
 
 @task(name="filter-matches")
 def filter_matches_task(c, min_year=1993):
