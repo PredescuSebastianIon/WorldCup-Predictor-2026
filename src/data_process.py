@@ -88,6 +88,7 @@ def merge():
         "Curaçao": "Curacao",
         "Congo DR": "DR Congo",
         "Czech Republic": "Czechia",
+        "Republic of Ireland": "Ireland"
     })
 
     # Enforce integer types for rank

@@ -7,3 +7,12 @@ from .ridge_classifier_cv import ridge_model
 
 from .random_forest import forest_model
 from .random_forest import predict_match_with_random_forest
+
+from .poisson_regressor import (
+    load_datasets,
+    train_poisson_models,
+    predict_match as predict_match_with_poisson_regressor,
+    scoreline_probabilities,
+    MatchPrediction,
+    tune_poisson_alpha
+)
